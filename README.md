@@ -99,7 +99,7 @@ _Note: The years are not always in sync, as this calendar's new year occurs over
 
 Observation-based calendars embrace the non-uniform motion of the Earth around the Sun, as well as the short-term perturbations. The future can never be predicted with absolute certainty, due to the dynamic nature of the universe. The only way to know with _absolute certainty_ the instant of the northward equinox is through observation.
 
-Still, calendars like this and the Iranian calendar are the most accurate in use today. The instant of the northward equinox is now measured to an accuracy of better than 1 millisecond ([Heydari-Malayeri, 2004](http://aramis.obspm.fr/~heydari/divers/ir-cal-eng.html)).
+Calendars like this and the Iranian calendar are the most accurate in use today. The instant of the northward equinox is now measured to an accuracy of better than 1 millisecond ([Heydari-Malayeri, 2004](http://aramis.obspm.fr/~heydari/divers/ir-cal-eng.html)).
 
 ## What it's not
 
