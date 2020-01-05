@@ -36,7 +36,7 @@ A [perennial](https://en.wikipedia.org/wiki/Perennial_calendar) [solar calendar]
 
 ### New Year
 
-> The calendar year begins at the midnight closest to the instant of the northward equinox. Consequently, if the northward equinox falls before solar noon on a particular day, then that day is the first day of the year. If the northward equinox occurs after solar noon, the following day begins the calendar year. ([Heydari-Malayeri, 2004][1])
+> The calendar year begins at the midnight closest to the instant of the northward equinox. Consequently, if the northward equinox falls before solar noon on a particular day, then that day is the first day of the year. If the northward equinox occurs after solar noon, the following day begins the calendar year.
 
 - This may be calculated for the prime meridian ([Meeus, 2002][4]) or observed locally (even with a [sundial](https://en.wikipedia.org/wiki/Sundial))
   - Calculations should be based on the instant of the northward equinox at the prime meridian <sup>[[3](#notes)]</sup>
@@ -58,18 +58,19 @@ The names "octal", "nonad" and "trio" are descriptive only.
 ### Structure
 
 - The year has 360 common days and 5 (common year) or 6 (leap year) intercalary days
-- The year is divided into 4 equal quarters, of 1 intercalary and 90 common days
-  - The intercalary day is day 0 of the quarter and represents the equinox/solstice
-- The year's 360 common days may also be divided
+- The year is divided into 4 equal quarters, each having 91 days
+  - 1 intercalary day that represents the equinox/solstice (day 0 of the quarter)
+  - 90 common days
+- The year's 360 common days may be divided as follows
   - Proposed division: 8 octals ("months") and 40 nonads ("weeks")
     - 8 octals of 45 days, 2 octals per quarter
     - 40 nonads of 9 days, 10 nonads per quarter
-      - Each nonad may be further divided into 3 trios of 3 days, enabling very flexible work/rest schedules
+      - Each nonad may be further divided into 3 trios of 3 days
   - Traditional division: 12 "months"
     - 12 months of 30 days, 3 months per quarter
     - Drawback: A month can not fit a whole number of nonands (3.33 per month)
     - Drawback: Traditional month names can not be used, requiring 12 new names
- - The remaining 1 or 2 days at the end of the year are intercalary transition days
+ - The remaining 1 or 2 days at the end of the year are intercalary transition days before the next new year
 
 ### Epoch
 
