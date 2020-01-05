@@ -11,19 +11,19 @@ Basically: **The Iranian calendar with a different meridian, different division 
 
 - The year begins at the northward equinox at the prime meridian (UTC)
 - 360 common days, reflecting a full circle
-  - Plus 5-6 intercalary days
+  - Plus 5 or 6 intercalary days
 - 4 quarters, each having 91 days
   - 1 intercalary day
   - 90 common days
     - Divided into 2, for a total of 8 45-day "months" per year
     - Grouped 3 * 3, for a total of 40 9-day "weeks" per year
-- The remaining 1-2 days at the end of the year are intercalary transition days
+- The remaining 1 or 2 days at the end of the year are intercalary transition days
 - Proposed epoch is the beginning of the human era (10 001 BC)
 
 ### Benefits
 
 - Extremely accurate when based on observations (see [Accuracy](#accuracy))
-- Perennial – dates and "weeks" are fixed to the northward equinox
+- Perennial – dates and "weeks" are always in relation to the northward equinox
 - Structured, yet flexible enough to adapt to different cultures and needs
   - Civil (uniform, simple)
   - Agriculture (seasonal, follows natural cycles)
@@ -33,7 +33,7 @@ Basically: **The Iranian calendar with a different meridian, different division 
 
 ## Definition
 
-#### New Year (intercalation system)
+### New Year (intercalation system)
 
 > The calendar year begins at the midnight closest to the instant of the northward equinox. Consequently, if the northward equinox falls before solar noon on a particular day, then that day is the first day of the year. If the northward equinox occurs after solar noon, the following day begins the calendar year.
 
@@ -42,7 +42,7 @@ Basically: **The Iranian calendar with a different meridian, different division 
 - Local new year can then be easily calculated from this UTC instant using time zone offsets
 - The exact local instant of the northward equinox may be announced and celebrated, similar to [Nowruz](https://en.wikipedia.org/wiki/Nowruz)
 
-#### Units
+### Units
 
 - **year** (360 common days + 5 or 6 intercalary days)
 - **quarter** (1/4 of a year's first 364 days)
@@ -50,7 +50,7 @@ Basically: **The Iranian calendar with a different meridian, different division 
 - **nonad** (9 days)
 - **day** ([24 hours](https://en.wikipedia.org/wiki/Nychthemeron))
 
-#### Structure
+### Structure
 
 - The year has 360 common days and 5 (common year) or 6 (leap year) [intercalary](https://en.wikipedia.org/wiki/Intercalation_(timekeeping)) days
 - The year is divided into 4 equal quarters, of 1 intercalary and 90 common days
@@ -66,7 +66,7 @@ Basically: **The Iranian calendar with a different meridian, different division 
     - Drawback: Traditional month names can not be used, requiring 12 new names
  - The remaining 1 or 2 days at the end of the year are intercalary transition days
 
-#### Epoch
+### Epoch
 
 The calendar's epoch may be the instant of the northward equinox of the [Holocene calendar](https://en.wikipedia.org/wiki/Holocene_calendar)'s epoch (10 001 BC), maintaining the reference to Anno Domini (HE 12020 = AD 2020). Alternatively, [Anno Domini](https://en.wikipedia.org/wiki/Anno_Domini) may be retained.
 
@@ -103,7 +103,7 @@ Calendars like this and the Iranian calendar are the most accurate in use today.
 
 ## What it's not
 
-This calendar does not attempt to:
+#### This calendar does not attempt to:
 
 - Incorporate the traditional 7-day week
 - Incorporate the [lunar phases](https://en.wikipedia.org/wiki/Lunar_phase), as [lunisolar calendars](https://en.wikipedia.org/wiki/Lunisolar_calendar) are inherently complex and irregular
@@ -113,7 +113,8 @@ This calendar does not attempt to:
 
 However, features like these may be applied just as they are applied to existing calendars. For example, the unbroken chain of 7-day weeks may be incorporated just as it is in the Gregorian calendar, with week days retaining their traditional names and cultural/religious significance. The calendar's structure should always remain the same though.
 
-Related calendars:
+#### Related calendars:
+
 - Isaac Asamov's [World Season Calendar](https://en.wikipedia.org/wiki/Isaac_Asimov#Calendar)
 - Peter Meyer's [Liberalia Triday Calendar](https://www.hermetic.ch/cal_stud/ltc/ltc.htm)
 - [Universal Celestial Calendar](https://www.universalcelestialcalendar.com/)
