@@ -1,17 +1,18 @@
 # Calendar
 
-A perennial solar calendar based on astronomical observations or calculations.
+A [perennial](https://en.wikipedia.org/wiki/Perennial_calendar) [solar calendar](https://en.wikipedia.org/wiki/Solar_calendar) based on astronomical observations or calculations.
 
-- Based on the [Iranian calendar](https://en.wikipedia.org/wiki/Solar_Hijri_calendar), which in turn is based on the [Jalali calendar](https://en.wikipedia.org/wiki/Jalali_calendar) of AD 1079
+- Based on the [Iranian calendar](https://en.wikipedia.org/wiki/Solar_Hijri_calendar), which in turn is based on the [Jalali calendar](https://en.wikipedia.org/wiki/Jalali_calendar) of AD 1079 <sup>[[1](#notes)]</sup>
+  - With roots in the [Zoroastrian calendar](https://en.wikipedia.org/wiki/Zoroastrian_calendar) and possibly the [Egyptian calendar](https://en.wikipedia.org/wiki/Egyptian_calendar) <sup>[[2](#notes)]</sup>
 - Follows the real [northward equinox](https://en.wikipedia.org/wiki/March_equinox) year (not to be confused with the mean tropical year)
 
 ### Summary
 
-Basically: **The Iranian calendar with a different meridian, different division of the year and a different epoch.**
+**The Iranian calendar with a different meridian, different division of the year and a different epoch.**
 
-- The year begins at the northward equinox at the prime meridian (UTC)
+- The year begins at the northward (vernal) equinox at the prime meridian (UTC)
 - 360 common days, reflecting a full circle
-  - Plus 5 or 6 intercalary days
+  - Plus 5 or 6 intercalary (epogamenal) days
 - 4 quarters, each having 91 days
   - 1 intercalary day
   - 90 common days
@@ -23,36 +24,40 @@ Basically: **The Iranian calendar with a different meridian, different division 
 ### Benefits
 
 - Extremely accurate when based on observations (see [Accuracy](#accuracy))
-- Perennial – dates and "weeks" are always in relation to the northward equinox
+- Perennial – dates, "weeks" and seasons are always in relation to the northward equinox
 - Structured, yet flexible enough to adapt to different cultures and needs
   - Civil (uniform, simple)
   - Agriculture (seasonal, follows natural cycles)
   - Business (evenly divided, flexible scheduling)
-- Division of the year into 8 and grouping of days into 9 makes it easy to visualize and learn
+- Division of the year into 8 and grouping of days into 9 makes it easy to learn and visualize
 - Grouping of days into 3 * 3 is a very [interesting and powerful idea](https://www.hermetic.ch/cal_stud/ltc/ltc.htm#advantages) by Peter Meyer
 
 ## Definition
 
-### New Year (intercalation system)
+### New Year
 
 > The calendar year begins at the midnight closest to the instant of the northward equinox. Consequently, if the northward equinox falls before solar noon on a particular day, then that day is the first day of the year. If the northward equinox occurs after solar noon, the following day begins the calendar year.
 
 - Solar noon may either be calculated for the prime meridian ([Meeus, 2002](https://www.willbell.com/math/moremorsels.HTM)) or observed locally with a [sundial](https://en.wikipedia.org/wiki/Sundial)
-- Calculations should be based on the instant of the northward equinox at the prime meridian ([0°N 0°E](https://en.wikipedia.org/wiki/Null_Island))
+- Calculations should be based on the instant of the northward equinox at the prime meridian <sup>[[3](#notes)]</sup>
 - Local new year can then be easily calculated from this UTC instant using time zone offsets
-- The exact local instant of the northward equinox may be announced and celebrated, similar to [Nowruz](https://en.wikipedia.org/wiki/Nowruz)
+- The exact local instant of the northward equinox may be announced and celebrated <sup>[[4](#notes)]</sup>
+- Intercalation (leap years) follows the same rules as the Iranian calendar (see [Heydari-Malayeri, 2004](http://aramis.obspm.fr/~heydari/divers/ir-cal-eng.html))
 
 ### Units
 
-- **year** (360 common days + 5 or 6 intercalary days)
+- **year** (360 common days + 5 or 6 [intercalary](https://en.wikipedia.org/wiki/Intercalation_(timekeeping)#Solar_calendars) days)
 - **quarter** (1/4 of a year's first 364 days)
 - **octal** (1/8 of a year's 360 common days)
 - **nonad** (9 days)
+- **trio** (3 days)
 - **day** ([24 hours](https://en.wikipedia.org/wiki/Nychthemeron))
+
+The names "octal", "nonad" and "trio" are descriptive only.
 
 ### Structure
 
-- The year has 360 common days and 5 (common year) or 6 (leap year) [intercalary](https://en.wikipedia.org/wiki/Intercalation_(timekeeping)) days
+- The year has 360 common days and 5 (common year) or 6 (leap year) intercalary days
 - The year is divided into 4 equal quarters, of 1 intercalary and 90 common days
   - The intercalary day is day 0 of the quarter and represents the equinox/solstice
 - The year's 360 common days may also be divided
@@ -68,9 +73,7 @@ Basically: **The Iranian calendar with a different meridian, different division 
 
 ### Epoch
 
-The calendar's epoch may be the instant of the northward equinox of the [Holocene calendar](https://en.wikipedia.org/wiki/Holocene_calendar)'s epoch (10 001 BC), maintaining the reference to Anno Domini (HE 12020 = AD 2020). Alternatively, [Anno Domini](https://en.wikipedia.org/wiki/Anno_Domini) may be retained.
-
-_Note: The years are not always in sync, as this calendar's new year occurs over 3 months after the Gregorian calendar's._
+The calendar's epoch may be the instant of the northward equinox of the [Holocene calendar](https://en.wikipedia.org/wiki/Holocene_calendar)'s epoch (10 001 BC), maintaining the reference to Anno Domini (HE 12020 = AD 2020). Alternatively, [Anno Domini](https://en.wikipedia.org/wiki/Anno_Domini) may be retained. <sup>[[5](#notes)]
 
 ## Notation
 
@@ -78,7 +81,6 @@ _Note: The years are not always in sync, as this calendar's new year occurs over
   - An intercalary quarter-day is day 0 of its quarter
   - An intercalary transition-day belongs to its year, not any of the year's divisions
 - The _naming_ of units may vary by language, locale or culture
-  - The names used here are only descriptive
 - The _formatting_ of dates should be standardized and the same for everyone
   - Day-of-octal (1-45) – Recommended for civil use
     - `[year]-[octal]-[octal-day]`
@@ -97,9 +99,9 @@ _Note: The years are not always in sync, as this calendar's new year occurs over
 
 ## Accuracy
 
-Observation-based calendars embrace the non-uniform motion of the Earth around the Sun, as well as the short-term perturbations. The future can never be predicted with absolute certainty, due to the dynamic nature of the universe. The only way to know with _absolute certainty_ the instant of the northward equinox is through observation.
+Observation-based calendars embrace the non-uniform motion of the Earth around the Sun, as well as the short-term perturbations. The future can never be predicted with absolute certainty, due to the dynamic nature of the universe. The only way to know with _absolute certainty_ the length of the year is through observation.
 
-Calendars like this and the Iranian calendar are the most accurate in use today. The instant of the northward equinox is now measured to an accuracy of better than 1 millisecond ([Heydari-Malayeri, 2004](http://aramis.obspm.fr/~heydari/divers/ir-cal-eng.html)).
+Calendars like this and the Iranian calendar are the most accurate in use today. The instant of the northward equinox can now be measured to an accuracy of better than 1 millisecond ([Heydari-Malayeri, 2004](http://aramis.obspm.fr/~heydari/divers/ir-cal-eng.html)).
 
 ## What it's not
 
@@ -109,11 +111,11 @@ Calendars like this and the Iranian calendar are the most accurate in use today.
 - Incorporate the [lunar phases](https://en.wikipedia.org/wiki/Lunar_phase), as [lunisolar calendars](https://en.wikipedia.org/wiki/Lunisolar_calendar) are inherently complex and irregular
 - Accurately follow the [astronomical seasons](https://en.wikipedia.org/wiki/Season#Astronomical), as their lengths change over time
 - Align with the 12 constellations of the [zodiac](https://en.wikipedia.org/wiki/Zodiac), due to the (lunisolar) [precession of the ecliptic](https://en.wikipedia.org/wiki/Axial_precession)
-- Introduce time scales such as eras or ages – it's just a calendar
+- Introduce time scales or prescribe holidays – it's just a calendar
 
 However, features like these may be applied just as they are applied to existing calendars. For example, the unbroken chain of 7-day weeks may be incorporated just as it is in the Gregorian calendar, with week days retaining their traditional names and cultural/religious significance. The calendar's structure should always remain the same though.
 
-#### Related calendars:
+#### Related proposed calendars:
 
 - Isaac Asamov's [World Season Calendar](https://en.wikipedia.org/wiki/Isaac_Asimov#Calendar)
 - Peter Meyer's [Liberalia Triday Calendar](https://www.hermetic.ch/cal_stud/ltc/ltc.htm)
@@ -122,4 +124,15 @@ However, features like these may be applied just as they are applied to existing
 
 ## Recommended reading
 
-[A concise review of the Iranian calendar](http://aramis.obspm.fr/~heydari/divers/ir-cal-eng.html) (Heydari-Malayeri, 2004)
+- [A concise review of the Iranian calendar](http://aramis.obspm.fr/~heydari/divers/ir-cal-eng.html) (Heydari-Malayeri, 2004)
+- [The Persian calendar for 3000 years](http://www.astro.uni.torun.pl/~kb/Papers/EMP/PersianC-EMP.htm)
+
+---
+
+#### Notes
+
+1. Calendar reform led by the Persian mathematician, astronomer, philosopher, and poet [Omar Khayyâm](https://en.wikipedia.org/wiki/Omar_Khayyam)
+2. Both calendars had 5 "stolen days", possibly a reference to [the Egyptian myth of Nut and Ra](https://en.wikipedia.org/wiki/Nut_(goddess)#Myth_of_Nut_and_Ra)?
+3. Instead of Tehran, this calendar's reference point effectively becomes [Null Island](https://en.wikipedia.org/wiki/Null_Island)
+4. Similar to [Nowruz](https://en.wikipedia.org/wiki/Nowruz)
+5. The year numbers of this and the Gregorian calendar are not always in sync, as this calendar's new year occurs in March of the Gregorian calendar
