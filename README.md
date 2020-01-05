@@ -3,12 +3,13 @@
 A perennial solar calendar based on astronomical observations or calculations.
 
 - Based on the [Iranian calendar](https://en.wikipedia.org/wiki/Solar_Hijri_calendar), which in turn is based on the [Jalali calendar](https://en.wikipedia.org/wiki/Jalali_calendar) of AD 1079
-- Closely follows the real [northward equinox](https://en.wikipedia.org/wiki/March_equinox) year (not to be confused with the mean tropical year)
+- Follows the real [northward equinox](https://en.wikipedia.org/wiki/March_equinox) year (not to be confused with the mean tropical year)
 
 ### Summary
 
-Basically: **The Iranian calendar with a different epoch, different meridian and a different division of the year.**
+Basically: **The Iranian calendar with a different meridian, different division of the year and a different epoch.**
 
+- The year begins at the northward equinox at the prime meridian (UTC)
 - 360 common days, reflecting a full circle
   - Plus 5-6 intercalary days
 - 4 quarters, each having 91 days
@@ -17,7 +18,6 @@ Basically: **The Iranian calendar with a different epoch, different meridian and
     - Divided into 2, for a total of 8 45-day "months" per year
     - Grouped 3 * 3, for a total of 40 9-day "weeks" per year
 - The remaining 1-2 days at the end of the year are intercalary transition days
-- New year is calculated from the instant of the northward equinox at the prime meridian
 - Proposed epoch is the beginning of the human era (10 001 BC)
 
 ### Benefits
@@ -28,14 +28,14 @@ Basically: **The Iranian calendar with a different epoch, different meridian and
   - Civil (uniform, simple)
   - Agriculture (seasonal, follows natural cycles)
   - Business (evenly divided, flexible scheduling)
-- Division of the year into 8 and grouping of days into 9 are both within [the magical number 7 ± 2](https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two)
-  - Grouping days into 3 * 3 is an interesting and powerful [idea by Peter Meyer](https://www.hermetic.ch/cal_stud/ltc/ltc.htm#advantages)
+- Division of the year into 8 and grouping of days into 9 makes it easy to visualize and learn
+- Grouping of days into 3 * 3 is a very [interesting and powerful idea](https://www.hermetic.ch/cal_stud/ltc/ltc.htm#advantages) by Peter Meyer
 
 ## Definition
 
-#### New year
+#### New Year (intercalation system)
 
-> The calendar year begins on the midnight between the two consecutive solar noons, which include the instant of the northward equinox, when the Sun enters the northern hemisphere. Hence, the first noon is on the last day of one calendar year and the second noon is on the first day of the next year.
+> The calendar year begins at the midnight closest to the instant of the northward equinox. Consequently, if the northward equinox falls before solar noon on a particular day, then that day is the first day of the year. If the northward equinox occurs after solar noon, the following day begins the calendar year.
 
 - Solar noon may either be calculated for the prime meridian ([Meeus, 2002](https://www.willbell.com/math/moremorsels.HTM)) or observed locally with a [sundial](https://en.wikipedia.org/wiki/Sundial)
 - Calculations should be based on the instant of the northward equinox at the prime meridian ([0°N 0°E](https://en.wikipedia.org/wiki/Null_Island))
@@ -44,11 +44,11 @@ Basically: **The Iranian calendar with a different epoch, different meridian and
 
 #### Units
 
-- **day** ([24 hours](https://en.wikipedia.org/wiki/Nychthemeron))
+- **year** (360 common days + 5 or 6 intercalary days)
+- **quarter** (1/4 of a year's first 364 days)
+- **octal** (1/8 of a year's 360 common days)
 - **nonad** (9 days)
-- **octal** (1/8 of a year)
-- **quarter** (1/4 of a year)
-- **year**
+- **day** ([24 hours](https://en.wikipedia.org/wiki/Nychthemeron))
 
 #### Structure
 
@@ -70,7 +70,7 @@ Basically: **The Iranian calendar with a different epoch, different meridian and
 
 The calendar's epoch may be the instant of the northward equinox of the [Holocene calendar](https://en.wikipedia.org/wiki/Holocene_calendar)'s epoch (10 001 BC), maintaining the reference to Anno Domini (HE 12020 = AD 2020). Alternatively, [Anno Domini](https://en.wikipedia.org/wiki/Anno_Domini) may be retained.
 
-_Note: The years are not always in sync, as this calendar's new year occurs more than 3 months after the Gregorian calendar's._
+_Note: The years are not always in sync, as this calendar's new year occurs over 3 months after the Gregorian calendar's._
 
 ## Notation
 
@@ -105,12 +105,13 @@ Still, calendars like this and the Iranian calendar are the most accurate in use
 
 This calendar does not attempt to:
 
-- Incorporate the unbroken chain of 7-day weeks
-  - However, weeks may be applied just as in the Gregorian calendar, with the week days retaining their traditional names and cultural/religious significance, if so is desired
-- Incorporate the [lunar phases](https://en.wikipedia.org/wiki/Lunar_phase), [lunisolar calendars](https://en.wikipedia.org/wiki/Lunisolar_calendar) are inherently complex and irregular
-- Accurately follow the [astronomical seasons](https://en.wikipedia.org/wiki/Season#Astronomical), as the lengths of the seasons change over time
+- Incorporate the traditional 7-day week
+- Incorporate the [lunar phases](https://en.wikipedia.org/wiki/Lunar_phase), as [lunisolar calendars](https://en.wikipedia.org/wiki/Lunisolar_calendar) are inherently complex and irregular
+- Accurately follow the [astronomical seasons](https://en.wikipedia.org/wiki/Season#Astronomical), as their lengths change over time
 - Align with the 12 constellations of the [zodiac](https://en.wikipedia.org/wiki/Zodiac), due to the (lunisolar) [precession of the ecliptic](https://en.wikipedia.org/wiki/Axial_precession)
-- Introduce time scales such as eras or ages, it's just a calendar
+- Introduce time scales such as eras or ages – it's just a calendar
+
+However, features like these may be applied just as they are applied to existing calendars. For example, the unbroken chain of 7-day weeks may be incorporated just as it is in the Gregorian calendar, with week days retaining their traditional names and cultural/religious significance. The calendar's structure should always remain the same though.
 
 Related calendars:
 - Isaac Asamov's [World Season Calendar](https://en.wikipedia.org/wiki/Isaac_Asimov#Calendar)
@@ -120,4 +121,4 @@ Related calendars:
 
 ## Recommended reading
 
-- [A concise review of the Iranian calendar](http://aramis.obspm.fr/~heydari/divers/ir-cal-eng.html) (Heydari-Malayeri, 2004)
+[A concise review of the Iranian calendar](http://aramis.obspm.fr/~heydari/divers/ir-cal-eng.html) (Heydari-Malayeri, 2004)
