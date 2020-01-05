@@ -30,19 +30,19 @@ A [perennial](https://en.wikipedia.org/wiki/Perennial_calendar) [solar calendar]
   - Agriculture (seasonal, follows natural cycles)
   - Business (evenly divided, flexible scheduling)
 - Division of the year into 8 and grouping of days into 9 makes it easy to learn and visualize
-- Grouping of days into 3 * 3 is a very [interesting and powerful idea](https://www.hermetic.ch/cal_stud/ltc/ltc.htm#advantages) by Peter Meyer
+- Grouping of days into 3 * 3 is a very [interesting and powerful idea][3] by Peter Meyer
 
 ## Definition
 
 ### New Year
 
-> The calendar year begins at the midnight closest to the instant of the northward equinox. Consequently, if the northward equinox falls before solar noon on a particular day, then that day is the first day of the year. If the northward equinox occurs after solar noon, the following day begins the calendar year.
+> The calendar year begins at the midnight closest to the instant of the northward equinox. Consequently, if the northward equinox falls before solar noon on a particular day, then that day is the first day of the year. If the northward equinox occurs after solar noon, the following day begins the calendar year. ([Heydari-Malayeri, 2004][1])
 
-- Solar noon may either be calculated for the prime meridian ([Meeus, 2002](https://www.willbell.com/math/moremorsels.HTM)) or observed locally with a [sundial](https://en.wikipedia.org/wiki/Sundial)
-- Calculations should be based on the instant of the northward equinox at the prime meridian <sup>[[3](#notes)]</sup>
-- Local new year can then be easily calculated from this UTC instant using time zone offsets
+- This may be calculated for the prime meridian ([Meeus, 2002][4]) or observed locally (even with a [sundial](https://en.wikipedia.org/wiki/Sundial))
+  - Calculations should be based on the instant of the northward equinox at the prime meridian <sup>[[3](#notes)]</sup>
+  - Local new year is then easily calculated from this instant using UTC time zone offsets
 - The exact local instant of the northward equinox may be announced and celebrated <sup>[[4](#notes)]</sup>
-- Intercalation (leap years) follows the same rules as the Iranian calendar (see [Heydari-Malayeri, 2004](http://aramis.obspm.fr/~heydari/divers/ir-cal-eng.html))
+- Intercalation (leap years) follows the same rules as the Iranian calendar ([Heydari-Malayeri, 2004][1])
 
 ### Units
 
@@ -99,9 +99,9 @@ The calendar's epoch may be the instant of the northward equinox of the [Holocen
 
 ## Accuracy
 
-Observation-based calendars embrace the non-uniform motion of the Earth around the Sun, as well as the short-term perturbations. The future can never be predicted with absolute certainty, due to the dynamic nature of the universe. The only way to know with _absolute certainty_ the length of the year is through observation.
+Observation-based calendars embrace the non-uniform motion of the Earth around the Sun, as well as the short-term perturbations. The future can never be predicted with absolute certainty, due to the dynamic nature of the universe. The only way to know with absolute certainty the length of the year is through observation.
 
-Calendars like this and the Iranian calendar are the most accurate in use today. The instant of the northward equinox can now be measured to an accuracy of better than 1 millisecond ([Heydari-Malayeri, 2004](http://aramis.obspm.fr/~heydari/divers/ir-cal-eng.html)).
+Calendars like this and the Iranian calendar are the most accurate in use today. The instant of the northward equinox can now be measured to an accuracy of better than 1 millisecond ([Heydari-Malayeri, 2004][1]).
 
 ## What it's not
 
@@ -122,17 +122,23 @@ However, features like these may be applied just as they are applied to existing
 - [Universal Celestial Calendar](https://www.universalcelestialcalendar.com/)
 - [Earth Epic Calendar](https://earthepiccalendar.com/)
 
-## Recommended reading
-
-- [A concise review of the Iranian calendar](http://aramis.obspm.fr/~heydari/divers/ir-cal-eng.html) (Heydari-Malayeri, 2004)
-- [The Persian calendar for 3000 years](http://www.astro.uni.torun.pl/~kb/Papers/EMP/PersianC-EMP.htm)
-
 ---
 
-#### Notes
+#### References:
+
+- [A concise review of the Iranian calendar][1] (Heydari-Malayeri, 2004)
+- [The Persian calendar for 3000 years][2] (Borkowski, 1996)
+- [More Mathematical Astronomy Morsels][4] (Meeus, 2002)
+
+#### Notes:
 
 1. Calendar reform led by the Persian mathematician, astronomer, philosopher, and poet [Omar Khayyâm](https://en.wikipedia.org/wiki/Omar_Khayyam)
 2. Both calendars had 5 "stolen days", possibly a reference to [the Egyptian myth of Nut and Ra](https://en.wikipedia.org/wiki/Nut_(goddess)#Myth_of_Nut_and_Ra)?
 3. Instead of Tehran, this calendar's reference point effectively becomes [Null Island](https://en.wikipedia.org/wiki/Null_Island)
 4. Similar to [Nowruz](https://en.wikipedia.org/wiki/Nowruz)
 5. The year numbers of this and the Gregorian calendar are not always in sync, as this calendar's new year occurs in March of the Gregorian calendar
+
+[1]: http://aramis.obspm.fr/~heydari/divers/ir-cal-eng.html
+[2]: http://www.astro.uni.torun.pl/~kb/Papers/EMP/PersianC-EMP.htm
+[3]: https://www.hermetic.ch/cal_stud/ltc/ltc.htm#advantages
+[4]: https://www.willbell.com/math/moremorsels.HTM
