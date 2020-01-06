@@ -145,19 +145,19 @@ However, features like these may be applied just as they are applied to existing
 
 #### Recommended reading:
 
-- [The Non-implemented 33-Year English Protestant Calendar][5] (Steel, 1999)
-- [The Persian calendar for 3000 years][2] (Borkowski, 1996)
+- [The Non-implemented 33-Year English Protestant Calendar][2] (Steel, 1999)
+- [The Persian calendar for 3000 years][5] (Borkowski, 1996)
 
 #### Notes:
 
 1. Calendar reform led by the Persian mathematician, astronomer, philosopher, and poet [Omar Khayyâm](https://en.wikipedia.org/wiki/Omar_Khayyam)
 2. Both calendars had 5 "stolen days", possibly a reference to [the Egyptian myth of Nut and Ra](https://en.wikipedia.org/wiki/Nut_(goddess)#Myth_of_Nut_and_Ra)?
 3. Instead of Tehran, this calendar's reference point effectively becomes [Null Island](https://en.wikipedia.org/wiki/Null_Island)
-4. Many cultures celebrate the return of the sun with fire ([Nowruz](https://en.wikipedia.org/wiki/Nowruz), [Hıdırellez](https://en.wikipedia.org/wiki/H%C4%B1d%C4%B1rellez), [Falles](https://en.wikipedia.org/wiki/Falles)), as well as bonfires around Easter that may have roots in pagan traditions
+4. Many cultures celebrate the return of the sun with fire ([Nowruz](https://en.wikipedia.org/wiki/Nowruz), [Hıdırellez](https://en.wikipedia.org/wiki/H%C4%B1d%C4%B1rellez), [Falles](https://en.wikipedia.org/wiki/Falles)) – other spring or Easter rituals also involve bonfires ([Walpurgis Night](https://en.wikipedia.org/wiki/Walpurgis_Night), [Burning of Judas](https://en.wikipedia.org/wiki/Burning_of_Judas), [Beltane](https://en.wikipedia.org/wiki/Beltane), [Đurđevdan](https://en.wikipedia.org/wiki/%C4%90ur%C4%91evdan)), often with roots in pre-Christian traditions symbolizing rebirth or fertility
 5. The year numbers of this and the Gregorian calendar are not always in sync, as this calendar's new year occurs in March of the Gregorian calendar
 
 [1]: http://aramis.obspm.fr/~heydari/divers/ir-cal-eng.html
-[2]: http://www.astro.uni.torun.pl/~kb/Papers/EMP/PersianC-EMP.htm
+[2]: https://www.hermetic.ch/cal_stud/dst01.htm
 [3]: https://www.hermetic.ch/cal_stud/ltc/ltc.htm#advantages
 [4]: https://www.willbell.com/math/moremorsels.HTM
-[5]: https://www.hermetic.ch/cal_stud/dst01.htm
+[5]: http://www.astro.uni.torun.pl/~kb/Papers/EMP/PersianC-EMP.htm
