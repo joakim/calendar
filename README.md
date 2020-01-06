@@ -114,7 +114,7 @@ It is the most accurate calendar designed. In my opinion, its foundation is also
 
 To answer this, one should first answer the question "Why 12 months and 7-day weeks?", the common division of the year in many calendars. The first calendars were lunar calendars, tracking the easily observed phases of the Moon. A full lunar cycle is just under 30 days, 29.53 days on average. Over time, our attention turned to the stars, and our understanding of astronomy grew. Eventually, agriculture and trade brought the need for a calendar that tracked the seasons. The Egyptian solar calendar was the first to abandon the lunar cycle and instead focus on Earth's cycle around the Sun. Still, it divided the solar year into 12 months of 30 days – maybe to ease the transition from the lunar calendar it replaced? The 7-day week is harder to explain. Maybe the number 7 held a special significance to ancient people, or maybe it represented the 7 visible celestial bodies (including the Sun and the Moon)?
 
-Being strictly a solar calendar, this calendar does not attempt to unify the Moon's cycle around Earth with Earth's cycle around the Sun. By not being tied to such constraints, it is free to devise new divisions of the year, leading to benefits not found in traditional calendars. Most importantly, having 8 "months" enables the 9-day "week" of 3 * 3 days, a very flexible and powerful construct.
+Being strictly a solar calendar, this calendar does not attempt to unify the Moon's cycle around Earth with Earth's cycle around the Sun. Neither does it try to unify the 7-day week with the year. By not being tied to such constraints, this calendar is free to devise new divisions of the year, leading to benefits not found in traditional calendars. Most importantly, having 8 "months" enables the 9-day "week" of 3 * 3 days, a very flexible and powerful construct.
 
 ## What it is not
 
@@ -142,7 +142,7 @@ However, features like these may be applied just as they are applied to existing
 1. Calendar reform led by the Persian mathematician, astronomer, philosopher, and poet [Omar Khayyâm](https://en.wikipedia.org/wiki/Omar_Khayyam)
 2. Both calendars had 5 "stolen days", possibly a reference to [the Egyptian myth of Nut and Ra](https://en.wikipedia.org/wiki/Nut_(goddess)#Myth_of_Nut_and_Ra)?
 3. Instead of Tehran, this calendar's reference point effectively becomes [Null Island](https://en.wikipedia.org/wiki/Null_Island)
-4. Many cultures celebrate the coming of spring around northward equinox ([Nowruz](https://en.wikipedia.org/wiki/Nowruz), [Hıdırellez](https://en.wikipedia.org/wiki/H%C4%B1d%C4%B1rellez), [Falles](https://en.wikipedia.org/wiki/Falles)), often involving bonfires or burning of effigies, symbolizing rebirth and fertility
+4. Many cultures celebrate the coming of spring around northward equinox ([Nowruz](https://en.wikipedia.org/wiki/Nowruz), [Hıdırellez](https://en.wikipedia.org/wiki/H%C4%B1d%C4%B1rellez), [Falles](https://en.wikipedia.org/wiki/Falles)), often involving bonfires or burning of effigies, often symbolizing rebirth or fertility
 5. The year numbers of this and the Gregorian calendar are not always in sync, as this calendar's new year occurs in March of the Gregorian calendar
 
 #### References:
