@@ -42,7 +42,7 @@ A [perennial](https://en.wikipedia.org/wiki/Perennial_calendar) [solar calendar]
   - Calculations should be based on the instant of the northward equinox at the prime meridian <sup>[[3](#notes)]</sup>
   - Local new year is then easily calculated from this instant using UTC time zone offsets
 - The exact local instant of the northward equinox may be announced and celebrated <sup>[[4](#notes)]</sup>
-- Intercalation (leap years) follows the same rules as the Iranian calendar ([Heydari-Malayeri, 2004][1])
+- Intercalation (leap years) follows the same rules and 33 year cycle as the Iranian calendar ([Heydari-Malayeri, 2004][1])
 
 ### Units
 
@@ -137,6 +137,14 @@ However, features like these may be applied just as they are applied to existing
 
 ---
 
+#### Notes:
+
+1. Calendar reform led by the Persian mathematician, astronomer, philosopher, and poet [Omar Khayyâm](https://en.wikipedia.org/wiki/Omar_Khayyam)
+2. Both calendars had 5 "stolen days", possibly a reference to [the Egyptian myth of Nut and Ra](https://en.wikipedia.org/wiki/Nut_(goddess)#Myth_of_Nut_and_Ra)?
+3. Instead of Tehran, this calendar's reference point effectively becomes [Null Island](https://en.wikipedia.org/wiki/Null_Island)
+4. Many cultures celebrate the coming of spring around northward equinox ([Nowruz](https://en.wikipedia.org/wiki/Nowruz), [Hıdırellez](https://en.wikipedia.org/wiki/H%C4%B1d%C4%B1rellez), [Falles](https://en.wikipedia.org/wiki/Falles)), often involving bonfires or burning of effigies, symbolizing rebirth and fertility
+5. The year numbers of this and the Gregorian calendar are not always in sync, as this calendar's new year occurs in March of the Gregorian calendar
+
 #### References:
 
 - [A concise review of the Iranian calendar][1] (Heydari-Malayeri, 2004)
@@ -147,14 +155,6 @@ However, features like these may be applied just as they are applied to existing
 
 - [The Non-implemented 33-Year English Protestant Calendar][2] (Steel, 1999)
 - [The Persian calendar for 3000 years][5] (Borkowski, 1996)
-
-#### Notes:
-
-1. Calendar reform led by the Persian mathematician, astronomer, philosopher, and poet [Omar Khayyâm](https://en.wikipedia.org/wiki/Omar_Khayyam)
-2. Both calendars had 5 "stolen days", possibly a reference to [the Egyptian myth of Nut and Ra](https://en.wikipedia.org/wiki/Nut_(goddess)#Myth_of_Nut_and_Ra)?
-3. Instead of Tehran, this calendar's reference point effectively becomes [Null Island](https://en.wikipedia.org/wiki/Null_Island)
-4. Many cultures celebrate the return of the sun with fire ([Nowruz](https://en.wikipedia.org/wiki/Nowruz), [Hıdırellez](https://en.wikipedia.org/wiki/H%C4%B1d%C4%B1rellez), [Falles](https://en.wikipedia.org/wiki/Falles)) – other spring or Easter rituals also involve bonfires ([Walpurgis Night](https://en.wikipedia.org/wiki/Walpurgis_Night), [Burning of Judas](https://en.wikipedia.org/wiki/Burning_of_Judas), [Beltane](https://en.wikipedia.org/wiki/Beltane), [Đurđevdan](https://en.wikipedia.org/wiki/%C4%90ur%C4%91evdan)), often with roots in pre-Christian traditions symbolizing rebirth or fertility
-5. The year numbers of this and the Gregorian calendar are not always in sync, as this calendar's new year occurs in March of the Gregorian calendar
 
 [1]: http://aramis.obspm.fr/~heydari/divers/ir-cal-eng.html
 [2]: https://www.hermetic.ch/cal_stud/dst01.htm
