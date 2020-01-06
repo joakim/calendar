@@ -10,7 +10,7 @@ A [perennial](https://en.wikipedia.org/wiki/Perennial_calendar) [solar calendar]
 
 **The Iranian calendar with a different meridian, different division of the year and a different epoch.**
 
-- The year begins at the northward (vernal) equinox at the prime meridian (UTC)
+- The year begins at the northward equinox (March) at the prime meridian (UTC)
 - 360 common days, reflecting a full circle
   - Plus 5 or 6 intercalary (epogamenal) days
 - 4 quarters, each having 91 days
@@ -104,17 +104,29 @@ Observation-based calendars embrace the non-uniform motion of the Earth around t
 
 Calendars like this and the Iranian calendar are the most accurate in use today. The instant of the northward equinox can now be measured to an accuracy of better than 1 millisecond ([Heydari-Malayeri, 2004][1]).
 
+## Reasoning
+
+#### Why base it on the Iranian calendar?
+
+It is the most accurate calendar designed. In my opinion, its foundation is also the most elegant. Basing the calendar on astronomical observations is not only scientifically sound, but on some level even poetic. Omar Khayyâm was after all both an astronomer and a poet. The year being reborn in spring is an idea that resonates strongly with people in the northern hemisphere (where approximately 90% of us live). <sup>[[4](#notes)]</sup>
+
+#### Why 8 "months" and 9-day "weeks"?
+
+To answer this, one should first answer the question "Why 12 months and 7-day weeks?", the common division of the year in many calendars. The first calendars were lunar calendars, tracking the easily observed phases of the Moon. A lunar phase is roughly seven days (7.38 on average), a full cycle just under 30 days (29.53 on average). Over time, our attention turned to the stars, and our understanding of astronomy grew. Eventually, agriculture and trade brought the need for a calendar that tracked the seasons. The Egyptian calendar was the first to abandon the lunar cycle and instead focus on Earth's cycle around the Sun. Still, it divided the solar year into 12 months of 30 days – maybe to ease the transition from the lunar calendar it replaced? The 7-day week may likewise be explained by the lunar phases, or maybe by the five visible planets in the night sky plus the Sun and the Moon?
+
+Being strictly a solar calendar, this calendar does not attempt to unify the Moon's cycle around Earth with Earth's cycle around the Sun. By not being tied to such constraints, it is free to devise new divisions of the year, attaining benefits not found in traditional calendars. Most importantly, 8 "months" enables the 9-day "week" of 3 * 3 days, a very flexible and powerful construct.
+
 ## What it's not
 
 #### This calendar does not attempt to:
 
-- Incorporate the traditional 7-day week
+- Incorporate the traditional 7-day week in its structure
 - Incorporate the [lunar phases](https://en.wikipedia.org/wiki/Lunar_phase), as [lunisolar calendars](https://en.wikipedia.org/wiki/Lunisolar_calendar) are inherently complex and irregular
 - Accurately follow the [astronomical seasons](https://en.wikipedia.org/wiki/Season#Astronomical), as their lengths change over time
 - Align with the 12 constellations of the [zodiac](https://en.wikipedia.org/wiki/Zodiac), due to the (lunisolar) [precession of the ecliptic](https://en.wikipedia.org/wiki/Axial_precession)
 - Introduce time scales or prescribe holidays – it's just a calendar
 
-However, features like these may be applied just as they are applied to existing calendars. For example, the unbroken chain of 7-day weeks may be incorporated just as it is in the Gregorian calendar, with week days retaining their traditional names and cultural/religious significance. The calendar's structure should always remain the same though.
+However, features like these may be applied just as they are applied to existing calendars. For example, the unbroken chain of 7-day weeks may be incorporated just as it is in the Gregorian calendar, with week days retaining their traditional names and cultural/religious significance. As long as the calendar's underlying structure remains the same.
 
 #### Related proposed calendars:
 
@@ -128,18 +140,24 @@ However, features like these may be applied just as they are applied to existing
 #### References:
 
 - [A concise review of the Iranian calendar][1] (Heydari-Malayeri, 2004)
-- [The Persian calendar for 3000 years][2] (Borkowski, 1996)
+- [The Liberalia Triday Calendar][3] (Meyer, 1999)
 - [More Mathematical Astronomy Morsels][4] (Meeus, 2002)
+
+#### Recommended reading:
+
+- [The Non-implemented 33-Year English Protestant Calendar][5] (Steel, 1999)
+- [The Persian calendar for 3000 years][2] (Borkowski, 1996)
 
 #### Notes:
 
 1. Calendar reform led by the Persian mathematician, astronomer, philosopher, and poet [Omar Khayyâm](https://en.wikipedia.org/wiki/Omar_Khayyam)
 2. Both calendars had 5 "stolen days", possibly a reference to [the Egyptian myth of Nut and Ra](https://en.wikipedia.org/wiki/Nut_(goddess)#Myth_of_Nut_and_Ra)?
 3. Instead of Tehran, this calendar's reference point effectively becomes [Null Island](https://en.wikipedia.org/wiki/Null_Island)
-4. Similar to [Nowruz](https://en.wikipedia.org/wiki/Nowruz)
+4. Many cultures celebrate the return of the sun with fire ([Nowruz](https://en.wikipedia.org/wiki/Nowruz), [Hıdırellez](https://en.wikipedia.org/wiki/H%C4%B1d%C4%B1rellez), [Falles](https://en.wikipedia.org/wiki/Falles)), as well as bonfires around Easter that may have roots in pagan traditions
 5. The year numbers of this and the Gregorian calendar are not always in sync, as this calendar's new year occurs in March of the Gregorian calendar
 
 [1]: http://aramis.obspm.fr/~heydari/divers/ir-cal-eng.html
 [2]: http://www.astro.uni.torun.pl/~kb/Papers/EMP/PersianC-EMP.htm
 [3]: https://www.hermetic.ch/cal_stud/ltc/ltc.htm#advantages
 [4]: https://www.willbell.com/math/moremorsels.HTM
+[5]: https://www.hermetic.ch/cal_stud/dst01.htm
