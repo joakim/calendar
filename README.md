@@ -1,9 +1,9 @@
 # Calendar
 
-A [perennial](https://en.wikipedia.org/wiki/Perennial_calendar) [solar calendar](https://en.wikipedia.org/wiki/Solar_calendar) based on astronomical observations or calculations.
+A [perennial](https://en.wikipedia.org/wiki/Perennial_calendar) [solar calendar](https://en.wikipedia.org/wiki/Solar_calendar) based on astronomical calculations or observations.
 
-- Based on the Persian [Solar Hijri calendar](https://en.wikipedia.org/wiki/Solar_Hijri_calendar), in turn based on the [Jalali calendar](https://en.wikipedia.org/wiki/Jalali_calendar) of AD 1079 <sup>[[1](#notes)]</sup>
-  - With roots in the [Zoroastrian calendar](https://en.wikipedia.org/wiki/Zoroastrian_calendar) and possibly the [Egyptian calendar](https://en.wikipedia.org/wiki/Egyptian_calendar) <sup>[[2](#notes)]</sup>
+- Based on the Persian [Solar Hijri calendar](https://en.wikipedia.org/wiki/Solar_Hijri_calendar), in turn based on the [Jalali calendar](https://en.wikipedia.org/wiki/Jalali_calendar) of AD 1079 <sup>([note 1](#notes))</sup>
+  - With roots in the [Zoroastrian calendar](https://en.wikipedia.org/wiki/Zoroastrian_calendar) and possibly the [Egyptian calendar](https://en.wikipedia.org/wiki/Egyptian_calendar) <sup>([note 2](#notes))</sup>
 - Follows the real [northward equinox](https://en.wikipedia.org/wiki/March_equinox) year, not to be confused with the mean tropical year
 
 ### Summary
@@ -39,9 +39,9 @@ A [perennial](https://en.wikipedia.org/wiki/Perennial_calendar) [solar calendar]
 > The calendar year begins at the midnight closest to the instant of the northward equinox. Consequently, if the northward equinox falls before solar noon on a particular day, then that day is the first day of the year. If the northward equinox occurs after solar noon, the following day begins the calendar year.
 
 - This may be calculated for the prime meridian ([Meeus, 2002][4]) or observed locally (even with a [sundial](https://en.wikipedia.org/wiki/Sundial))
-  - Calculations should be based on the instant of the northward equinox at the prime meridian <sup>[[3](#notes)]</sup>
+  - Calculations should be based on the instant of the northward equinox at the prime meridian <sup>([note 3](#notes))</sup>
   - Local new year is then easily calculated from this instant using UTC time zone offsets
-- The exact local instant of the northward equinox may be announced and celebrated <sup>[[4](#notes)]</sup>
+- The local instant of the northward equinox should be celebrated as the start of the new year <sup>([note 4](#notes))</sup>
 - Intercalation (leap years) follows the same 33 year cycle as the Persian calendar ([Heydari-Malayeri, 2004][1])
 
 ### Units
@@ -74,7 +74,7 @@ The names "octal", "nonad" and "trio" are descriptive only.
 
 ### Epoch
 
-The calendar's epoch may be the instant of the northward equinox of the [Holocene calendar](https://en.wikipedia.org/wiki/Holocene_calendar)'s epoch (10 001 BC), maintaining the reference to Anno Domini (HE 12020 = AD 2020). Alternatively, [Anno Domini](https://en.wikipedia.org/wiki/Anno_Domini) may be retained. <sup>[[5](#notes)]
+The calendar's epoch may be the instant of the northward equinox of the [Holocene calendar](https://en.wikipedia.org/wiki/Holocene_calendar)'s epoch (10 001 BC), maintaining the reference to Anno Domini (HE 12020 = AD 2020). Alternatively, [Anno Domini](https://en.wikipedia.org/wiki/Anno_Domini) may be retained.
 
 ## Proposed notation
 
@@ -86,7 +86,7 @@ The calendar's epoch may be the instant of the northward equinox of the [Holocen
 - The _naming_ of units may vary by language, locale or culture
 - The _formatting_ of dates should be standardized and the same for all
 
-#### Proposed date formats (ISO 8601 style)
+#### Proposed date formats ([ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) like)
 
   - Day-of-octal (1-45) – Recommended for common/civil use
     - `[year]-[octal]-[octal-day]`
@@ -111,7 +111,7 @@ Calendars like this and the Persian calendar are the most accurate in use today.
 
 #### Why base it on the Persian calendar?
 
-It is the most accurate calendar designed. In my opinion, its foundation is also the most elegant. Basing the calendar on astronomical observations is not only scientifically sound, but on some level even poetic. Omar Khayyâm was after all both an astronomer and a poet. The year being reborn in spring is an idea that resonates strongly with people in the northern hemisphere (where approximately 90% of us live). <sup>[[4](#notes)]</sup>
+It is the most accurate calendar designed. In my opinion, its foundation is also the most elegant. Basing the calendar on astronomical observations is not only scientifically sound, but on some level even poetic. Omar Khayyâm was after all both an astronomer and a poet. The year being reborn in spring is an idea that resonates strongly with people in the northern hemisphere (where approximately 90% of us live) <sup>([note 5](#notes))</sup>.
 
 #### Why 8 "months" and 9-day "weeks"?
 
@@ -144,9 +144,9 @@ However, features like these may be applied just as they are applied to existing
 
 1. Calendar reform led by the Persian mathematician, astronomer, philosopher, and poet [Omar Khayyâm](https://en.wikipedia.org/wiki/Omar_Khayyam)
 2. Both calendars had 5 "stolen days", possibly a reference to [the Egyptian myth of Nut and Ra](https://en.wikipedia.org/wiki/Nut_(goddess)#Myth_of_Nut_and_Ra)?
-3. Instead of Tehran, this calendar's reference point effectively becomes [Null Island](https://en.wikipedia.org/wiki/Null_Island)
-4. Many cultures celebrate the coming of spring around northward equinox ([Nowruz](https://en.wikipedia.org/wiki/Nowruz), [Hıdırellez](https://en.wikipedia.org/wiki/H%C4%B1d%C4%B1rellez), [Falles](https://en.wikipedia.org/wiki/Falles)), often involving bonfires or burning of effigies, often symbolizing rebirth or fertility
-5. The year numbers of this and the Gregorian calendar are not always in sync, as this calendar's new year occurs in March of the Gregorian calendar
+3. Instead of Tehran, this calendar's reference point effectively becomes 0°N 0°E, popularly known as [Null Island](https://en.wikipedia.org/wiki/Null_Island)
+4. Either the exact local instant, or as calculated from the exact instant at the prime meridian
+5. Many cultures celebrate the coming of spring around northward equinox ([Nowruz](https://en.wikipedia.org/wiki/Nowruz), [Hıdırellez](https://en.wikipedia.org/wiki/H%C4%B1d%C4%B1rellez), [Falles](https://en.wikipedia.org/wiki/Falles)), often involving bonfires or burning of effigies, often symbolizing rebirth or fertility
 
 #### References:
 
