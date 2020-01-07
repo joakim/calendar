@@ -103,7 +103,7 @@ Alternatively, the quarters may be named `A-D` as in Asamov's [World Season Cale
 
 Observation-based calendars embrace the non-uniform motion of the Earth around the Sun, as well as the short-term perturbations. The future can never be predicted with absolute certainty, due to the dynamic nature of the universe. The only way to know with absolute certainty the length of the year is through observation.
 
-Still, today's calculations are accurate enough to be reliable for millennia ([Borkowski, 1996][5]). Calendars based on the Jalali calendar are the most accurate in use today, the instant of the northward equinox can now be measured to an accuracy of better than 1 millisecond ([Heydari-Malayeri, 2004][1]).
+Calendars based on the Jalali calendar are the most accurate in relation to the real solar year. Today's astronomical knowledge and computing power enable us to predict with very high precision the instant of the northward equinox. The exact instant can now be measured to an accuracy of better than 1 millisecond ([Heydari-Malayeri, 2004][1]).
 
 ## What it is not
 
