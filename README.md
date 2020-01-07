@@ -155,4 +155,4 @@ However, features like these may be applied just as they are applied to existing
 [8]: https://www.hermetic.ch/cal_stud/ltc/ltc.htm
 [9]: https://www.universalcelestialcalendar.com/
 [10]: https://earthepiccalendar.com/
-[11]: https://www.hermetic.ch/cal_stud/dee-cecil-calendar.html
+[11]: https://www.hermetic.ch/cal_stud/gods_longitude.htm
