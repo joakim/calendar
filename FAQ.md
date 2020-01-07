@@ -18,7 +18,7 @@ Being a purely solar calendar, this calendar does not attempt to unify the Moon'
 
 8 "months" was chosen because its 45 days is cleanly divisible by 9 to achieve "weeks" of 3 * 3 days, a very flexible and powerful construct. While one could achieve the same with 4 quarters of 90 common days, practicality demands smaller "months". 8 "months" of the year and 9 "weekdays" are also small enough sets to be easily memorized, an important consideration.
 
-To summarize: The advantages gained by dividing the year into 8 "months" and 40 "weeks" outweigh the disadvantage of being unfamiliar. A new calendar should not be constrained by the requirements of the old, but reflect the requirements of today's dynamic global society.
+To summarize: The advantages gained by dividing the year into 8 "months" and 40 "weeks" outweigh the disadvantage of being unfamiliar. A new calendar should not be constrained by the requirements of the old, but meet the demands of today's dynamic global society.
 
 ### Why not 12 months? Or 10, 13, etc?
 
