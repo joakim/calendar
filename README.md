@@ -137,6 +137,7 @@ However, features like these may be applied just as they are applied to existing
 - Peter Meyer's [Liberalia Triday Calendar][8]
 - [Universal Celestial Calendar][9]
 - [Earth Epic Calendar][10]
+- [The Dee-Cecil Calendar][11]
 
 ---
 
@@ -169,3 +170,4 @@ However, features like these may be applied just as they are applied to existing
 [8]: https://www.hermetic.ch/cal_stud/ltc/ltc.htm
 [9]: https://www.universalcelestialcalendar.com/
 [10]: https://earthepiccalendar.com/
+[11]: https://www.hermetic.ch/cal_stud/dee-cecil-calendar.html
