@@ -26,7 +26,7 @@ A [perennial](https://en.wikipedia.org/wiki/Perennial_calendar) [solar calendar]
 - Extremely accurate when based on observations (see [Accuracy](#accuracy))
 - Perennial – dates, "weeks" and seasons are always in relation to the northward equinox
 - Structured, yet flexible enough to adapt to different cultures and needs
-  - Civil (uniform, simple)
+  - Civil (simple, uniform, predictable)
   - Agriculture (seasonal, follows natural cycles)
   - Business (evenly divided, flexible scheduling)
 - Division of the year into 8 and grouping of days into 9 makes it easy to learn and visualize
@@ -42,7 +42,7 @@ A [perennial](https://en.wikipedia.org/wiki/Perennial_calendar) [solar calendar]
   - Calculations should be based on the instant of the northward equinox at the prime meridian <sup>[[3](#notes)]</sup>
   - Local new year is then easily calculated from this instant using UTC time zone offsets
 - The exact local instant of the northward equinox may be announced and celebrated <sup>[[4](#notes)]</sup>
-- Intercalation (leap years) follows the same rules and 33 year cycle as the Persian calendar ([Heydari-Malayeri, 2004][1])
+- Intercalation (leap years) follows the same 33 year cycle as the Persian calendar ([Heydari-Malayeri, 2004][1])
 
 ### Units
 
@@ -59,7 +59,7 @@ The names "octal", "nonad" and "trio" are descriptive only.
 
 - The year has 360 common days and 5 (common year) or 6 (leap year) intercalary days
 - The year is divided into 4 equal quarters, each having 91 days
-  - 1 intercalary day that represents the equinox/solstice (day 0 of the quarter)
+  - 1 intercalary day that represents the equinox/solstice
   - 90 common days
 - The year's 360 common days may be divided as follows
   - Proposed division: 8 octals ("months") and 40 nonads ("weeks")
@@ -76,27 +76,30 @@ The names "octal", "nonad" and "trio" are descriptive only.
 
 The calendar's epoch may be the instant of the northward equinox of the [Holocene calendar](https://en.wikipedia.org/wiki/Holocene_calendar)'s epoch (10 001 BC), maintaining the reference to Anno Domini (HE 12020 = AD 2020). Alternatively, [Anno Domini](https://en.wikipedia.org/wiki/Anno_Domini) may be retained. <sup>[[5](#notes)]
 
-## Notation
+## Proposed notation
 
-- The _numbering_ of units are fixed
-  - An intercalary quarter-day is day 0 of its quarter
-  - An intercalary transition-day belongs to its year, not any of the year's divisions
+- The _numbering_ of units must be fixed
+  - Divisions of the year should be 1-indexed (namely quarters, octals/months and nonads)
+  - Days of divisions containing intercalary days are 0-indexed (namely quarters and transition days)
+  - Days of divisions of common days are 1-indexed (namely octals/months and nonads)
+  - Transition days belong to the enclosing year and none of its divisions
 - The _naming_ of units may vary by language, locale or culture
-- The _formatting_ of dates should be standardized and the same for everyone
-  - Day-of-octal (1-45) – Recommended for civil use
+- The _formatting_ of dates should be standardized and the same for all
+
+#### Proposed date formats (ISO 8601 style)
+
+  - Day-of-octal (1-45) – Recommended for common/civil use
     - `[year]-[octal]-[octal-day]`
   - Day-of-nonad (1-9) – Recommended for scheduling
     - `[year]-N[nonad]-[nonad-day]`
-  - Day-of-quarter (0-90) – May be used in agriculture or business
+  - Day-of-quarter (0-90) – Useful in agriculture and business
     - `[year]-Q[quarter]-[quarter-day]`
-  - Day-of-transition (1-2)
+  - Day-of-transition (0-1)
     - `[year]-X[transition-day]`
-  - Day-of-year (1-365/366) – Most useful for calculations
-    - `[year]-D[year-day]`
-  - Common-day-of-year (1-360) – Alternative to the above, skips intercalary days
-    - `[year]-C[common-day]`
   - Day-of-month (1-30) – Traditional 12 month division of the year
-    - `[year]/12-[month]-[month-day]`
+    - `[year]-[month]/12-[month-day]`
+
+Alternatively, the quarters may be named `A-D` as in Asamov's [World Season Calendar][7] (`A-0`, `B-0`, `C-0`, `D-0`).
 
 ## Accuracy
 
@@ -130,10 +133,10 @@ However, features like these may be applied just as they are applied to existing
 
 #### Related proposed calendars:
 
-- Isaac Asamov's [World Season Calendar](https://en.wikipedia.org/wiki/Isaac_Asimov#Calendar)
-- Peter Meyer's [Liberalia Triday Calendar](https://www.hermetic.ch/cal_stud/ltc/ltc.htm)
-- [Universal Celestial Calendar](https://www.universalcelestialcalendar.com/)
-- [Earth Epic Calendar](https://earthepiccalendar.com/)
+- Isaac Asamov's [World Season Calendar][7]
+- Peter Meyer's [Liberalia Triday Calendar][8]
+- [Universal Celestial Calendar][9]
+- [Earth Epic Calendar][10]
 
 ---
 
@@ -162,3 +165,7 @@ However, features like these may be applied just as they are applied to existing
 [4]: https://www.willbell.com/math/moremorsels.HTM
 [5]: http://www.astro.uni.torun.pl/~kb/Papers/EMP/PersianC-EMP.htm
 [6]: https://www.hermetic.ch/cal_stud/dst02.htm
+[7]: https://en.wikipedia.org/wiki/Isaac_Asimov#Calendar
+[8]: https://www.hermetic.ch/cal_stud/ltc/ltc.htm
+[9]: https://www.universalcelestialcalendar.com/
+[10]: https://earthepiccalendar.com/
