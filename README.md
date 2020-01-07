@@ -2,13 +2,13 @@
 
 A [perennial](https://en.wikipedia.org/wiki/Perennial_calendar) [solar calendar](https://en.wikipedia.org/wiki/Solar_calendar) based on astronomical observations or calculations.
 
-- Based on the [Iranian calendar](https://en.wikipedia.org/wiki/Solar_Hijri_calendar), which in turn is based on the [Jalali calendar](https://en.wikipedia.org/wiki/Jalali_calendar) of AD 1079 <sup>[[1](#notes)]</sup>
+- Based on the Persian [Solar Hijri calendar](https://en.wikipedia.org/wiki/Solar_Hijri_calendar), in turn based on the [Jalali calendar](https://en.wikipedia.org/wiki/Jalali_calendar) of AD 1079 <sup>[[1](#notes)]</sup>
   - With roots in the [Zoroastrian calendar](https://en.wikipedia.org/wiki/Zoroastrian_calendar) and possibly the [Egyptian calendar](https://en.wikipedia.org/wiki/Egyptian_calendar) <sup>[[2](#notes)]</sup>
-- Follows the real [northward equinox](https://en.wikipedia.org/wiki/March_equinox) year (not to be confused with the mean tropical year)
+- Follows the real [northward equinox](https://en.wikipedia.org/wiki/March_equinox) year, not to be confused with the mean tropical year
 
 ### Summary
 
-**The Iranian calendar with a different meridian, different division of the year and a different epoch.**
+**The Persian calendar with a different meridian, different division of the year and a different epoch.**
 
 - The year begins at the northward equinox (March) at the prime meridian (UTC)
 - 360 common days, reflecting a full circle
@@ -42,7 +42,7 @@ A [perennial](https://en.wikipedia.org/wiki/Perennial_calendar) [solar calendar]
   - Calculations should be based on the instant of the northward equinox at the prime meridian <sup>[[3](#notes)]</sup>
   - Local new year is then easily calculated from this instant using UTC time zone offsets
 - The exact local instant of the northward equinox may be announced and celebrated <sup>[[4](#notes)]</sup>
-- Intercalation (leap years) follows the same rules and 33 year cycle as the Iranian calendar ([Heydari-Malayeri, 2004][1])
+- Intercalation (leap years) follows the same rules and 33 year cycle as the Persian calendar ([Heydari-Malayeri, 2004][1])
 
 ### Units
 
@@ -102,11 +102,11 @@ The calendar's epoch may be the instant of the northward equinox of the [Holocen
 
 Observation-based calendars embrace the non-uniform motion of the Earth around the Sun, as well as the short-term perturbations. The future can never be predicted with absolute certainty, due to the dynamic nature of the universe. The only way to know with absolute certainty the length of the year is through observation.
 
-Calendars like this and the Iranian calendar are the most accurate in use today. The instant of the northward equinox can now be measured to an accuracy of better than 1 millisecond ([Heydari-Malayeri, 2004][1]).
+Calendars like this and the Persian calendar are the most accurate in use today. The instant of the northward equinox can now be measured to an accuracy of better than 1 millisecond ([Heydari-Malayeri, 2004][1]).
 
 ## Reasoning
 
-#### Why base it on the Iranian calendar?
+#### Why base it on the Persian calendar?
 
 It is the most accurate calendar designed. In my opinion, its foundation is also the most elegant. Basing the calendar on astronomical observations is not only scientifically sound, but on some level even poetic. Omar Khayyâm was after all both an astronomer and a poet. The year being reborn in spring is an idea that resonates strongly with people in the northern hemisphere (where approximately 90% of us live). <sup>[[4](#notes)]</sup>
 
@@ -153,11 +153,12 @@ However, features like these may be applied just as they are applied to existing
 
 #### Recommended reading:
 
-- [The Non-implemented 33-Year English Protestant Calendar][2] (Steel, 1999)
 - [The Persian calendar for 3000 years][5] (Borkowski, 1996)
+- [The Non-implemented 33-Year English Protestant Calendar][2] (Steel, 1999)
 
 [1]: http://aramis.obspm.fr/~heydari/divers/ir-cal-eng.html
 [2]: https://www.hermetic.ch/cal_stud/dst01.htm
 [3]: https://www.hermetic.ch/cal_stud/ltc/ltc.htm#advantages
 [4]: https://www.willbell.com/math/moremorsels.HTM
 [5]: http://www.astro.uni.torun.pl/~kb/Papers/EMP/PersianC-EMP.htm
+[6]: https://www.hermetic.ch/cal_stud/dst02.htm
