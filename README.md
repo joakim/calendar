@@ -107,18 +107,6 @@ Observation-based calendars embrace the non-uniform motion of the Earth around t
 
 Calendars like this and the Persian calendar are the most accurate in use today. The instant of the northward equinox can now be measured to an accuracy of better than 1 millisecond ([Heydari-Malayeri, 2004][1]).
 
-## Reasoning
-
-#### Why base it on the Persian calendar?
-
-It is the most accurate calendar designed. In my opinion, its foundation is also the most elegant. Basing the calendar on astronomical observations is not only scientifically sound, but on some level even poetic. Omar Khayyâm was after all both an astronomer and a poet. The year being reborn in spring is an idea that resonates strongly with people in the northern hemisphere (where approximately 90% of us live) <sup>([note 5](#notes))</sup>.
-
-#### Why 8 "months" and 9-day "weeks"?
-
-To answer this, one should first answer the question "Why 12 months and 7-day weeks?", the common division of the year in many calendars. The first calendars were lunar calendars, tracking the easily observed phases of the Moon. A full lunar cycle is just under 30 days, 29.53 days on average. Over time, our attention turned to the stars, and our understanding of astronomy grew. Eventually, agriculture and trade brought the need for a calendar that tracked the seasons. The Egyptian solar calendar was the first to abandon the lunar cycle and instead focus on Earth's cycle around the Sun. Still, it divided the solar year into 12 months of 30 days – maybe to ease the transition from the lunar calendar it replaced? The 7-day week is harder to explain. Maybe the number 7 held a special significance to ancient people, or maybe it represented the 7 visible celestial bodies (including the Sun and the Moon)?
-
-Being strictly a solar calendar, this calendar does not attempt to unify the Moon's cycle around Earth with Earth's cycle around the Sun. Neither does it try to unify the 7-day week with the year. By not being tied to such constraints, this calendar is free to devise new divisions of the year, leading to benefits not found in traditional calendars. Most importantly, having 8 "months" enables the 9-day "week" of 3 * 3 days, a very flexible and powerful construct.
-
 ## What it is not
 
 #### This calendar does not attempt to:
@@ -147,7 +135,6 @@ However, features like these may be applied just as they are applied to existing
 2. Both calendars had 5 "stolen days", possibly a reference to [the Egyptian myth of Nut and Ra](https://en.wikipedia.org/wiki/Nut_(goddess)#Myth_of_Nut_and_Ra)?
 3. Instead of Tehran, this calendar's reference point effectively becomes 0°N 0°E, popularly known as [Null Island](https://en.wikipedia.org/wiki/Null_Island)
 4. Either the exact local instant, or as calculated from the exact instant at the prime meridian
-5. Many cultures celebrate the coming of spring around northward equinox ([Nowruz](https://en.wikipedia.org/wiki/Nowruz), [Hıdırellez](https://en.wikipedia.org/wiki/H%C4%B1d%C4%B1rellez), [Falles](https://en.wikipedia.org/wiki/Falles)), often involving bonfires or burning of effigies, often symbolizing rebirth or fertility
 
 #### References:
 
