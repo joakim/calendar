@@ -23,9 +23,9 @@ A [perennial](https://en.wikipedia.org/wiki/Perennial_calendar) [solar calendar]
 
 ### Benefits
 
-- Extremely accurate when based on observations (see [Accuracy](#accuracy))
+- Forever accurate when based on astronomical observations (see [Accuracy](#accuracy))
 - Perennial – dates, "weeks" and seasons are always in relation to the northward equinox
-- Structured, yet flexible enough to adapt to different cultures and needs
+- Structured – yet flexible enough to adapt to different cultures and needs
   - Civil (simple, uniform, predictable)
   - Agriculture (seasonal, follows natural cycles)
   - Business (evenly divided, flexible scheduling)
@@ -105,7 +105,7 @@ Alternatively, the quarters may be named `A-D` as in Asamov's [World Season Cale
 
 Observation-based calendars embrace the non-uniform motion of the Earth around the Sun, as well as the short-term perturbations. The future can never be predicted with absolute certainty, due to the dynamic nature of the universe. The only way to know with absolute certainty the length of the year is through observation.
 
-Calendars like this and the Persian calendar are the most accurate in use today. The instant of the northward equinox can now be measured to an accuracy of better than 1 millisecond ([Heydari-Malayeri, 2004][1]).
+Still, today's calculations are accurate enough to be reliable for millennia ([Borkowski, 1996][5]). Calendars based on the Jalali calendar are the most accurate in use today, the instant of the northward equinox can now be measured to an accuracy of better than 1 millisecond ([Heydari-Malayeri, 2004][1]).
 
 ## What it is not
 
@@ -141,10 +141,10 @@ However, features like these may be applied just as they are applied to existing
 - [A concise review of the Iranian calendar][1] (Heydari-Malayeri, 2004)
 - [The Liberalia Triday Calendar][3] (Meyer, 1999)
 - [More Mathematical Astronomy Morsels][4] (Meeus, 2002)
+- [The Persian calendar for 3000 years][5] (Borkowski, 1996)
 
 #### Recommended reading:
 
-- [The Persian calendar for 3000 years][5] (Borkowski, 1996)
 - [The Non-implemented 33-Year English Protestant Calendar][2] (Steel, 1999)
 
 [1]: http://aramis.obspm.fr/~heydari/divers/ir-cal-eng.html
