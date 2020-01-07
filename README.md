@@ -135,7 +135,6 @@ However, features like these may be applied just as they are applied to existing
 2. Both calendars had 5 "stolen days", possibly a reference to [the Egyptian myth of Nut and Ra](https://en.wikipedia.org/wiki/Nut_(goddess)#Myth_of_Nut_and_Ra)?
 3. Instead of Tehran, this calendar's reference point effectively becomes 0°N 0°E, popularly known as [Null Island](https://en.wikipedia.org/wiki/Null_Island)
 4. Either the exact local instant, or as calculated from the exact instant at the prime meridian
-5. Many cultures celebrate the coming of spring around northward equinox ([Nowruz](https://en.wikipedia.org/wiki/Nowruz), [Hıdırellez](https://en.wikipedia.org/wiki/H%C4%B1d%C4%B1rellez), [Falles](https://en.wikipedia.org/wiki/Falles)), often involving bonfires or burning of effigies, often symbolizing rebirth or fertility
 
 #### References:
 
