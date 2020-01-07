@@ -152,7 +152,7 @@ However, features like these may be applied just as they are applied to existing
 [4]: https://www.willbell.com/math/moremorsels.HTM
 [5]: http://www.astro.uni.torun.pl/~kb/Papers/EMP/PersianC-EMP.htm
 [6]: https://www.hermetic.ch/cal_stud/dst02.htm
-[7]: https://en.wikipedia.org/wiki/Isaac_Asimov#Calendar
+[7]: https://calendars.wikia.org/wiki/World_Season_Calendar
 [8]: https://www.hermetic.ch/cal_stud/ltc/ltc.htm
 [9]: https://www.universalcelestialcalendar.com/
 [10]: https://earthepiccalendar.com/
