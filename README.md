@@ -96,8 +96,6 @@ The calendar's epoch may be the instant of the northward equinox of the [Holocen
     - `[year]-Q[quarter]-[quarter-day]`
   - Day-of-transition (0-1)
     - `[year]-X-[transition-day]`
-  - Day-of-month (1-30) – Traditional 12 month division of the year
-    - `[year]-[month]/12-[month-day]`
 
 Alternatively, the quarters may be named `A-D` as in Asamov's [World Season Calendar][7] (`A-0`, `B-0`, `C-0`, `D-0`, `X-0`).
 
