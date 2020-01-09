@@ -23,7 +23,7 @@ A [perennial](https://en.wikipedia.org/wiki/Perennial_calendar) [solar calendar]
 
 ### Advantages
 
-- **Accurate** – _in perpetuum_ when based on astronomical observations (see [Accuracy](#accuracy))
+- **[Accurate](#accuracy)** – _in perpetuum_ when based on astronomical observations
 - **Simple** – division of the year into 4 and 8 equal parts makes it easy to learn and visualize
 - **Dynamic** – grouping of days into 3 * 3 is a powerful concept (based on Peter Meyer's [triday][3])
 - **Perennial** – dates and seasons are fixed in relation to the northward equinox
@@ -78,8 +78,8 @@ The names "eighth", "nonad" and "triad" are descriptive only.
   - Traditional division: 12 "months"
     - 12 months of 30 days, 3 months per quarter
     - Drawback: A month can not fit a whole number of nonads (3.3 per month)
-    - Drawback: Traditional month names can not be used, requiring 12 new names
- - The remaining 1 or 2 days at the end of the year are intercalary transition days before the next new year
+    - Drawback: Traditional month names should not be used, requiring 12 new names
+ - The remaining 1 or 2 days at the end of the year are intercalary transition days before the new year
 
 ### Proposed epoch
 
