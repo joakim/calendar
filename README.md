@@ -1,10 +1,10 @@
 # A Calendar for the Future
 
 - A [perennial](https://en.wikipedia.org/wiki/Perennial_calendar) [solar calendar](https://en.wikipedia.org/wiki/Solar_calendar) based on astronomical calculations or observations
-- Based on the Persian [Solar Hijri calendar](https://en.wikipedia.org/wiki/Solar_Hijri_calendar), in turn based on the [Jalali calendar](https://en.wikipedia.org/wiki/Jalali_calendar) of AD 1079 <sup>([note 1](#notes))</sup>
+  - Based on the Persian [Solar Hijri calendar](https://en.wikipedia.org/wiki/Solar_Hijri_calendar), in turn based on the [Jalali calendar](https://en.wikipedia.org/wiki/Jalali_calendar) of AD 1079 <sup>([note 1](#notes))</sup>
   - With roots in the [Zoroastrian calendar](https://en.wikipedia.org/wiki/Zoroastrian_calendar) and possibly the [Egyptian calendar](https://en.wikipedia.org/wiki/Egyptian_calendar) <sup>([note 2](#notes))</sup>
-- The year begins at the [northward equinox](https://en.wikipedia.org/wiki/March_equinox) at the [prime meridian](https://en.wikipedia.org/wiki/Prime_meridian) (UTC)
-- 360 common days, reflecting a full circle (5 or 6 intercalary days)
+- The year begins at the [northward equinox](https://en.wikipedia.org/wiki/March_equinox) at the [prime meridian](https://en.wikipedia.org/wiki/Prime_meridian)
+- 360 common days, 5 or 6 intercalary days
 - 4 quarters of 91 days (1 intercalary and 90 common days)
 - 8 "months" of 45 days
 - 40 "weeks" of 9 days (grouped 3 * 3)
@@ -15,9 +15,9 @@
 
 ### Advantages
 
-- **[Accurate](#accuracy)** – _in perpetuum_ when based on astronomical observations
-- **Simple** – division of the year into 4 and 8 equal parts makes it easy to learn and visualize
-- **Dynamic** – grouping of days into 3 * 3 is a powerful concept (based on Peter Meyer's [triday][3])
+- **[Accurate](#accuracy)** – forever when based on astronomical observations
+- **Simple** – division of the year into 2, 4 and 8 equal parts makes it easy to learn and visualize
+- **Dynamic** – grouping of days into 3 * 3 is a powerful concept based on Peter Meyer's [triday][3]
 - **Perennial** – dates and seasons are fixed in relation to the northward equinox
 - **Structured** – yet flexible enough to adapt to different needs and cultures
   - Civil (simple, predictable)
