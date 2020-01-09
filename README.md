@@ -21,16 +21,25 @@ A [perennial](https://en.wikipedia.org/wiki/Perennial_calendar) [solar calendar]
 - The remaining 1 or 2 days at the end of the year are intercalary transition days
 - Proposed epoch is the beginning of the human era (10 001 BC)
 
-### Benefits
+### Advantages
 
-- Forever accurate when based on astronomical observations (see [Accuracy](#accuracy))
-- Perennial – dates, "weeks" and seasons are always in relation to the northward equinox
-- Structured – yet flexible enough to adapt to different cultures and needs
-  - Civil (simple, uniform, predictable)
+- Accurate – _in perpetuum_ when based on astronomical observations (see [Accuracy](#accuracy))
+- Simple – division of the year into 4 and 8 equal parts makes it easy to learn and visualize
+- Dynamic – grouping of days into 3 * 3 is a powerful concept (based on Peter Meyer's [triday][3])
+- Perennial – dates and seasons are fixed in relation to the northward equinox
+- Structured – yet flexible enough to adapt to different needs and cultures
+  - Civil (simple, predictable)
   - Agriculture (seasonal, follows natural cycles)
   - Business (evenly divided, flexible scheduling)
-- Division of the year into 8 and grouping of days into 9 makes it easy to learn and visualize
-- Grouping of days into 3 * 3 is a very [interesting and powerful idea][3] by Peter Meyer
+- Neutral
+  - Not tied to any cultures or locations, except for those of the current scientific paradigm
+  - While scientifically grounded, it does not oppose combination with cultural or religious concepts
+
+### Disadvantages
+
+- Unfamiliar "months", "weeks", "new year" and epoch
+- No simple rule for leap years, a trade-off with accuracy
+- Just a calendar proposed by someone named Joakim (who is not the pope)
 
 ## Definition
 
@@ -62,7 +71,7 @@ The names "eighth", "nonad" and "triad" are descriptive only.
   - 1 intercalary day that represents the equinox/solstice
   - 90 common days
 - The year's 360 common days may be divided as follows
-  - Proposed division: 8 eighths ("months") and 40 nonads ("weeks")
+  - Proposed division: 8 eighths ("[months](https://en.wikipedia.org/wiki/Month)") and 40 nonads ("[weeks](https://en.wikipedia.org/wiki/Week)")
     - 8 eighths of 45 days, 2 eighths per quarter
     - 40 nonads of 9 days, 10 nonads per quarter
       - Each nonad may be further divided into 3 triads of 3 days
@@ -74,30 +83,33 @@ The names "eighth", "nonad" and "triad" are descriptive only.
 
 ### Proposed epoch
 
-The calendar's epoch may be the instant of the northward equinox of the [Holocene calendar](https://en.wikipedia.org/wiki/Holocene_calendar)'s epoch (10 001 BC), maintaining the reference to Anno Domini (HE 12020 = AD 2020). Alternatively, [Anno Domini](https://en.wikipedia.org/wiki/Anno_Domini) may be retained.
+The calendar's epoch may be the instant of the northward equinox of the [Holocene Calendar](https://en.wikipedia.org/wiki/Holocene_calendar)'s epoch (10 001 BC), maintaining the reference to Anno Domini (HE 12020 = AD 2020). Alternatively, [Anno Domini](https://en.wikipedia.org/wiki/Anno_Domini) may be retained.
 
 ## Proposed notation
 
-- The _numbering_ of units must be fixed
+- The **numbering** of units must be fixed
   - Divisions of the year should be 1-indexed (namely quarters, eighths/months and nonads)
   - Days of divisions containing intercalary days are 0-indexed (namely quarters and transition days)
   - Days of divisions of common days are 1-indexed (namely eighths/months and nonads)
   - Transition days belong to the enclosing year and none of its divisions
-- The _naming_ of units may vary by language, locale or culture
-- The _formatting_ of dates should be standardized and the same for all
+- The **naming** of units may vary by language, locale or culture
+- The **formatting** of dates should be standardized and the same for all
 
-#### Proposed date formats ([ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) like)
+#### Example of date format ([ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) like)
 
-  - Day-of-eighth (1-45) – Recommended for common/civil use
+  - Eight (1-8) and day-of-eighth (1-45) – Recommended for common/civil use
     - `[year]-[eighth]-[day-of-eighth]`
-  - Day-of-nonad (1-9) – Recommended for scheduling
+  - Nonad (1-40) and day-of-nonad (1-9) – Recommended for scheduling
     - `[year]-N[nonad]-[day-of-nonad]`
-  - Day-of-quarter (0-90) – Useful in agriculture and business
+  - Quarter (1-4 or A-D) and day-of-quarter (0-90) – Useful in agriculture and business
     - `[year]-Q[quarter]-[day-of-quarter]`
+    - `[year]-[quarter-letter]-[day-of-quarter]`
   - Day-of-transition (0-1)
     - `[year]-X-[day-of-transition]`
 
-Alternatively, the quarters may be named `A-D` as in Asamov's [World Season Calendar][7] (`A-0`, `B-0`, `C-0`, `D-0`, `X-0`).
+The quarters may be named `A-D` as in Asamov's [World Season Calendar][7] (`A-0`, `B-0`, `C-0`, `D-0`, `X-0`).
+
+A better format would be culturally neutral and only use numbers and punctuation.
 
 ## Accuracy
 
