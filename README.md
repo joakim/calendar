@@ -1,18 +1,11 @@
-# Calendar
+# A Calendar for the Future
 
-A [perennial](https://en.wikipedia.org/wiki/Perennial_calendar) [solar calendar](https://en.wikipedia.org/wiki/Solar_calendar) based on astronomical calculations or observations.
-
+- A [perennial](https://en.wikipedia.org/wiki/Perennial_calendar) [solar calendar](https://en.wikipedia.org/wiki/Solar_calendar) based on astronomical calculations or observations
 - Based on the Persian [Solar Hijri calendar](https://en.wikipedia.org/wiki/Solar_Hijri_calendar), in turn based on the [Jalali calendar](https://en.wikipedia.org/wiki/Jalali_calendar) of AD 1079 <sup>([note 1](#notes))</sup>
   - With roots in the [Zoroastrian calendar](https://en.wikipedia.org/wiki/Zoroastrian_calendar) and possibly the [Egyptian calendar](https://en.wikipedia.org/wiki/Egyptian_calendar) <sup>([note 2](#notes))</sup>
-- Follows the real [northward equinox](https://en.wikipedia.org/wiki/March_equinox) year, not to be confused with the mean tropical year
-
-### Summary
-
-**The Persian calendar with a different meridian, different division of the year and a different epoch.**
-
-- The year begins at the northward equinox (March) at the prime meridian (UTC)
+- The year begins at the [northward equinox](https://en.wikipedia.org/wiki/March_equinox) at the [prime meridian](https://en.wikipedia.org/wiki/Prime_meridian) (UTC)
 - 360 common days, reflecting a full circle
-  - Plus 5 or 6 intercalary (epogamenal) days
+  - Plus 5 or 6 intercalary/epogamenal days
 - Divided into 4 quarters, each of 91 days
   - 1 intercalary day
   - 90 common days
@@ -20,6 +13,8 @@ A [perennial](https://en.wikipedia.org/wiki/Perennial_calendar) [solar calendar]
     - Grouped 3 * 3, for a total of 40 * 9-day "weeks" per year
 - The remaining 1 or 2 days at the end of the year are intercalary transition days
 - Proposed epoch is the beginning of the human era (10 001 BC)
+
+**Essentially, the Persian calendar with a different meridian, different division of the year and a different epoch.**
 
 ### Advantages
 
@@ -51,7 +46,8 @@ A [perennial](https://en.wikipedia.org/wiki/Perennial_calendar) [solar calendar]
   - Calculations should be based on the instant of the northward equinox at the prime meridian <sup>([note 3](#notes))</sup>
   - Local new year is then easily calculated from this instant using UTC time zone offsets
 - The local instant of the northward equinox should be celebrated as the start of the new year <sup>([note 4](#notes))</sup>
-- Intercalation (leap years) follows the same 33 year cycle as the Persian calendar ([Heydari-Malayeri, 2004][1])
+- Leap years follow a 33 year cycle like the Persian calendar ([Heydari-Malayeri, 2004][1])
+- Calculations use the real northward equinox year, not to be confused with the mean tropical year
 
 ### Units
 
