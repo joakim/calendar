@@ -97,17 +97,17 @@ The calendar's epoch may be the instant of the northward equinox of the [Holocen
 
 #### Example of date format ([ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) like)
 
-  - `eight` (1-8) and `day-of-eighth` (1-45) – _Recommended for common/civil use_
+  - Eight: `eight` (1-8) and `day-of-eighth` (1-45)
     - `[year]-[eighth]-[day-of-eighth]`
-  - `nonad` (1-40) and `day-of-nonad` (1-9) – _Recommended for scheduling_
+  - Nonad: `nonad` (1-40) and `day-of-nonad` (1-9)
     - `[year]-N[nonad]-[day-of-nonad]`
-  - `quarter` (1-4) or `quarter-letter` (A-D) and `day-of-quarter` (0-90) – _For agriculture and business_
+  - Quarter: `quarter` (1-4) or `quarter-letter` (A-D) and `day-of-quarter` (0-90)
     - `[year]-Q[quarter]-[day-of-quarter]`
     - `[year]-[quarter-letter]-[day-of-quarter]`
-  - `day-of-transition` (0-1)
+  - Transition: `day-of-transition` (0-1)
     - `[year]-X-[day-of-transition]`
 
-The quarters may be named `A-D` as in Asamov's [World Season Calendar][7] (`A-0`, `B-0`, `C-0`, `D-0`, `X-0`).
+The quarters may be named `A-D` similar to Asamov's [World Season Calendar][7] (`A-0`, `B-0`, `C-0`, `D-0`, `X-0`).
 
 A better format would be culturally neutral and only use numbers and punctuation.
 
@@ -145,7 +145,7 @@ However, features like these may be applied just as they are applied to existing
 #### Notes:
 
 1. Calendar reform led by the Persian mathematician, astronomer, philosopher, and poet [Omar Khayyâm](https://en.wikipedia.org/wiki/Omar_Khayyam)
-2. Both calendars had 5 "stolen days", possibly a reference to [the Egyptian myth of Nut and Ra](https://en.wikipedia.org/wiki/Nut_(goddess)#Myth_of_Nut_and_Ra)?
+2. Both calendars had 5 "stolen days", possibly a reference to [the Egyptian myth of Nut and Ra](https://en.wikipedia.org/wiki/Nut_(goddess)#Myth_of_Nut_and_Ra)
 3. Instead of Tehran, this calendar's reference point effectively becomes 0°N 0°E, popularly known as [Null Island](https://en.wikipedia.org/wiki/Null_Island)
 4. Either the exact local instant, or as calculated from the exact instant at the prime meridian
 
