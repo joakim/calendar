@@ -4,7 +4,7 @@
   - Based on the Persian [Solar Hijri calendar](https://en.wikipedia.org/wiki/Solar_Hijri_calendar), in turn based on the [Jalali calendar](https://en.wikipedia.org/wiki/Jalali_calendar) of AD 1079 <sup>([note 1](#notes))</sup>
   - With roots in the [Zoroastrian calendar](https://en.wikipedia.org/wiki/Zoroastrian_calendar) and possibly the [Egyptian calendar](https://en.wikipedia.org/wiki/Egyptian_calendar) <sup>([note 2](#notes))</sup>
 - The year begins at the [northward equinox](https://en.wikipedia.org/wiki/March_equinox) at the [prime meridian](https://en.wikipedia.org/wiki/Prime_meridian)
-- 360 common days, 5 or 6 intercalary days
+- 360 common days, 5 or 6 [intercalary](https://en.wikipedia.org/wiki/Intercalation_(timekeeping)#Solar_calendars) days
 - 4 quarters of 91 days (1 intercalary and 90 common days)
 - 8 "months" of 45 days
 - 40 "weeks" of 9 days (grouped 3 * 3)
@@ -24,13 +24,13 @@
   - Agriculture (seasonal, follows natural cycles)
   - Business (evenly divided, flexible scheduling)
 - **Neutral**
-  - Not tied to any cultures or locations, except for those of the current scientific paradigm
+  - Not tied to any cultures or locations, except inevitably to those of the current scientific paradigm
   - While scientifically grounded, it does not oppose combination with cultural or religious concepts
 
 ### Disadvantages
 
 - Unfamiliar "months", "weeks", "new year" and epoch
-- No simple rule for leap years, a trade-off with accuracy
+- No simple rule for leap years, in exchange for accuracy
 - Just a calendar proposed by someone named Joakim (who is not the pope)
 
 ## Definition
@@ -48,7 +48,7 @@
 
 ### Units
 
-- **year** (360 common days + 5 or 6 [intercalary](https://en.wikipedia.org/wiki/Intercalation_(timekeeping)#Solar_calendars) days)
+- **year** (360 common days + 5 or 6 intercalary days)
 - **quarter** (1/4 of a year's first 364 days)
 - **eighth** (1/8 of a year's 360 common days)
 - **nonad** (9 days)
