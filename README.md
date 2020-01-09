@@ -90,7 +90,7 @@ The calendar's epoch may be the instant of the northward equinox of the [Holocen
 
 #### Example of date format ([ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) like)
 
-  - Eight: `eight` (1-8) and `day-of-eighth` (1-45)
+  - Eighth: `eighth` (1-8) and `day-of-eighth` (1-45)
     - `[year]-[eighth]-[day-of-eighth]`
   - Nonad: `nonad` (1-40) and `day-of-nonad` (1-9)
     - `[year]-N[nonad]-[day-of-nonad]`
