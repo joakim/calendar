@@ -148,10 +148,14 @@ However, features like these may be applied just as they are applied to existing
 - [The Liberalia Triday Calendar][3] (Meyer, 1999)
 - [More Mathematical Astronomy Morsels][4] (Meeus, 2002)
 
-#### Recommended:
+#### Recommended links:
 
 - [Calendar Reform][15] (McCarty)
-- [The Non-implemented 33-Year English Protestant Calendar][2] (Steel, 1999)
+- [Calendars New and Old][16] (Meyer)
+  - [The Non-implemented 33-Year English Protestant Calendar][2] (Steel, 1999)
+  - [How Britain got the Calendar Wrong][18] (Steel, 1999)
+- [One Day Too Many][17] (Schlag)  
+  <small><em>Doesn't mention the Persian calendar. This calendar would also solve all the [faults](http://www.schlag.name/calendarreform11.html) of the Gregorian calendar.</em></small>
 - [The Persian calendar for 3000 years][5] (Borkowski, 1996)
 
 [1]: http://aramis.obspm.fr/~heydari/divers/ir-cal-eng.html
@@ -169,3 +173,6 @@ However, features like these may be applied just as they are applied to existing
 [13]: http://myweb.ecu.edu/mccartyr/world-calendar.html
 [14]: http://bosonline.com/primavera/
 [15]: http://myweb.ecu.edu/mccartyr/calendar-reform.html
+[16]: https://www.hermetic.ch/cal_stud.htm
+[17]: http://www.schlag.name/calendarreform00.htm
+[18]: https://www.hermetic.ch/cal_stud/dst02.htm
