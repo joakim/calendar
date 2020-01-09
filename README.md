@@ -29,7 +29,7 @@
 
 ### Disadvantages
 
-- Unfamiliar "months", "weeks", "new year" and epoch
+- Unfamiliar dates ("months", "weeks", new year) and epoch
 - No simple rule for leap years, in exchange for accuracy
 - Just a calendar proposed by someone named Joakim (who is not the pope)
 
@@ -55,7 +55,7 @@
 - **triad** (3 days)
 - **day** ([24 hours](https://en.wikipedia.org/wiki/Nychthemeron))
 
-The names "eighth", "nonad" and "triad" are descriptive only.
+The names "eighth", "nonad" and "triad" are descriptive only, better names should be found.
 
 ### Structure
 
