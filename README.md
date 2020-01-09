@@ -29,9 +29,9 @@
 
 ### Disadvantages
 
-- Unfamiliar units and dates ("[months](https://en.wikipedia.org/wiki/Month)", "[weeks](https://en.wikipedia.org/wiki/Week)", new year)
-- No simple leap year rule, in exchange for accuracy
-- Yet another calendar, made by some commoner named Joakim (who is not the pope)
+- **Unfamiliarity** – different units and dates ("[months](https://en.wikipedia.org/wiki/Month)", "[weeks](https://en.wikipedia.org/wiki/Week)", new year)
+- **No simple leap year rule** – in exchange for accuracy
+- **Yet another calendar** – made by some commoner named Joakim (who is not the pope)
 
 ## Definition
 
