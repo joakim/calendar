@@ -124,9 +124,9 @@ However, features like these may be applied just as they are applied to existing
 - Alexander Laik's [Calendar of the Rainbow][12]
 - [The Dee-Cecil Calendar][11]
 - [The World Calendar][13]
-- [Primavera Calendar][14]
+- [The Primavera Calendar][14]
 - [Universal Celestial Calendar][9]
-- [Earth Epic Calendar][10]
+- [The Earth Epic Calendar][10]
 
 ---
 
@@ -143,8 +143,9 @@ However, features like these may be applied just as they are applied to existing
 - [The Liberalia Triday Calendar][3] (Meyer, 1999)
 - [More Mathematical Astronomy Morsels][4] (Meeus, 2002)
 
-#### Recommended reading:
+#### Recommended:
 
+- [Calendar Reform][15] (McCarty)
 - [The Non-implemented 33-Year English Protestant Calendar][2] (Steel, 1999)
 - [The Persian calendar for 3000 years][5] (Borkowski, 1996)
 
@@ -162,3 +163,4 @@ However, features like these may be applied just as they are applied to existing
 [12]: https://calendars.wikia.org/wiki/Calendar_of_the_Rainbow
 [13]: http://myweb.ecu.edu/mccartyr/world-calendar.html
 [14]: http://bosonline.com/primavera/
+[15]: http://myweb.ecu.edu/mccartyr/calendar-reform.html
