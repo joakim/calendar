@@ -4,7 +4,7 @@
   - Based on the Persian [Solar Hijri calendar](https://en.wikipedia.org/wiki/Solar_Hijri_calendar), in turn based on the [Jalali calendar](https://en.wikipedia.org/wiki/Jalali_calendar) of AD 1079 <sup>([note 1](#notes))</sup>
   - With roots in the [Zoroastrian calendar](https://en.wikipedia.org/wiki/Zoroastrian_calendar) and possibly the [Egyptian calendar](https://en.wikipedia.org/wiki/Egyptian_calendar) <sup>([note 2](#notes))</sup>
 - The year begins at the [northward equinox](https://en.wikipedia.org/wiki/March_equinox) at the [prime meridian](https://en.wikipedia.org/wiki/Prime_meridian)
-- 360 common days, 5 or 6 [intercalary/epogamenal](https://en.wikipedia.org/wiki/Intercalation_(timekeeping)#Solar_calendars) days
+- 360 common days, 5 or 6 [intercalary/epagomenal](https://en.wikipedia.org/wiki/Intercalation_(timekeeping)#Solar_calendars) days
 - 4 quarters of 91 days (1 intercalary and 90 common days)
 - 8 "months" of 45 days
 - 40 "weeks" of 9 days (grouped 3 * 3)
