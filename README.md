@@ -23,15 +23,15 @@ A [perennial](https://en.wikipedia.org/wiki/Perennial_calendar) [solar calendar]
 
 ### Advantages
 
-- Accurate – _in perpetuum_ when based on astronomical observations (see [Accuracy](#accuracy))
-- Simple – division of the year into 4 and 8 equal parts makes it easy to learn and visualize
-- Dynamic – grouping of days into 3 * 3 is a powerful concept (based on Peter Meyer's [triday][3])
-- Perennial – dates and seasons are fixed in relation to the northward equinox
-- Structured – yet flexible enough to adapt to different needs and cultures
+- **Accurate** – _in perpetuum_ when based on astronomical observations (see [Accuracy](#accuracy))
+- **Simple** – division of the year into 4 and 8 equal parts makes it easy to learn and visualize
+- **Dynamic** – grouping of days into 3 * 3 is a powerful concept (based on Peter Meyer's [triday][3])
+- **Perennial** – dates and seasons are fixed in relation to the northward equinox
+- **Structured** – yet flexible enough to adapt to different needs and cultures
   - Civil (simple, predictable)
   - Agriculture (seasonal, follows natural cycles)
   - Business (evenly divided, flexible scheduling)
-- Neutral
+- **Neutral**
   - Not tied to any cultures or locations, except for those of the current scientific paradigm
   - While scientifically grounded, it does not oppose combination with cultural or religious concepts
 
@@ -97,14 +97,14 @@ The calendar's epoch may be the instant of the northward equinox of the [Holocen
 
 #### Example of date format ([ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) like)
 
-  - Eight (1-8) and day-of-eighth (1-45) – Recommended for common/civil use
+  - `eight` (1-8) and `day-of-eighth` (1-45) – _Recommended for common/civil use_
     - `[year]-[eighth]-[day-of-eighth]`
-  - Nonad (1-40) and day-of-nonad (1-9) – Recommended for scheduling
+  - `nonad` (1-40) and `day-of-nonad` (1-9) – _Recommended for scheduling_
     - `[year]-N[nonad]-[day-of-nonad]`
-  - Quarter (1-4 or A-D) and day-of-quarter (0-90) – Useful in agriculture and business
+  - `quarter` (1-4) or `quarter-letter` (A-D) and `day-of-quarter` (0-90) – _For agriculture and business_
     - `[year]-Q[quarter]-[day-of-quarter]`
     - `[year]-[quarter-letter]-[day-of-quarter]`
-  - Day-of-transition (0-1)
+  - `day-of-transition` (0-1)
     - `[year]-X-[day-of-transition]`
 
 The quarters may be named `A-D` as in Asamov's [World Season Calendar][7] (`A-0`, `B-0`, `C-0`, `D-0`, `X-0`).
