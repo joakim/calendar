@@ -142,11 +142,11 @@ However, features like these may be applied just as they are applied to existing
 - [A concise review of the Iranian calendar][1] (Heydari-Malayeri, 2004)
 - [The Liberalia Triday Calendar][3] (Meyer, 1999)
 - [More Mathematical Astronomy Morsels][4] (Meeus, 2002)
-- [The Persian calendar for 3000 years][5] (Borkowski, 1996)
 
 #### Recommended reading:
 
 - [The Non-implemented 33-Year English Protestant Calendar][2] (Steel, 1999)
+- [The Persian calendar for 3000 years][5] (Borkowski, 1996)
 
 [1]: http://aramis.obspm.fr/~heydari/divers/ir-cal-eng.html
 [2]: https://www.hermetic.ch/cal_stud/dst01.htm
