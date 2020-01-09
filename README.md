@@ -29,9 +29,9 @@
 
 ### Disadvantages
 
-- Unfamiliar dates ("months", "weeks", new year) and epoch
-- No simple rule for leap years, in exchange for accuracy
-- Just a calendar proposed by someone named Joakim (who is not the pope)
+- Unfamiliar units and dates ("[months](https://en.wikipedia.org/wiki/Month)", "[weeks](https://en.wikipedia.org/wiki/Week)", new year)
+- No simple leap year rule, in exchange for accuracy
+- Yet another calendar, made by some commoner named Joakim (who is not the pope)
 
 ## Definition
 
@@ -55,7 +55,7 @@
 - **triad** (3 days)
 - **day** ([24 hours](https://en.wikipedia.org/wiki/Nychthemeron))
 
-The names "eighth", "nonad" and "triad" are descriptive only, better names should be found.
+The names "eighth", "nonad" and "triad" are descriptive only, better names should be adopted.
 
 ### Structure
 
@@ -64,19 +64,18 @@ The names "eighth", "nonad" and "triad" are descriptive only, better names shoul
   - 1 intercalary day that represents the equinox/solstice
   - 90 common days
 - The year's 360 common days may be divided as follows
-  - Proposed division: 8 eighths ("[months](https://en.wikipedia.org/wiki/Month)") and 40 nonads ("[weeks](https://en.wikipedia.org/wiki/Week)")
-    - 8 eighths of 45 days, 2 eighths per quarter
-    - 40 nonads of 9 days, 10 nonads per quarter
+  - Proposed division: 8 eighths ("months") and 40 nonads ("weeks")
+    - 8 eighths of 45 days (2 eighths per quarter)
+    - 40 nonads of 9 days (10 nonads per quarter, 5 nonads per eighth)
       - Each nonad may be further divided into 3 triads of 3 days
   - Traditional division: 12 "months"
-    - 12 months of 30 days, 3 months per quarter
+    - 12 months of 30 days (3 months per quarter)
     - Drawback: A month can not fit a whole number of nonads (3.3 per month)
-    - Drawback: Traditional month names should not be used, requiring 12 new names
  - The remaining 1 or 2 days at the end of the year are intercalary transition days before the new year
 
 ### Proposed epoch
 
-The calendar's epoch may be the instant of the northward equinox of the [Holocene Calendar](https://en.wikipedia.org/wiki/Holocene_calendar)'s epoch (10 001 BC), maintaining the reference to Anno Domini (HE 12020 = AD 2020). Alternatively, [Anno Domini](https://en.wikipedia.org/wiki/Anno_Domini) may be retained.
+The calendar's epoch may be the instant of the northward equinox of the [Holocene Calendar](https://en.wikipedia.org/wiki/Holocene_calendar)'s epoch, 10 001 BC, maintaining the reference to Anno Domini (HE 12020 = AD 2020). Alternatively, [Anno Domini](https://en.wikipedia.org/wiki/Anno_Domini) may be retained.
 
 ## Proposed notation
 
@@ -102,7 +101,7 @@ The calendar's epoch may be the instant of the northward equinox of the [Holocen
 
 The quarters may be named `A-D` similar to Asamov's [World Season Calendar][7] (`A-0`, `B-0`, `C-0`, `D-0`, `X-0`).
 
-A better format would be culturally neutral and only use numbers and punctuation.
+A better format would be one that is culturally neutral, only using numbers and punctuation.
 
 ## Accuracy
 
