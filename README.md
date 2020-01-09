@@ -80,10 +80,11 @@ The calendar's epoch may be the instant of the northward equinox of the [Holocen
 ## Proposed notation
 
 - The **numbering** of units must be fixed
-  - Divisions of the year should be 1-indexed (namely quarters, eighths/months and nonads)
-  - Days of divisions containing intercalary days are 0-indexed (namely quarters and transition days)
+  - Divisions of the year are 1-indexed (namely quarters, eighths/months and nonads)
+  - Days of divisions containing intercalary days are 0-indexed (namely quarters and transitions)
+    - Day 0 of a quarter is the quarter's intercalary day
   - Days of divisions of common days are 1-indexed (namely eighths/months and nonads)
-  - Transition days belong to the enclosing year and none of its divisions
+  - Transition days do not belong to any of the year's divisions
 - The **naming** of units may vary by language, locale or culture
 - The **formatting** of dates should be standardized and the same for all
 
