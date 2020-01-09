@@ -13,11 +13,11 @@ A [perennial](https://en.wikipedia.org/wiki/Perennial_calendar) [solar calendar]
 - The year begins at the northward equinox (March) at the prime meridian (UTC)
 - 360 common days, reflecting a full circle
   - Plus 5 or 6 intercalary (epogamenal) days
-- 4 quarters, each having 91 days
+- Divided into 4 quarters, each of 91 days
   - 1 intercalary day
   - 90 common days
-    - Divided into 2, for a total of 8 45-day "months" per year
-    - Grouped 3 * 3, for a total of 40 9-day "weeks" per year
+    - Divided into 2, for a total of 8 * 45-day "months" per year
+    - Grouped 3 * 3, for a total of 40 * 9-day "weeks" per year
 - The remaining 1 or 2 days at the end of the year are intercalary transition days
 - Proposed epoch is the beginning of the human era (10 001 BC)
 
@@ -48,12 +48,12 @@ A [perennial](https://en.wikipedia.org/wiki/Perennial_calendar) [solar calendar]
 
 - **year** (360 common days + 5 or 6 [intercalary](https://en.wikipedia.org/wiki/Intercalation_(timekeeping)#Solar_calendars) days)
 - **quarter** (1/4 of a year's first 364 days)
-- **octal** (1/8 of a year's 360 common days)
+- **eighth** (1/8 of a year's 360 common days)
 - **nonad** (9 days)
-- **trio** (3 days)
+- **triad** (3 days)
 - **day** ([24 hours](https://en.wikipedia.org/wiki/Nychthemeron))
 
-The names "octal", "nonad" and "trio" are descriptive only.
+The names "eighth", "nonad" and "triad" are descriptive only.
 
 ### Structure
 
@@ -62,40 +62,40 @@ The names "octal", "nonad" and "trio" are descriptive only.
   - 1 intercalary day that represents the equinox/solstice
   - 90 common days
 - The year's 360 common days may be divided as follows
-  - Proposed division: 8 octals ("months") and 40 nonads ("weeks")
-    - 8 octals of 45 days, 2 octals per quarter
+  - Proposed division: 8 eighths ("months") and 40 nonads ("weeks")
+    - 8 eighths of 45 days, 2 eighths per quarter
     - 40 nonads of 9 days, 10 nonads per quarter
-      - Each nonad may be further divided into 3 trios of 3 days
+      - Each nonad may be further divided into 3 triads of 3 days
   - Traditional division: 12 "months"
     - 12 months of 30 days, 3 months per quarter
-    - Drawback: A month can not fit a whole number of nonands (3.33 per month)
+    - Drawback: A month can not fit a whole number of nonads (3.3 per month)
     - Drawback: Traditional month names can not be used, requiring 12 new names
  - The remaining 1 or 2 days at the end of the year are intercalary transition days before the next new year
 
-### Epoch
+### Proposed epoch
 
 The calendar's epoch may be the instant of the northward equinox of the [Holocene calendar](https://en.wikipedia.org/wiki/Holocene_calendar)'s epoch (10 001 BC), maintaining the reference to Anno Domini (HE 12020 = AD 2020). Alternatively, [Anno Domini](https://en.wikipedia.org/wiki/Anno_Domini) may be retained.
 
 ## Proposed notation
 
 - The _numbering_ of units must be fixed
-  - Divisions of the year should be 1-indexed (namely quarters, octals/months and nonads)
+  - Divisions of the year should be 1-indexed (namely quarters, eighths/months and nonads)
   - Days of divisions containing intercalary days are 0-indexed (namely quarters and transition days)
-  - Days of divisions of common days are 1-indexed (namely octals/months and nonads)
+  - Days of divisions of common days are 1-indexed (namely eighths/months and nonads)
   - Transition days belong to the enclosing year and none of its divisions
 - The _naming_ of units may vary by language, locale or culture
 - The _formatting_ of dates should be standardized and the same for all
 
 #### Proposed date formats ([ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) like)
 
-  - Day-of-octal (1-45) – Recommended for common/civil use
-    - `[year]-[octal]-[octal-day]`
+  - Day-of-eighth (1-45) – Recommended for common/civil use
+    - `[year]-[eighth]-[day-of-eighth]`
   - Day-of-nonad (1-9) – Recommended for scheduling
-    - `[year]-N[nonad]-[nonad-day]`
+    - `[year]-N[nonad]-[day-of-nonad]`
   - Day-of-quarter (0-90) – Useful in agriculture and business
-    - `[year]-Q[quarter]-[quarter-day]`
+    - `[year]-Q[quarter]-[day-of-quarter]`
   - Day-of-transition (0-1)
-    - `[year]-X-[transition-day]`
+    - `[year]-X-[day-of-transition]`
 
 Alternatively, the quarters may be named `A-D` as in Asamov's [World Season Calendar][7] (`A-0`, `B-0`, `C-0`, `D-0`, `X-0`).
 
