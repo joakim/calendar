@@ -122,9 +122,11 @@ However, features like these may be applied just as they are applied to existing
 - Isaac Asamov's [World Season Calendar][7]
 - Peter Meyer's [Liberalia Triday Calendar][8]
 - Alexander Laik's [Calendar of the Rainbow][12]
+- [The Dee-Cecil Calendar][11]
+- [The World Calendar][13]
+- [Primavera Calendar][14]
 - [Universal Celestial Calendar][9]
 - [Earth Epic Calendar][10]
-- [The Dee-Cecil Calendar][11]
 
 ---
 
@@ -155,6 +157,8 @@ However, features like these may be applied just as they are applied to existing
 [7]: https://calendars.wikia.org/wiki/World_Season_Calendar
 [8]: https://www.hermetic.ch/cal_stud/ltc/ltc.htm
 [9]: https://www.universalcelestialcalendar.com/
-[10]: https://earthepiccalendar.com/
+[10]: https://earthepiccalendar.com/current-calendar/
 [11]: https://www.hermetic.ch/cal_stud/gods_longitude.htm
 [12]: https://calendars.wikia.org/wiki/Calendar_of_the_Rainbow
+[13]: http://myweb.ecu.edu/mccartyr/world-calendar.html
+[14]: http://bosonline.com/primavera/
