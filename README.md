@@ -145,7 +145,7 @@ However, features like these may be applied just as they are applied to existing
 #### References:
 
 - [A concise review of the Iranian calendar][1] (Heydari-Malayeri, 2004)
-- [The Liberalia Triday Calendar][3] (Meyer, 1999)
+- [The Liberalia Triday Calendar][8] (Meyer, 1999)
 - [More Mathematical Astronomy Morsels][4] (Meeus, 2002)
 
 #### Recommended links:
