@@ -75,7 +75,7 @@ The names "eighth", "nonad" and "triad" are descriptive only, better names shoul
 
 ### Proposed epoch
 
-The midnight closest to the northward equinox of the [Holocene Calendar](https://en.wikipedia.org/wiki/Holocene_calendar)'s epoch, 10 001 BC, maintaining a reference to [Anno Domini](https://en.wikipedia.org/wiki/Anno_Domini) (HE 12020 = AD 2020).
+The midnight closest to the northward equinox of the Human Era epoch of the [Holocene Calendar](https://en.wikipedia.org/wiki/Holocene_calendar), 10 001 BC, maintaining a reference to the currently dominant [Anno Domini](https://en.wikipedia.org/wiki/Anno_Domini) (HE 12020 = AD 2020).
 
 ## Proposed notation
 
