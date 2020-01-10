@@ -18,19 +18,19 @@
 - **[Accurate](#accuracy)** – forever when based on astronomical observations
 - **Simple** – division of the year into 2, 4 and 8 equal parts makes it easy to learn and visualize
 - **Dynamic** – grouping of days into 3 * 3 is a powerful concept based on Peter Meyer's "[tridays][3]"
-- **Perennial** – dates and seasons are fixed, in relation to the northward equinox
-- **Structured** – yet flexible enough to adapt to different needs and cultures
+- **Perennial** – dates and seasons are fixed
+- **Structured** – yet flexible enough to adapt to different uses and cultures
   - Civil (simple, predictable)
   - Agriculture (seasonal, follows natural cycles)
   - Business (evenly divided, flexible scheduling)
 - **Neutral**
-  - Not tied to any cultures or locations, except inevitably to those of the current scientific paradigm
+  - Not tied to any cultures or locations, except inevitably to the current scientific paradigm
   - While scientifically grounded, it does not oppose combination with cultural or religious concepts
 
 ### Disadvantages
 
-- **Unfamiliarity** – different units and dates ("[months](https://en.wikipedia.org/wiki/Month)", "[weeks](https://en.wikipedia.org/wiki/Week)", new year)
 - **No simple leap year rule** – in exchange for accuracy
+- **Unfamiliarity** – different units and dates ("[months](https://en.wikipedia.org/wiki/Month)", "[weeks](https://en.wikipedia.org/wiki/Week)", new year, epoch)
 - **Yet another calendar** – made by some commoner named Joakim (who is not the pope)
 
 ## Definition
