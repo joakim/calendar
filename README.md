@@ -3,12 +3,12 @@
 - A [perennial](https://en.wikipedia.org/wiki/Perennial_calendar) [solar calendar](https://en.wikipedia.org/wiki/Solar_calendar) based on astronomical calculations or observations
   - Based on the Persian [Solar Hijri calendar](https://en.wikipedia.org/wiki/Solar_Hijri_calendar), in turn based on the [Jalali calendar](https://en.wikipedia.org/wiki/Jalali_calendar) of AD 1079 <sup>[1](#notes)</sup>
   - With roots in the [Zoroastrian calendar](https://en.wikipedia.org/wiki/Zoroastrian_calendar) and possibly the [Egyptian calendar](https://en.wikipedia.org/wiki/Egyptian_calendar) <sup>[2](#notes)</sup>
-- The year begins at the [northward equinox](https://en.wikipedia.org/wiki/March_equinox) at the [prime meridian](https://en.wikipedia.org/wiki/Prime_meridian)
-- 360 common days, 5 or 6 [intercalary/epagomenal](https://en.wikipedia.org/wiki/Intercalation_(timekeeping)#Solar_calendars) days
-- 4 quarters of 91 days (1 intercalary and 90 common days)
-- 8 "months" of 45 days
-- 40 "weeks" of 9 days (3 * 3 days, based on the [Liberalia Triday Calendar][8])
-- 1 or 2 intercalary transition days at the end of the year
+- The year begins at the [northward equinox](https://en.wikipedia.org/wiki/March_equinox)
+- 360 common days + 5 or 6 [intercalary/epagomenal](https://en.wikipedia.org/wiki/Intercalation_(timekeeping)#Solar_calendars) days
+  - 4 quarters of 91 days (1 intercalary and 90 common days)
+  - 8 "months" of 45 days
+  - 40 "weeks" of 9 days (3 * 3 days, based on the [Liberalia Triday Calendar][8])
+  - 1 or 2 intercalary transition days at the end of the year
 - Proposed epoch is the beginning of the human era (10 001 BC)
 
 **Essentially, the Persian calendar with a different meridian, different division of the year and a different epoch.**
@@ -39,7 +39,7 @@
 
 > The calendar year begins at the midnight closest to the instant of the northward equinox. Consequently, if the northward equinox falls _before_ solar noon on a particular day, then that day is the first day of the year. If the northward equinox occurs _after_ solar noon, the following day begins the calendar year.
 
-- This may be calculated for the prime meridian ([Meeus, 2002][4]) or observed locally (even with a [sundial](https://en.wikipedia.org/wiki/Sundial))
+- This may be calculated for the [prime meridian](https://en.wikipedia.org/wiki/Prime_meridian) ([Meeus, 2002][4]) or observed locally (even with a [sundial](https://en.wikipedia.org/wiki/Sundial))
   - Calculations should be based on the instant of the northward equinox at the prime meridian <sup>[3](#notes)</sup>
   - Local new year is then easily calculated from this instant using an offset (for example UTC time zone)
 - The local new year should be celebrated, not that of the prime meridian <sup>[4](#notes)</sup>
