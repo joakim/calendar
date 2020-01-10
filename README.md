@@ -70,12 +70,12 @@ The names "eighth", "nonad" and "triad" are descriptive only, better names shoul
       - Each nonad may be further divided into 3 triads of 3 days
   - Traditional division: 12 "months"
     - 12 months of 30 days (3 months per quarter)
-    - Drawback: A month can not fit a whole number of nonads (3.3 per month)
+    - Drawback: A month can not fit a whole number of "weeks" (3.3 nonads per month)
  - The remaining 1 or 2 days at the end of the year are intercalary transition days before the new year
 
 ### Proposed epoch
 
-The calendar's epoch may be the midnight closest to the northward equinox of the [Holocene Calendar](https://en.wikipedia.org/wiki/Holocene_calendar)'s epoch, 10 001 BC, maintaining a reference to Anno Domini (HE 12020 = AD 2020).
+The midnight closest to the northward equinox of the [Holocene Calendar](https://en.wikipedia.org/wiki/Holocene_calendar)'s epoch, 10 001 BC, maintaining a reference to Anno Domini (HE 12020 = AD 2020).
 
 ## Proposed notation
 
