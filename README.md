@@ -75,7 +75,7 @@ The names "eighth", "nonad" and "triad" are descriptive only, better names shoul
 
 ### Proposed epoch
 
-The calendar's epoch may be the instant of the northward equinox of the [Holocene Calendar](https://en.wikipedia.org/wiki/Holocene_calendar)'s epoch, 10 001 BC, maintaining the reference to Anno Domini (HE 12020 = AD 2020). Alternatively, [Anno Domini](https://en.wikipedia.org/wiki/Anno_Domini) may be retained.
+The calendar's epoch may be the midnight closest to the northward equinox of the [Holocene Calendar](https://en.wikipedia.org/wiki/Holocene_calendar)'s epoch, 10 001 BC, maintaining a reference to Anno Domini (HE 12020 = AD 2020).
 
 ## Proposed notation
 
