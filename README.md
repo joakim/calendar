@@ -37,14 +37,14 @@
 
 ### New Year
 
-> The calendar year begins at the midnight closest to the instant of the northward equinox. Consequently, if the northward equinox falls before solar noon on a particular day, then that day is the first day of the year. If the northward equinox occurs after solar noon, the following day begins the calendar year.
+> The calendar year begins at the midnight closest to the instant of the northward equinox. Consequently, if the northward equinox falls _before_ solar noon on a particular day, then that day is the first day of the year. If the northward equinox occurs _after_ solar noon, the following day begins the calendar year.
 
 - This may be calculated for the prime meridian ([Meeus, 2002][4]) or observed locally (even with a [sundial](https://en.wikipedia.org/wiki/Sundial))
   - Calculations should be based on the instant of the northward equinox at the prime meridian <sup>([note 3](#notes))</sup>
-  - Local new year is then easily calculated from this instant using an offset (for example time zones)
-- Local new year should be celebrated, not that of the prime meridian <sup>([note 4](#notes))</sup>
+  - Local new year is then easily calculated from this instant using an offset (for example UTC time zone)
+- The local new year should be celebrated, not that of the prime meridian <sup>([note 4](#notes))</sup>
 - Leap years follow a 33 year cycle, like the Persian calendar ([Heydari-Malayeri, 2004][1])
-  - Calculations should use the _real northward equinox year_, not to be confused with the _mean tropical year_
+  - Calculations should use the _real northward equinox year_, not to be confused with the _mean tropical year_ <sup>([note 5](#notes))</sup>
 
 ### Units
 
@@ -141,6 +141,7 @@ However, features like these may be applied just as they are applied to existing
 2. Both calendars had 5 "stolen days", possibly a reference to [the Egyptian myth of Nut and Ra](https://en.wikipedia.org/wiki/Nut_(goddess)#Myth_of_Nut_and_Ra)
 3. Instead of Tehran, this calendar's reference point effectively becomes 0°N 0°E, popularly known as [Null Island](https://en.wikipedia.org/wiki/Null_Island)
 4. Either the exact local instant, or local midnight as calculated from new year at the prime meridian
+5. A [widespread misunderstanding][19] that must be avoided when implementing this calendar
 
 #### References:
 
@@ -176,3 +177,4 @@ However, features like these may be applied just as they are applied to existing
 [16]: https://www.hermetic.ch/cal_stud.htm
 [17]: http://www.schlag.name/calendarreform00.htm
 [18]: https://www.hermetic.ch/cal_stud/dst02.htm
+[19]: https://hermetic.ch/cal_stud/cassidy/err_trop.htm
