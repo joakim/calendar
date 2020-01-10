@@ -7,7 +7,7 @@
 - 360 common days, 5 or 6 [intercalary/epagomenal](https://en.wikipedia.org/wiki/Intercalation_(timekeeping)#Solar_calendars) days
 - 4 quarters of 91 days (1 intercalary and 90 common days)
 - 8 "months" of 45 days
-- 40 "weeks" of 9 days (3 * 3 days)
+- 40 "weeks" of 9 days (3 * 3 days, based on the [Liberalia Triday Calendar][8])
 - 1 or 2 intercalary transition days at the end of the year
 - Proposed epoch is the beginning of the human era (10 001 BC)
 
@@ -17,7 +17,7 @@
 
 - **[Accurate](#accuracy)** – forever when based on astronomical observations
 - **Simple** – division of the year into 2, 4 and 8 equal parts makes it easy to learn and visualize
-- **Dynamic** – grouping of days into 3 * 3 is a powerful concept based on Peter Meyer's [triday][3]
+- **Dynamic** – grouping of days into 3 * 3 is a powerful concept based on Peter Meyer's "[tridays][3]"
 - **Perennial** – dates and seasons are fixed, in relation to the northward equinox
 - **Structured** – yet flexible enough to adapt to different needs and cultures
   - Civil (simple, predictable)
@@ -120,7 +120,7 @@ Calendars based on the Jalali calendar are the most accurate in relation to the 
 - Align with the 12 constellations of the [zodiac](https://en.wikipedia.org/wiki/Zodiac), due to the (lunisolar) [precession of the ecliptic](https://en.wikipedia.org/wiki/Axial_precession)
 - Introduce time scales or prescribe holidays – it's just a calendar
 
-However, features like these may be applied just as they are applied to existing calendars. For example, the unbroken chain of 7-day weeks may be incorporated just as it is in the Gregorian calendar, with week days retaining their traditional names and cultural/religious significance. As long as the calendar's underlying structure remains the same.
+However, features like these may be applied just as they are applied to existing calendars. For example, the unbroken chain of 7-day weeks may be used just like in the Gregorian calendar, with week days retaining their traditional names and cultural/religious significance, if so is desired. As long as the calendar's underlying structure remains the same.
 
 #### Related proposed calendars:
 
