@@ -7,7 +7,7 @@
 - 360 common days, 5 or 6 [intercalary/epagomenal](https://en.wikipedia.org/wiki/Intercalation_(timekeeping)#Solar_calendars) days
 - 4 quarters of 91 days (1 intercalary and 90 common days)
 - 8 "months" of 45 days
-- 40 "weeks" of 9 days (grouped 3 * 3)
+- 40 "weeks" of 9 days (3 * 3 days)
 - 1 or 2 intercalary transition days at the end of the year
 - Proposed epoch is the beginning of the human era (10 001 BC)
 
@@ -18,7 +18,7 @@
 - **[Accurate](#accuracy)** – forever when based on astronomical observations
 - **Simple** – division of the year into 2, 4 and 8 equal parts makes it easy to learn and visualize
 - **Dynamic** – grouping of days into 3 * 3 is a powerful concept based on Peter Meyer's [triday][3]
-- **Perennial** – dates and seasons are fixed in relation to the northward equinox
+- **Perennial** – dates and seasons are fixed, in relation to the northward equinox
 - **Structured** – yet flexible enough to adapt to different needs and cultures
   - Civil (simple, predictable)
   - Agriculture (seasonal, follows natural cycles)
@@ -41,10 +41,10 @@
 
 - This may be calculated for the prime meridian ([Meeus, 2002][4]) or observed locally (even with a [sundial](https://en.wikipedia.org/wiki/Sundial))
   - Calculations should be based on the instant of the northward equinox at the prime meridian <sup>([note 3](#notes))</sup>
-  - Local new year is then easily calculated from this instant using UTC time zone offsets
-- The local instant of the northward equinox should be celebrated as the start of the new year <sup>([note 4](#notes))</sup>
-- Leap years follow a 33 year cycle like the Persian calendar ([Heydari-Malayeri, 2004][1])
-- Calculations use the real northward equinox year, not to be confused with the mean tropical year
+  - Local new year is then easily calculated from this instant using an offset (for example time zones)
+- Local new year should be celebrated, not that of the prime meridian <sup>([note 4](#notes))</sup>
+- Leap years follow a 33 year cycle, like the Persian calendar ([Heydari-Malayeri, 2004][1])
+  - Calculations should use the _real northward equinox year_, not to be confused with the _mean tropical year_
 
 ### Units
 
@@ -140,7 +140,7 @@ However, features like these may be applied just as they are applied to existing
 1. Calendar reform led by the Persian mathematician, astronomer, philosopher, and poet [Omar Khayyâm](https://en.wikipedia.org/wiki/Omar_Khayyam)
 2. Both calendars had 5 "stolen days", possibly a reference to [the Egyptian myth of Nut and Ra](https://en.wikipedia.org/wiki/Nut_(goddess)#Myth_of_Nut_and_Ra)
 3. Instead of Tehran, this calendar's reference point effectively becomes 0°N 0°E, popularly known as [Null Island](https://en.wikipedia.org/wiki/Null_Island)
-4. Either the exact local instant, or as calculated from the exact instant at the prime meridian
+4. Either the exact local instant, or local midnight as calculated from new year at the prime meridian
 
 #### References:
 
