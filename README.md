@@ -42,7 +42,7 @@
 - This may be calculated for the prime meridian ([Meeus, 2002][4]) or observed locally (even with a [sundial](https://en.wikipedia.org/wiki/Sundial))
   - Calculations should be based on the instant of the northward equinox at the prime meridian <sup>[3](#notes)</sup>
   - Local new year is then easily calculated from this instant using an offset (for example UTC time zone)
-- The local new year should be celebrated, not that of the prime meridian <sup>[4](#notes)</sup>
+- The _local_ new year should be celebrated, not that of the prime meridian <sup>[4](#notes)</sup>
 - Leap years follow a 33 year cycle, like the Persian calendar ([Heydari-Malayeri, 2004][1])
   - Calculations should use the _real northward equinox year_, not to be confused with the _mean tropical year_ <sup>[5](#notes)</sup>
 
