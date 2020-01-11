@@ -18,12 +18,12 @@ To answer this, one should first answer the question "Why 12 months and 7-day we
 
 Being a purely solar calendar, this calendar does not attempt to unify the Moon's cycle around Earth with Earth's cycle around the Sun. Nor does it try to unify the 7-day week with the calendar year. By not being tied to such constraints, one can achieve advantages not possible in traditional calendars.
 
-8 "months" was chosen because 45 days is cleanly divisible by 9 to achieve "weeks" of 3 * 3 days, a [very flexible and powerful](https://www.hermetic.ch/cal_stud/ltc/ltc.htm#advantages) construct. While one could achieve the same by only using 4 quarters of 90 common days, practicality demands smaller "months". 8 "months" of the year and 9 "weekdays" are also small enough sets to be easily memorized, an important consideration. While 45 days are ±15 days more than in a 30-day month, it is not an unreasonably large unit of days.
+8 "months" was chosen because 45 days is cleanly divisible by 9 to achieve "weeks" of 3 * 3 days, a [very flexible and powerful construct](https://www.hermetic.ch/cal_stud/ltc/ltc.htm#advantages). While one could achieve the same by only using 4 quarters of 90 common days, practicality demands smaller "months". 8 "months" of the year and 9 "weekdays" are also small enough sets to be easily memorized, an important consideration. And while 45 days are 15 days more than in a 30-day month, it is not an unreasonably large "month".
 
-To summarize: The advantages gained by dividing the year into 8 "months" and 40 "weeks" outweigh the disadvantage of being unfamiliar. A new calendar should not strive to uphold the requirements of the old, instead it should meet the demands of today's dynamic global society.
+To summarize: The advantages gained by dividing the year into 8 "months" and 40 "weeks" outweigh the disadvantage of being unfamiliar. A new calendar should not strive to uphold the requirements of the old, instead it should meet the demands of tomorrow's dynamic global society.
 
 ### Why not 12 months? Or 10, 13, etc?
 
-12 months of exactly 30 common days _is_ possible in this calendar. However, one would lose the advantages gained by dividing the month into integer "weeks" of 3 * 3 days. One would also need 12 new names to avoid confusion with the traditional 12 months.
+12 months of exactly 30 common days _is_ possible in this calendar. However, one would lose the advantages gained by dividing the month into an integer number of "weeks" of 3 * 3 days. One would also need 12 new names to avoid confusion with the traditional 12 months.
 
 10 "months" of 36 common days isn't cleanly divisible by 4, a quarter would not have an integer number of "months". Other divisions of 360 are either incompatible with 4 quarters and 9-day "weeks" (important features of this calendar) or produce too large or too small "months".
