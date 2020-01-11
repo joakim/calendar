@@ -8,7 +8,9 @@ The year being reborn in spring is an idea that resonates deeply with people. Ma
 
 ### Is the calendar religious or secular?
 
-Neither. It is absolutely neutral to this question. While not recommended, it is possible to ignore the proposed 9-day "week" and Human Era epoch, opting to retain the traditional 7-day week and Anno Domini epoch of the Gregorian calendar. By being tied to the northward equinox, the calendar can be both scientifically precise and religiously relevant.
+Neither. It is absolutely neutral to this question. While not recommended, it is possible to ignore the proposed 9-day "week" and Human Era epoch, opting to retain the traditional 7-day week and Anno Domini epoch of the Gregorian calendar.
+
+By being tied to the northward equinox, the calendar can be both scientifically precise and religiously relevant.
 
 ### Why 8 "months" and 9-day "weeks"?
 
