@@ -4,7 +4,7 @@
 
 It is the most accurate calendar designed. I'd also argue that it is the most elegant. Basing the calendar on astronomical observations is not only scientifically sound, but on some level even poetic. [Omar Khayyâm](https://en.wikipedia.org/wiki/Omar_Khayyam) was after all both an astronomer and a poet.
 
-### Why the northward equinox?
+### Why start the year at the northward equinox?
 
 The year being reborn in spring is an idea that resonates deeply with people. Many cultures celebrate the coming of spring around northward equinox (for example [Nowruz](https://en.wikipedia.org/wiki/Nowruz), [Hıdırellez](https://en.wikipedia.org/wiki/H%C4%B1d%C4%B1rellez) and [Falles](https://en.wikipedia.org/wiki/Falles)), often involving bonfires or burning of effigies, often symbolizing rebirth or fertility. (At least in the northern hemisphere, where approximately 90% of us live. Apologies to the people of the southern hemisphere.)
 
@@ -40,7 +40,7 @@ To summarize: The advantages gained by dividing the year into 8 "months" and 40 
 
 These "solar days" (representing the equinox/solstice) may be celebrated, depending on the local culture. Often there are traditional festivals or rituals arround these solar events, which have been of importance to us since ancient times.
 
-Note that the actual instant of the solar event is not necessarily on that day, as the astronomical seasons are of uneven lengths. In fact, they change over time, so fixing a calendar to more than one of these would be futile.
+Note that the actual instant of an equinox or solstice is not necessarily on a "solar day" in the calendar, as the [astronomical seasons](https://en.wikipedia.org/wiki/Season#Astronomical) change over time. Trying to align a calendar to more than one of these "solar days" is futile.
 
 ### Why are the transition day(s) at the end of the year?
 
