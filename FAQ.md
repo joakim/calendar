@@ -10,15 +10,9 @@ The year being reborn in spring is an idea that resonates deeply with people. Ma
 
 There is also an astronomical reason for preferring the northward equinox over other reference points, [as explained by Simon Cassidy](https://www.hermetic.ch/cal_stud/cassidy/howlong.htm).
 
-### Is the calendar secular? Religious?
-
-Neither. It is absolutely neutral to this question. While not recommended, it is possible to ignore the proposed 9-day "week" and Human Era epoch, opting to retain the traditional 7-day week and Anno Domini epoch of the Gregorian calendar.
-
-By being tied to the northward equinox, the calendar can be both scientifically precise and religiously relevant.
-
 ### Why 8 "months" and 9-day "weeks"?
 
-To answer this, one should first answer the question "Why 12 months and 7-day weeks?", the common division of the year in many calendars. The first calendars were lunar calendars, tracking the easily observed phases of the Moon. A full lunar cycle is just under 30 days (29.53 days on average). Over time, our attention turned to the stars and the Sun, as our understanding of astronomy grew. Eventually, agriculture and trade brought the need for a calendar that better followed the seasons. The Egyptian solar calendar was the first to abandon the lunar cycle and instead focus on Earth's cycle around the Sun. Still, it divided the solar year into 12 months of 30 days – maybe to ease the transition from the lunar calendar? The 7-day week is harder to explain. We know the number 7 held a special significance to the Babylonians and Sumerians. Maybe it represented the 5 visible celestial bodies plus the Sun and the Moon?
+To answer this, one should first answer the question "Why 12 months and 7-day weeks?", the common division of the year in many calendars. The first calendars were lunar calendars, tracking the easily observed phases of the Moon. A full lunar cycle is just under 30 days (29.53 days on average). Over time, our attention turned to the stars and the Sun, as our understanding of astronomy grew. Eventually, agriculture and trade brought the need for a calendar that better followed the seasons. The Egyptian solar calendar is thought to be the first to abandon the lunar cycle and instead focus on Earth's cycle around the Sun. Still, it divided the solar year into 12 months of 30 days – maybe to ease the transition from the lunar calendar? The 7-day week is harder to explain. We know the number 7 held a special significance to the Babylonians and Sumerians. Maybe it represented the 5 visible celestial bodies plus the Sun and the Moon?
 
 Being a purely solar calendar, this calendar does not attempt to unify the Moon's cycle around Earth with Earth's cycle around the Sun. Nor does it try to unify the 7-day week with the calendar year. By not being tied to such constraints, one can achieve advantages not possible in traditional calendars.
 
@@ -28,7 +22,7 @@ There is also an elegance in dividing the year by two, three times. The result i
 
 To summarize: The advantages gained by dividing the year into 8 "months" and 40 "weeks" outweigh the disadvantage of being unfamiliar. A new calendar should not strive to uphold the requirements of the old, instead it should meet the demands of tomorrow's dynamic and global society.
 
-### Why not 12 months? 10? 13?
+### Why not 12/13/10 months?
 
 12 months of exactly 30 common days _is_ possible in this calendar. However, one would lose the advantages gained by dividing the month into an integer number of "weeks" of 3 * 3 days. One would also need 12 new names to avoid confusion with the traditional 12 months.
 
@@ -47,6 +41,12 @@ Note that the actual instant of an equinox or solstice is not necessarily on a "
 After all 4 quarters have passed, what remains of the year are the transition days. One day in common years, two days in leap years. These are also intercalary and represent the transition between the old year and the new. The cultural significance may vary – it could for example be a time for reflection and forgiveness.
 
 The reason the transition is at the end of the year and not at the beginning is a natural consequence of this being an observational calendar. Whether it is the first year of the new year or the second transition day of the old is determinded by when the northward equinox occurs. This can be determined precisely by calculation far in advance, but as this is essentially an observational calendar, it should be possible to determine by observation only.
+
+### Is the calendar secular? Religious?
+
+Neither. It is absolutely neutral to this question. While not recommended, it is possible to ignore the proposed 9-day "week" and Human Era epoch, opting instead to retain the traditional 7-day week and Anno Domini epoch of the Gregorian calendar.
+
+By being tied to the northward equinox, the calendar can be both scientifically precise and religiously relevant.
 
 ### You didn't answer my question!
 
