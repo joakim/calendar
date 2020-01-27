@@ -51,7 +51,7 @@
 ### Units
 
 - **year:** 360 calendar days + 5 or 6 intercalary days
-- **quarter:** 1/4 of a year's first 364 days
+- **quarter:** 1/4 of a year's 360 calendar days + 1 intercalary day
 - **eighth:** 1/8 of a year's 360 calendar days
 - **nonad:** 9 calendar days
 - **triad:** 3 calendar days
