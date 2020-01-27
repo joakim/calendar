@@ -18,7 +18,7 @@ Being a purely solar calendar, this calendar does not attempt to unify the Moon'
 
 8 "months" was chosen because 45 days is cleanly divisible by 9 to achieve "weeks" of `3 * 3` days, a [very flexible and powerful construct](https://www.hermetic.ch/cal_stud/ltc/ltc.htm#advantages). While one could achieve the same by only using 4 quarters of 90 calendar days, practicality demands smaller "months". 8 "months" of the year and 9 "weekdays" are also small enough sets to be easily memorized, an important consideration. While 45 days are 15 days more than a 30-day month, it is not an unreasonably large period.
 
-There is also an elegance in dividing the year by two, three times. The result is an even and balanced division of the year, with 4 of the intercalary days evenly distributed throughout, leaving just enough room for `3 * 3` day "weeks" in between.
+There is also an elegance in dividing the year by two, three times, like cell division in nature. The result is an even and balanced division of the year, with the intercalary days distributed throughout, leaving just enough room for 40 "weeks" of `3 * 3` days.
 
 To summarize: The advantages gained by dividing the year into 8 "months" and 40 "weeks" outweigh the disadvantage of being unfamiliar. A new calendar should not strive to uphold the requirements of the past. Instead, it should meet the demands of tomorrow's dynamic society.
 
