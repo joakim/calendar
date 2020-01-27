@@ -4,8 +4,8 @@
   - Based on the Persian [Solar Hijri calendar](https://en.wikipedia.org/wiki/Solar_Hijri_calendar), in turn based on the [Jalali calendar](https://en.wikipedia.org/wiki/Jalali_calendar) of AD 1079 <sup>[1](#notes)</sup>
   - With roots in the [Zoroastrian calendar](https://en.wikipedia.org/wiki/Zoroastrian_calendar) and possibly the [Egyptian calendar](https://en.wikipedia.org/wiki/Egyptian_calendar) <sup>[2](#notes)</sup>
 - The year begins at the [northward equinox](https://en.wikipedia.org/wiki/March_equinox) measured from the [prime meridian](https://en.wikipedia.org/wiki/Prime_meridian)
-- 360 common days + 5 or 6 [intercalary/epagomenal](https://en.wikipedia.org/wiki/Intercalation_(timekeeping)#Solar_calendars) days
-  - 4 quarters of 91 days (1 intercalary and 90 common days)
+- 360 calendar days + 5 or 6 [intercalary/epagomenal](https://en.wikipedia.org/wiki/Intercalation_(timekeeping)#Solar_calendars) days
+  - 4 quarters of 91 days (1 intercalary and 90 calendar days)
   - 8 "months" of 45 days
   - 40 "weeks" of 9 days (3 * 3 days, based on the [Liberalia Triday Calendar][8])
   - 1 or 2 intercalary transition days at the end of the year
@@ -48,9 +48,9 @@
 
 ### Units
 
-- **year** (360 common days + 5 or 6 intercalary days)
+- **year** (360 calendar days + 5 or 6 intercalary days)
 - **quarter** (1/4 of a year's first 364 days)
-- **eighth** (1/8 of a year's 360 common days)
+- **eighth** (1/8 of a year's 360 calendar days)
 - **nonad** (9 days)
 - **triad** (3 days)
 - **day** ([24 hours](https://en.wikipedia.org/wiki/Nychthemeron))
@@ -59,11 +59,11 @@ The names "eighth", "nonad" and "triad" are descriptive only, better names shoul
 
 ### Structure
 
-- The year has 360 common days and 5 (common year) or 6 (leap year) intercalary days
+- The year has 360 calendar days and 5 (common year) or 6 (leap year) intercalary days
 - The year is divided into 4 equal quarters, each having 91 days
   - 1 intercalary day that represents the equinox/solstice
-  - 90 common days
-- The year's 360 common days may be divided as follows
+  - 90 calendar days
+- The year's 360 calendar days may be divided as follows
   - Proposed division: 8 eighths ("months") and 40 nonads ("weeks")
     - 8 eighths of 45 days (2 eighths per quarter)
     - 40 nonads of 9 days (10 nonads per quarter, 5 nonads per eighth)
@@ -83,7 +83,7 @@ The midnight closest to the northward equinox of the Human Era epoch of the [Hol
   - Divisions of the year are 1-indexed (namely quarters, eighths/months and nonads)
   - Days of divisions containing intercalary days are 0-indexed (namely quarters and transitions)
     - Day 0 of a quarter is the quarter's intercalary day
-  - Days of divisions of common days are 1-indexed (namely eighths/months and nonads)
+  - Days of divisions containing only calendar days are 1-indexed (namely eighths/months and nonads)
   - Transition days do not belong to any of the year's divisions
 - The **naming** of units may vary by language, locale or culture
 - The **formatting** of dates should be standardized and the same for all
