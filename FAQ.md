@@ -12,7 +12,7 @@ There is also a natural astronomical reason for preferring the northward equinox
 
 ### Why 8 "months" and 9-day "weeks"?
 
-To answer this, one should first answer the question "Why 12 months and 7-day weeks?", the common division of the year in many calendars. The first calendars were lunar calendars, tracking the easily observed phases of the Moon. A full lunar cycle is just under 30 days (29.53 days on average). Over time, our attention turned to the stars and the Sun, as our understanding of astronomy grew. Eventually, agriculture and trade brought the need for a calendar that better followed the seasons. The Egyptian solar calendar is thought to be the first to abandon the lunar cycle and instead focus on Earth's cycle around the Sun. Still, it divided the solar year into 12 months of 30 days – maybe to ease the transition from the lunar calendar? The 7-day week is harder to explain. We know that the number 7 held a special significance to the Babylonians and Sumerians. Maybe it represented the 5 visible celestial bodies plus the Sun and the Moon?
+To answer this, one should first answer the question "Why 12 months and 7-day weeks?", the common division of the year in many calendars. The first calendars were lunar calendars, tracking the easily observed phases of the Moon. A full lunar cycle is just under 30 days (currently 29.53 days on average). Over time, our attention turned to the stars and the Sun, as our understanding of astronomy grew. Eventually, agriculture and trade brought the need for a calendar that better followed the seasons. The Egyptian solar calendar is thought to be the first to abandon the lunar cycle and instead focus on Earth's cycle around the Sun. Still, it divided the solar year into 12 months of 30 days – maybe to ease the transition from the lunar calendar? The 7-day week is harder to explain. We know that the number 7 held a special significance to the Babylonians and Sumerians. Maybe it represented the 5 visible celestial bodies plus the Sun and the Moon?
 
 Being a purely solar calendar, this calendar does not attempt to unify the Moon's cycle around Earth with Earth's cycle around the Sun. Nor does it try to unify the 7-day week with the calendar year. By not being tied to such constraints, it able to achieve advantages not possible in traditional calendars.
 
@@ -30,7 +30,7 @@ To summarize: The advantages gained by dividing the year into 8 "months" and 40 
 
 ### Why intercalary quarter days?
 
-360 calendar days leaves 5 (or 6 in leap years) intercalary days. Having 4 equal quarters representing the 4 astronomical seasons enables an even distribution of most of the intercalary days throughout the year, instead of lumping them all together in a mini-period at the end. This makes the length of a quarter as close as possible to `365/4`.
+360 calendar days leaves 5 (or 6 in leap years) intercalary days. Having 4 equal quarters representing the 4 astronomical seasons enables an even distribution of most of the intercalary days throughout the year, instead of lumping them all together in a mini-period at the end. This makes the length of a quarter as close as possible to `365 / 4`.
 
 Each intercalary quarter day is considered the _zeroth_ day of its quarter, so that its day numbering corresponds to that of its first "month" (day 0 being an intercalary day that is not part of a "month"). These _zero days_, representing the equinoxes and solstices, may be incorporated into local traditional festivals or rituals that are common around these astronomical events, as they have been of great importance to humans since ancient times.
 
@@ -38,9 +38,9 @@ Note that the actual instant of an equinox or solstice does not necessarily occu
 
 ### Why place the extra day(s) at the end of the year?
 
-After all 4 quarters have passed, the remaining one or two days before the new year begins are intercalary _transition days_, representing the transition between the old year and the new. The cultural significance of this may vary. For example, it could be a time for reflection and forgiveness.
+After the 4 quarters have passed, the remaining one or two days before the new year begins are intercalary _transition days_, representing the transition from the old year to the new. The cultural significance of this may vary. For example, it could be a time for reflection and forgiveness.
 
-The placing of the extra day(s) at the end of the year is a natural consequence of this being an observational calendar. When the new year begins is simply determinded by when the northward equinox occurs. Placing the extra day(s) anywhere else in the year would greatly complicate the calendar.
+Having the extra day(s) at the end of the year is a natural consequence of this being an observational calendar. When the new year begins is simply determinded by when the northward equinox occurs. Placing the extra day(s) anywhere else in the year would greatly complicate the calendar.
 
 ### Is the calendar secular? Religious?
 
