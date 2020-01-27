@@ -6,8 +6,8 @@
 - The year begins at the [northward equinox](https://en.wikipedia.org/wiki/March_equinox) measured from the [prime meridian](https://en.wikipedia.org/wiki/Prime_meridian)
 - 360 calendar days + 5 or 6 [intercalary/epagomenal](https://en.wikipedia.org/wiki/Intercalation_(timekeeping)#Solar_calendars) days
   - 4 quarters of 91 days (1 intercalary and 90 calendar days)
-  - 8 "months" of 45 days
-  - 40 "weeks" of 9 days (3 * 3 days, based on the [Liberalia Triday Calendar][8])
+  - 8 "months" of 45 calendar days
+  - 40 "weeks" of 9 calendar days (3 * 3 days, based on the [Liberalia Triday Calendar][8])
   - 1 or 2 intercalary transition days at the end of the year
 - Proposed epoch is the beginning of the human era (10 001 BC)
 
@@ -51,8 +51,8 @@
 - **year** (360 calendar days + 5 or 6 intercalary days)
 - **quarter** (1/4 of a year's first 364 days)
 - **eighth** (1/8 of a year's 360 calendar days)
-- **nonad** (9 days)
-- **triad** (3 days)
+- **nonad** (9 calendar days)
+- **triad** (3 calendar days)
 - **day** ([24 hours](https://en.wikipedia.org/wiki/Nychthemeron))
 
 The names "eighth", "nonad" and "triad" are descriptive only, better names should be adopted.
@@ -65,11 +65,11 @@ The names "eighth", "nonad" and "triad" are descriptive only, better names shoul
   - 90 calendar days
 - The year's 360 calendar days may be divided as follows
   - Proposed division: 8 eighths ("months") and 40 nonads ("weeks")
-    - 8 eighths of 45 days (2 eighths per quarter)
-    - 40 nonads of 9 days (10 nonads per quarter, 5 nonads per eighth)
-      - Each nonad may be further divided into 3 triads of 3 days
+    - 8 eighths of 45 calendar days (2 eighths per quarter)
+    - 40 nonads of 9 calendar days (10 nonads per quarter, 5 nonads per eighth)
+      - Each nonad may be further divided into 3 triads of 3 calendar days
   - Traditional division: 12 "months"
-    - 12 months of 30 days (3 months per quarter)
+    - 12 months of 30 calendar days (3 months per quarter)
     - Drawback: A month can not fit a whole number of "weeks" (3.3 nonads per month)
  - The remaining 1 or 2 days at the end of the year are intercalary transition days before the new year
 
@@ -120,7 +120,7 @@ Calendars based on the Jalali calendar are the most accurate in relation to the 
 - Align with the 12 constellations of the [zodiac](https://en.wikipedia.org/wiki/Zodiac), due to the (lunisolar) [precession of the ecliptic](https://en.wikipedia.org/wiki/Axial_precession)
 - Introduce time scales or prescribe holidays – it's just a calendar
 
-However, features like these may be applied just as they are applied to existing calendars. For example, the unbroken chain of 7-day weeks may be used just like in the Gregorian calendar, with week days retaining their traditional names and cultural/religious significance, if so is desired. As long as the calendar's underlying structure remains the same.
+However, features like these may be applied just as they are applied to existing calendars. For example, the unbroken chain of 7-day weeks may be used just like in the Gregorian calendar, with weekdays retaining their traditional names and cultural/religious significance, if so is desired. As long as the calendar's underlying structure remains the same.
 
 #### Related proposed calendars:
 
