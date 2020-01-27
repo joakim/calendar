@@ -6,7 +6,7 @@ It is the most accurate calendar designed. I'd also argue that it is the most el
 
 ### Why start the year at the northward equinox?
 
-The year being reborn in spring is an idea that resonates deeply with people in many cultures. We have a long history of celebrating the coming of spring around northward equinox (for example [Nowruz](https://en.wikipedia.org/wiki/Nowruz), [Hıdırellez](https://en.wikipedia.org/wiki/H%C4%B1d%C4%B1rellez) and [Falles](https://en.wikipedia.org/wiki/Falles)) – often involving bonfires or burning of effigies, often symbolizing rebirth or fertility. (At least in the northern hemisphere, where approximately 90% of us live. Apologies to the people of the southern hemisphere.)
+The year being reborn in spring is an idea that resonates deeply with people in many cultures. We have a long history of celebrating the coming of spring around northward equinox (for example [Nowruz](https://en.wikipedia.org/wiki/Nowruz), [Holi](https://en.m.wikipedia.org/wiki/Holi), [Falles](https://en.wikipedia.org/wiki/Falles), [South/Southeast Asian solar New Year](https://en.wikipedia.org/wiki/South_and_Southeast_Asian_solar_New_Year), [Marzanna](https://en.wikipedia.org/wiki/Marzanna), [Dísablót](https://en.wikipedia.org/wiki/D%C3%ADsabl%C3%B3t), [Teotihuacán](https://en.wikipedia.org/wiki/Spring_equinox_in_Teotihuac%C3%A1n)) – often involving bonfires or burning of effigies, often symbolizing rebirth or fertility. (At least in the northern hemisphere, where approximately 90% of us live. Apologies to the people of the southern hemisphere.)
 
 There is also a natural astronomical reason for preferring the northward equinox over other reference points, [as explained by Simon Cassidy](https://www.hermetic.ch/cal_stud/cassidy/howlong.htm).
 
