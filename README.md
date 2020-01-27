@@ -22,9 +22,9 @@
 - **Dynamic** – grouping of days into `3 * 3` is a powerful concept based on Peter Meyer's "[tridays][3]"
 - **Perennial** – dates and seasons are fixed
 - **Structured** – yet flexible enough to adapt to different uses and cultures
-  - Civil (simple, predictable)
-  - Agriculture (seasonal, follows natural cycles)
-  - Business (evenly divided, flexible scheduling)
+  - **Civil** – simple, predictable
+  - **Agriculture** – seasonal, follows natural cycles
+  - **Business** – evenly divided, flexible scheduling
 - **Neutral**
   - Not tied to any cultures or locations, except inevitably to the current scientific paradigm
   - While scientifically grounded, it does not oppose combination with cultural or religious concepts
@@ -50,12 +50,12 @@
 
 ### Units
 
-- **year** (360 calendar days + 5 or 6 intercalary days)
-- **quarter** (1/4 of a year's first 364 days)
-- **eighth** (1/8 of a year's 360 calendar days)
-- **nonad** (9 calendar days)
-- **triad** (3 calendar days)
-- **day** ([24 hours](https://en.wikipedia.org/wiki/Nychthemeron))
+- **year:** 360 calendar days + 5 or 6 intercalary days
+- **quarter:** 1/4 of a year's first 364 days
+- **eighth:** 1/8 of a year's 360 calendar days
+- **nonad:** 9 calendar days
+- **triad:** 3 calendar days
+- **day:** 1 [nychthemeron](https://en.wikipedia.org/wiki/Nychthemeron)
 
 The names "eighth", "nonad" and "triad" are descriptive only, better names should be adopted.
 
@@ -92,14 +92,14 @@ The midnight closest to the northward equinox of the Human Era epoch of the [Hol
 
 #### Example of date format ([ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) like)
 
-  - Eighth: `eighth` (1-8) and `day-of-eighth` (1-45)
+  - **Eighth:** `eighth` (1-8) and `day-of-eighth` (1-45)
     - `[year]-[eighth]-[day-of-eighth]`
-  - Nonad: `nonad` (1-40) and `day-of-nonad` (1-9)
+  - **Nonad:** `nonad` (1-40) and `day-of-nonad` (1-9)
     - `[year]-N[nonad]-[day-of-nonad]`
-  - Quarter: `quarter` (1-4) or `quarter-letter` (A-D) and `day-of-quarter` (0-90)
+  - **Quarter:** `quarter` (1-4) or `quarter-letter` (A-D) and `day-of-quarter` (0-90)
     - `[year]-Q[quarter]-[day-of-quarter]`
     - `[year]-[quarter-letter]-[day-of-quarter]`
-  - Transition: `day-of-transition` (0-1)
+  - **Transition:** `day-of-transition` (0-1)
     - `[year]-X-[day-of-transition]`
 
 The quarters may be named `A-D` similar to Asamov's [World Season Calendar][7] (`A-0`, `B-0`, `C-0`, `D-0`, `X-0`).
