@@ -32,13 +32,13 @@ To summarize: The advantages gained by dividing the year into 8 "months" and 40 
 
 360 calendar days leaves 5 (or 6 in leap years) intercalary days. Having 4 equal quarters representing the 4 astronomical seasons enables an even distribution of most of the intercalary days throughout the year, instead of lumping them all together in a mini-period at the end. This also makes the length of a quarter as close as possible to `365 / 4`.
 
-An intercalary quarter day is the _zeroth_ day of its quarter, distinguishing it from the ordinary calendar days. These _zero days_, representing the equinoxes and solstices, may be incorporated into local traditional festivals or rituals that are common around these astronomical events, as they have been of great importance to humans since ancient times.
+An intercalary quarter day is the _zeroth_ day of its quarter, distinguishing it from the ordinary calendar days. These _zero days_, representing the equinoxes and solstices, may be incorporated into local traditional festivals or rituals that take place around these astronomical events, as they have been of great importance to humans since ancient times.
 
 Note that the actual instant of an equinox or solstice does not necessarily occur on a _zero day_, as the [astronomical seasons](https://en.wikipedia.org/wiki/Season#Astronomical) are of uneven length. They also change over time, so trying to align a calendar to more than one of these instants would be futile.
 
 ### Why place the extra day(s) at the end of the year?
 
-After the 4 quarters have passed, the remaining one or two days before the new year begins are intercalary _transition days_, representing the transition from the old year to the new. The cultural significance of this may vary. For example, it could be a time for reflection and forgiveness.
+After 4 quarters have passed, the remaining one or two days before the new year begins are intercalary _transition days_, representing the transition from the old year to the new. The cultural significance of this may vary. For example, it could be a time for reflection and forgiveness.
 
 Having the extra day(s) at the end of the year is a natural consequence of this being an observational calendar. When the new year begins is simply determinded by when the northward equinox occurs. Placing the extra day(s) anywhere else in the year would greatly complicate the calendar.
 
