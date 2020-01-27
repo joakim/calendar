@@ -30,9 +30,9 @@ To summarize: The advantages gained by dividing the year into 8 "months" and 40 
 
 ### Why intercalary quarter days?
 
-360 calendar days leaves 5 (or 6 in leap years) intercalary days. Having 4 equal quarters representing the 4 astronomical seasons enables an even distribution of most of the intercalary days throughout the year, instead of lumping them all together in a mini-period at the end. This makes the length of a quarter as close as possible to `365 / 4`.
+360 calendar days leaves 5 (or 6 in leap years) intercalary days. Having 4 equal quarters representing the 4 astronomical seasons enables an even distribution of most of the intercalary days throughout the year, instead of lumping them all together in a mini-period at the end. This also makes the length of a quarter as close as possible to `365 / 4`.
 
-Each intercalary quarter day is considered the _zeroth_ day of its quarter, so that its day numbering corresponds to that of its first "month" (day 0 being an intercalary day that is not part of a "month"). These _zero days_, representing the equinoxes and solstices, may be incorporated into local traditional festivals or rituals that are common around these astronomical events, as they have been of great importance to humans since ancient times.
+An intercalary quarter day is the _zeroth_ day of its quarter, distinguishing it from the ordinary calendar days. These _zero days_, representing the equinoxes and solstices, may be incorporated into local traditional festivals or rituals that are common around these astronomical events, as they have been of great importance to humans since ancient times.
 
 Note that the actual instant of an equinox or solstice does not necessarily occur on a _zero day_, as the [astronomical seasons](https://en.wikipedia.org/wiki/Season#Astronomical) are of uneven length. They also change over time, so trying to align a calendar to more than one of these instants would be futile.
 
