@@ -5,7 +5,7 @@
 - A [perennial](https://en.wikipedia.org/wiki/Perennial_calendar) [solar calendar](https://en.wikipedia.org/wiki/Solar_calendar) based on astronomical calculations or observations
   - Based on the Persian [Solar Hijri calendar](https://en.wikipedia.org/wiki/Solar_Hijri_calendar), in turn based on the [Jalali calendar](https://en.wikipedia.org/wiki/Jalali_calendar) of AD 1079 <sup>[1](#notes)</sup>
   - With roots in the [Zoroastrian calendar](https://en.wikipedia.org/wiki/Zoroastrian_calendar) and possibly the [Egyptian calendar](https://en.wikipedia.org/wiki/Egyptian_calendar) <sup>[2](#notes)</sup>
-- The year begins at the [northward equinox](https://en.wikipedia.org/wiki/March_equinox) measured from the [prime meridian](https://en.wikipedia.org/wiki/Prime_meridian)
+- The calendar year begins at the [northward equinox](https://en.wikipedia.org/wiki/March_equinox) measured from the [prime meridian](https://en.wikipedia.org/wiki/Prime_meridian)
 - 360 calendar days + 5 or 6 [intercalary/epagomenal](https://en.wikipedia.org/wiki/Intercalation_(timekeeping)#Solar_calendars) days
   - 4 quarters of 91 days (1 intercalary and 90 calendar days)
   - 8 "months" of 45 calendar days
@@ -26,7 +26,7 @@
   - **Agriculture** – seasonal, follows natural cycles
   - **Business** – evenly divided, flexible scheduling
 - **Neutral**
-  - Not tied to any cultures or locations, except inevitably to the current scientific paradigm
+  - Not tied to any culture or religion, except inevitably to that of the current scientific paradigm
   - While scientifically grounded, it does not oppose combination with cultural or religious concepts
 
 ### Disadvantages
