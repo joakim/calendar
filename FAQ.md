@@ -4,7 +4,7 @@
 
 It is the most accurate calendar designed. I'd also argue that it is the most elegant. Basing the calendar on astronomical observations is not only scientifically sound, but on some level even poetic. [Omar Khayyâm](https://en.wikipedia.org/wiki/Omar_Khayyam) was after all both an astronomer and a poet.
 
-### Why start the year at the northward equinox?
+### Why does the calendar year begin at the northward equinox?
 
 The year being reborn in spring is an idea that resonates deeply with people in many cultures. We have a long history of celebrating the coming of spring around northward equinox (for example [Nowruz](https://en.wikipedia.org/wiki/Nowruz), [Holi](https://en.m.wikipedia.org/wiki/Holi), [Falles](https://en.wikipedia.org/wiki/Falles), [Marzanna](https://en.wikipedia.org/wiki/Marzanna#Traditions), [Dísablót](https://en.wikipedia.org/wiki/D%C3%ADsabl%C3%B3t), [Teotihuacán](https://en.wikipedia.org/wiki/Spring_equinox_in_Teotihuac%C3%A1n) and various [South/Southeast Asian solar New Year](https://en.wikipedia.org/wiki/South_and_Southeast_Asian_solar_New_Year) traditions) – often symbolizing rebirth or fertility, often involving bonfires or burning of effigies. (At least in the northern hemisphere, where approximately 90% of us live. Apologies to the people of the southern hemisphere.)
 
@@ -38,9 +38,9 @@ Note that the actual instant of an equinox or solstice does not necessarily occu
 
 ### Why place the extra day(s) at the end of the year?
 
-After 4 quarters have passed, the remaining one or two days before the new year begins are intercalary _transition days_, representing the transition from the old year to the new. The cultural significance of this may vary. For example, it could be a time for reflection and forgiveness.
+After 4 quarters have passed, the remaining one or two days before the next calendar year begins are intercalary _transition days_, representing the transition from the old year to the new. The cultural significance of this may vary. For example, it could be a time for reflection and forgiveness.
 
-Having the extra day(s) at the end of the year is a natural consequence of this being an observational calendar. When the new year begins is simply determinded by when the northward equinox occurs. Placing the extra day(s) anywhere else in the year would greatly complicate the calendar.
+Having the extra day(s) at the end of the year is a natural consequence of this being an observational calendar. The first day of a calendar year is simply determinded by when the northward equinox occurs. Placing the extra day(s) anywhere else in the year would greatly complicate the calendar.
 
 ### Is the calendar secular? Religious?
 
