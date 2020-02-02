@@ -3,7 +3,7 @@
 ### Summary
 
 - A [perennial](https://en.wikipedia.org/wiki/Perennial_calendar) [solar calendar](https://en.wikipedia.org/wiki/Solar_calendar) based on astronomical observations or calculations
-  - Based on the Persian [Solar Hijri calendar](https://en.wikipedia.org/wiki/Solar_Hijri_calendar), in turn based on the [Jalali calendar](https://en.wikipedia.org/wiki/Jalali_calendar) of AD 1079 <sup>[1](#notes)</sup>
+  - Standing on the shoulders of the Persian [Solar Hijri](https://en.wikipedia.org/wiki/Solar_Hijri_calendar) and [Jalali](https://en.wikipedia.org/wiki/Jalali_calendar) calendars <sup>[1](#notes)</sup>
   - With roots in the [Zoroastrian calendar](https://en.wikipedia.org/wiki/Zoroastrian_calendar) and possibly the [Egyptian calendar](https://en.wikipedia.org/wiki/Egyptian_calendar) <sup>[2](#notes)</sup>
 - The calendar year begins at the [northward equinox](https://en.wikipedia.org/wiki/March_equinox) measured from the [prime meridian](https://en.wikipedia.org/wiki/Prime_meridian)
 - 360 calendar days + 5 or 6 [intercalary/epagomenal](https://en.wikipedia.org/wiki/Intercalation_(timekeeping)#Solar_calendars) days
@@ -78,7 +78,7 @@ The names "eighth", "nonad" and "triad" are descriptive only, better names shoul
 
 ### Proposed epoch
 
-The midnight closest to the northward equinox of the Human Era epoch of the [Holocene Calendar](https://en.wikipedia.org/wiki/Holocene_calendar), 10001 BC, maintaining a reference to the currently dominant [Anno Domini](https://en.wikipedia.org/wiki/Anno_Domini) (HE 12020 = AD 2020).
+The midnight closest to the northward equinox of the Human Era epoch of the [Holocene Calendar](https://en.wikipedia.org/wiki/Holocene_calendar), 10001 BC, maintaining a reference to the currently dominant [Anno Domini](https://en.wikipedia.org/wiki/Anno_Domini) (12020 HE = 2020 AD).
 
 ## Proposed notation
 
@@ -140,7 +140,7 @@ However, features like these may be applied just as they are applied to existing
 
 #### Notes:
 
-1. Calendar reform led by the Persian mathematician, astronomer, philosopher, and poet [Omar Khayyâm](https://en.wikipedia.org/wiki/Omar_Khayyam)
+1. In particular the Jalali calendar reform led by the Persian mathematician, astronomer, philosopher and poet [Omar Khayyâm](https://en.wikipedia.org/wiki/Omar_Khayyam) in 1074-1079 AD
 2. Both calendars had 5 "stolen days", possibly a reference to [the Egyptian myth of Nut and Ra](https://en.wikipedia.org/wiki/Nut_(goddess)#Myth_of_Nut_and_Ra)
 3. Instead of Tehran, this calendar's point of reference effectively becomes [0°N 0°E](https://en.wikipedia.org/wiki/Null_Island) at sea level
 4. Either the exact local instant, or local midnight as calculated from new year at the prime meridian
