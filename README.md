@@ -9,7 +9,7 @@
 - 360 calendar days + 5 or 6 [intercalary/epagomenal](https://en.wikipedia.org/wiki/Intercalation_(timekeeping)#Solar_calendars) days
   - 4 quarters of 91 days (1 intercalary and 90 calendar days)
   - 8 "months" of 45 calendar days
-  - 40 "weeks" of 9 calendar days (`3 * 3` days, based on the [Liberalia Triday Calendar][8])
+  - 40 "weeks" of 9 calendar days (`3 * 3` days, based on "[tridays][3]" in the [Liberalia Triday Calendar][8])
   - 1 or 2 intercalary transition days at the end of the year
 - Proposed epoch is the beginning of the human era (10001 BC)
 
@@ -19,7 +19,7 @@
 
 - **[Accurate](#accuracy)** — forever when based on astronomical observations
 - **Simple** — division of the year into 2, 4 and 8 equal parts makes it easy to learn and visualize
-- **Dynamic** — grouping of days into `3 * 3` is a powerful concept based on Peter Meyer's "[tridays][3]"
+- **Dynamic** — grouping of days into `3 * 3` is a powerful concept
 - **Perennial** — dates and seasons are fixed
 - **Structured** — yet flexible enough to adapt to different uses and cultures
   - **Civil** — simple, predictable
