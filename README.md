@@ -11,29 +11,29 @@
   - 8 "months" of 45 calendar days
   - 40 "weeks" of 9 calendar days (`3 * 3` days, based on the [Liberalia Triday Calendar][8])
   - 1 or 2 intercalary transition days at the end of the year
-- Proposed epoch is the beginning of the human era (10 001 BC)
+- Proposed epoch is the beginning of the human era (10001 BC)
 
 **Essentially, the Persian calendar with a different meridian, different division of the year and a different epoch.**
 
 ### Advantages
 
-- **[Accurate](#accuracy)** – forever when based on astronomical observations
-- **Simple** – division of the year into 2, 4 and 8 equal parts makes it easy to learn and visualize
-- **Dynamic** – grouping of days into `3 * 3` is a powerful concept based on Peter Meyer's "[tridays][3]"
-- **Perennial** – dates and seasons are fixed
-- **Structured** – yet flexible enough to adapt to different uses and cultures
-  - **Civil** – simple, predictable
-  - **Agriculture** – seasonal, follows natural cycles
-  - **Business** – evenly divided, flexible scheduling
+- **[Accurate](#accuracy)** — forever when based on astronomical observations
+- **Simple** — division of the year into 2, 4 and 8 equal parts makes it easy to learn and visualize
+- **Dynamic** — grouping of days into `3 * 3` is a powerful concept based on Peter Meyer's "[tridays][3]"
+- **Perennial** — dates and seasons are fixed
+- **Structured** — yet flexible enough to adapt to different uses and cultures
+  - **Civil** — simple, predictable
+  - **Agriculture** — seasonal, follows natural cycles
+  - **Business** — evenly divided, flexible scheduling
 - **Neutral**
   - Not tied to any culture or religion, except inevitably to that of the current scientific paradigm
   - While scientifically grounded, it does not oppose combination with cultural or religious concepts
 
 ### Disadvantages
 
-- **No simple leap year rule** – in exchange for accuracy
-- **Unfamiliarity** – different units and dates ("[months](https://en.wikipedia.org/wiki/Month)", "[weeks](https://en.wikipedia.org/wiki/Week)", new year, epoch)
-- **Yet another calendar** – made by some commoner named Joakim (who is not the pope)
+- **No simple leap year rule** — in exchange for accuracy
+- **Unfamiliarity** — different units and dates ("[months](https://en.wikipedia.org/wiki/Month)", "[weeks](https://en.wikipedia.org/wiki/Week)", new year, epoch)
+- **Yet another calendar** — made by some commoner named Joakim (who is not the pope)
 
 ## Definition
 
@@ -77,7 +77,7 @@ The names "eighth", "nonad" and "triad" are descriptive only, better names shoul
 
 ### Proposed epoch
 
-The midnight closest to the northward equinox of the Human Era epoch of the [Holocene Calendar](https://en.wikipedia.org/wiki/Holocene_calendar), 10 001 BC, maintaining a reference to the currently dominant [Anno Domini](https://en.wikipedia.org/wiki/Anno_Domini) (HE 12020 = AD 2020).
+The midnight closest to the northward equinox of the Human Era epoch of the [Holocene Calendar](https://en.wikipedia.org/wiki/Holocene_calendar), 10001 BC, maintaining a reference to the currently dominant [Anno Domini](https://en.wikipedia.org/wiki/Anno_Domini) (HE 12020 = AD 2020).
 
 ## Proposed notation
 
@@ -102,7 +102,7 @@ The midnight closest to the northward equinox of the Human Era epoch of the [Hol
   - **Transition:** `day-of-transition` (0-1)
     - `[year]-X-[day-of-transition]`
 
-The quarters may be named `A-D` similar to Asamov's [World Season Calendar][7] (`A-0`, `B-0`, `C-0`, `D-0`, `X-0`).
+The quarters may be named `A-D` similar to Asimov's [World Season Calendar][7] (`A-0`, `B-0`, `C-0`, `D-0`, `X-0`).
 
 A better format would be one that is culturally neutral, only using numbers and punctuation.
 
@@ -120,7 +120,7 @@ Calendars based on the Jalali calendar are the most accurate in relation to the 
 - Incorporate the [lunar phases](https://en.wikipedia.org/wiki/Lunar_phase), as [lunisolar calendars](https://en.wikipedia.org/wiki/Lunisolar_calendar) are inherently complex and irregular
 - Accurately follow the [astronomical seasons](https://en.wikipedia.org/wiki/Season#Astronomical), as their lengths change over time
 - Align with the 12 constellations of the [zodiac](https://en.wikipedia.org/wiki/Zodiac), due to the (lunisolar) [precession of the ecliptic](https://en.wikipedia.org/wiki/Axial_precession)
-- Introduce time scales or prescribe holidays – it's just a calendar
+- Introduce time scales or prescribe holidays — it's just a calendar
 
 However, features like these may be applied just as they are applied to existing calendars. For example, the unbroken chain of 7-day weeks may be used just like in the Gregorian calendar, with weekdays retaining their traditional names and cultural/religious significance, if so is desired. As long as the calendar's underlying structure remains the same.
 
