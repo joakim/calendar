@@ -44,9 +44,9 @@ Having the extra day(s) at the end of the year is a natural consequence of this 
 
 ### Is the calendar secular? Religious?
 
-It is absolutely neutral to this question. While not recommended, it is possible to ignore the proposed 9-day "week" and Human Era epoch, opting instead to retain the traditional 7-day week and Anno Domini epoch of the Gregorian calendar.
+It is absolutely neutral to this question. By being tied to the northward equinox, the calendar can be both scientifically precise and religiously relevant.
 
-By being tied to the northward equinox, the calendar can be both scientifically precise and religiously relevant.
+While not recommended, it is possible to ignore the proposed 9-day "week" and Human Era epoch, opting instead to retain the traditional 7-day week and Anno Domini epoch of the Gregorian calendar.
 
 ### You didn't answer my question!
 
