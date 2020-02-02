@@ -126,7 +126,7 @@ However, features like these may be applied just as they are applied to existing
 
 #### Related proposed calendars:
 
-- Isaac Asamov's [World Season Calendar][7]
+- Isaac Asimov's [World Season Calendar][7]
 - Peter Meyer's [Liberalia Triday Calendar][8]
 - Alexander Laik's [Calendar of the Rainbow][12]
 - [The Dee-Cecil Calendar][11]
