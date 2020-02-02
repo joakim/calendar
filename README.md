@@ -9,7 +9,8 @@
 - 360 calendar days + 5 or 6 [intercalary/epagomenal](https://en.wikipedia.org/wiki/Intercalation_(timekeeping)#Solar_calendars) days
   - 4 quarters of 91 days (1 intercalary and 90 calendar days)
   - 8 "months" of 45 calendar days
-  - 40 "weeks" of 9 calendar days (`3 * 3` days, based on the "tridays" of the [Liberalia Triday Calendar][8])
+  - 40 "weeks" of 9 calendar days
+    - `3 * 3` days (based on the "tridays" of the [Liberalia Triday Calendar][8])
   - 1 or 2 intercalary transition days at the end of the year
 - Proposed epoch is the beginning of the human era (10001 BC)
 
