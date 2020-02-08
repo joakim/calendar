@@ -2,7 +2,7 @@
 
 ### Summary
 
-- A [perennial](https://en.wikipedia.org/wiki/Perennial_calendar) [solar calendar](https://en.wikipedia.org/wiki/Solar_calendar) based on astronomical observations or calculations
+- A [perennial](https://en.wikipedia.org/wiki/Perennial_calendar) [solar calendar](https://en.wikipedia.org/wiki/Solar_calendar) for Earth based on astronomical observations or calculations
   - Standing on the shoulders of the Persian [Solar Hijri](https://en.wikipedia.org/wiki/Solar_Hijri_calendar) and [Jalali](https://en.wikipedia.org/wiki/Jalali_calendar) calendars <sup>[1](#notes)</sup>
   - With roots in the [Zoroastrian calendar](https://en.wikipedia.org/wiki/Zoroastrian_calendar) and possibly the [Egyptian calendar](https://en.wikipedia.org/wiki/Egyptian_calendar) <sup>[2](#notes)</sup>
 - The calendar year begins at the [northward equinox](https://en.wikipedia.org/wiki/March_equinox) measured from the [prime meridian](https://en.wikipedia.org/wiki/Prime_meridian)
