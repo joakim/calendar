@@ -5,14 +5,14 @@
 - A [perennial](https://en.wikipedia.org/wiki/Perennial_calendar) [solar calendar](https://en.wikipedia.org/wiki/Solar_calendar) for Earth based on astronomical observations or calculations
   - Standing on the shoulders of the Persian [Solar Hijri](https://en.wikipedia.org/wiki/Solar_Hijri_calendar) and [Jalali](https://en.wikipedia.org/wiki/Jalali_calendar) calendars <sup>[1](#notes)</sup>
   - With roots in the [Zoroastrian calendar](https://en.wikipedia.org/wiki/Zoroastrian_calendar) and possibly the [Egyptian calendar](https://en.wikipedia.org/wiki/Egyptian_calendar) <sup>[2](#notes)</sup>
-- The calendar year begins at the [northward equinox](https://en.wikipedia.org/wiki/March_equinox) measured from the [prime meridian](https://en.wikipedia.org/wiki/Prime_meridian)
+- The [calendar year](https://en.wikipedia.org/wiki/Calendar_year) begins at the [northward equinox](https://en.wikipedia.org/wiki/March_equinox) measured from the [prime meridian](https://en.wikipedia.org/wiki/Prime_meridian)
 - 360 calendar days + 5 or 6 [intercalary/epagomenal](https://en.wikipedia.org/wiki/Intercalation_(timekeeping)#Solar_calendars) days
   - 4 quarters of 91 days (1 intercalary and 90 calendar days)
   - 8 "months" of 45 calendar days
   - 40 "weeks" of 9 calendar days
     - `3 * 3` days (based on the "tridays" of the [Liberalia Triday Calendar][8])
   - 1 or 2 intercalary transition days at the end of the year
-- Proposed epoch is the beginning of the human era (10001 BC)
+- Proposed [epoch](https://en.wikipedia.org/wiki/Epoch) is the beginning of the human era (10001 BC)
 
 **Essentially, the Persian calendar with a different meridian, different division of the year and a different epoch.**
 
@@ -27,12 +27,12 @@
   - **Agriculture** — seasonal, follows natural cycles
   - **Business** — evenly divided, flexible scheduling
 - **Neutral**
-  - Not tied to any culture or religion, except inevitably to that of the current scientific paradigm
-  - While scientifically grounded, it does not oppose combination with cultural or religious concepts
+  - Not tied to any culture/religion, except inevitably to that of the current scientific paradigm
+  - While it is scientifically grounded, it does not oppose combination with cultural or religious concepts
 
 ### Disadvantages
 
-- **No simple leap year rule** — in exchange for accuracy
+- **No simple leap year rule** — a tradeoff for astronomical accuracy
 - **Unfamiliarity** — different units and dates ("[months](https://en.wikipedia.org/wiki/Month)", "[weeks](https://en.wikipedia.org/wiki/Week)", new year, epoch)
 - **Yet another calendar** — made by some commoner named Joakim (who is not the pope)
 
