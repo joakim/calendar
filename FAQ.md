@@ -29,7 +29,7 @@ Being a purely solar calendar, this calendar does not attempt to unify the Moon'
 
 There is also an elegance in having 360 calendar days divided by two three times over, like cells dividing. The result is an even and balanced division of the year, with intercalary days distributed throughout and 40 "weeks" of `3 * 3` days.
 
-To summarize: The advantages gained by dividing the year into 8 "months" and 40 "weeks" outweigh the disadvantage of being unfamiliar. A new calendar should not strive to uphold the rigid requirements of yesterday, but meet the demands our ever dynamic societies.
+To summarize: The advantages gained by dividing the year into 8 "months" and 40 "weeks" outweigh the disadvantage of being unfamiliar. A new calendar should not strive to uphold the rigid requirements of yesterday, but meet the demands of our ever dynamic societies.
 
 ### Why not 12/10/etc months?
 
