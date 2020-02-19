@@ -43,7 +43,7 @@ To summarize: The advantages gained by dividing the year into 8 "months" and 40 
 
 An intercalary quarter day is considered the _zeroth_ day of its quarter, distinguishing it from the ordinary calendar days. These _zero-days_, representing the equinoxes and solstices, may be incorporated into traditions and festivals that take place around these astronomical events, having been of great importance to humans since ancient times.
 
-Note that the actual instant of an equinox or solstice does not necessarily occur on a _zero-day_, as the [astronomical seasons](https://en.wikipedia.org/wiki/Season#Astronomical) are of uneven length. They also gradually change over time, making adherence to the actual astronomical seasons impossible for a well-balanced perennial calendar.
+Note that the actual instant of an equinox or solstice does not necessarily occur on a _zero-day_, as the [astronomical seasons](https://en.wikipedia.org/wiki/Season#Astronomical) are of uneven length. They also gradually change over time, making strict adherence to the actual astronomical seasons [impossible](https://individual.utoronto.ca/kalendis/seasons.htm#eccent) for a balanced perennial calendar. The _zero-days_ are only off by a few days at most.
 
 ### Why place the extra day(s) at the end of the year?
 
