@@ -2,7 +2,7 @@
 
 ### Why base it on the Persian calendar?
 
-It is the most accurate calendar designed. I'd also argue that it is the most elegant. Tying the calendar to astronomical observations of the northward equinox is not only scientifically sound, but on some level even poetic.
+It is the most accurate solar calendar designed. I'd also argue that it is the most elegant. Tying the calendar to astronomical observations of the northward equinox is not only scientifically sound, but on some level even poetic.
 
 [Omar Khayyâm](https://en.wikipedia.org/wiki/Omar_Khayyam) was after all both an astronomer and a poet.
 
