@@ -84,10 +84,10 @@ The midnight closest to the northward equinox of the Human Era epoch of the [Hol
 
 - The **numbering** of units must be fixed
   - Divisions of the year are 1-indexed (namely quarters, eighths/months and nonads)
-  - Days of divisions containing intercalary days are 0-indexed (namely quarters and transitions)
+  - Days of quarters are 0-indexed
     - Day 0 of a quarter is the quarter's intercalary day
-  - Days of divisions containing only calendar days are 1-indexed (namely eighths/months and nonads)
-  - Transition days do not belong to any of the year's divisions
+  - Days of other divisions of the year are 1-indexed (namely eighths/months and nonads)
+  - Transition days do not belong to any of the year's divisions and are 1-indexed
 - The **naming** of units may vary by language, locale or culture
 - The **formatting** of dates should be standardized and the same for all
 
@@ -100,12 +100,12 @@ The midnight closest to the northward equinox of the Human Era epoch of the [Hol
   - **Quarter:** `quarter` (1-4) or `quarter-letter` (A-D) and `day-of-quarter` (0-90)
     - `[year]-Q[quarter]-[day-of-quarter]`
     - `[year]-[quarter-letter]-[day-of-quarter]`
-  - **Transition:** `day-of-transition` (0-1)
+  - **Transition:** `day-of-transition` (1-2)
     - `[year]-X-[day-of-transition]`
 
 The quarters may be named `A-D` similar to Asimov's [World Season Calendar][7] (`A-0`, `B-0`, `C-0`, `D-0`, `X-0`).
 
-A better format would be one that is culturally neutral, only using numbers and punctuation.
+A better format may be one that is culturally neutral, only using numbers and punctuation.
 
 ## Accuracy
 
