@@ -33,7 +33,7 @@
 ### Disadvantages
 
 - **No simple leap year rule** — a tradeoff for astronomical accuracy
-- **Unfamiliarity** — different units and dates ("[months](https://en.wikipedia.org/wiki/Month)", "[weeks](https://en.wikipedia.org/wiki/Week)", new year, epoch)
+- **Unfamiliarity** — unusual units and divisions
 - **Yet another calendar** — made by some commoner named Joakim (who is not the pope)
 
 ## Definition
