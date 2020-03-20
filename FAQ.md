@@ -59,6 +59,10 @@ It is absolutely neutral to this question. By being tied to the northward equino
 
 While not recommended, it is possible to ignore the proposed 9-day "week" and Human Era epoch, opting instead to retain the traditional 7-day week and Anno Domini epoch of the Gregorian calendar.
 
+### What's up with the name?
+
+The calendar doesn't really have a name. But it needed some sort of title, and A Calendar for Time to Come sounded good. It has several interpretations, all of which seemed fitting for an accurate calendar for the future.
+
 ### You didn't answer my question!
 
 [Create an issue](https://github.com/joakim/calendar/issues/new) and I'd be happy to answer as best as I can.
