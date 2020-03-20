@@ -18,7 +18,7 @@
 
 ### Advantages
 
-- **[Accurate](#accuracy)** — forever when based on astronomical observations
+- **[Accurate](#accuracy)** — in relation to the real solar year
 - **Simple** — division of the year into 2, 4 and 8 equal parts makes it easy to learn and visualize
 - **Dynamic** — grouping of days into `3 * 3` is a [powerful concept][3]
 - **Perennial** — dates and seasons are fixed
