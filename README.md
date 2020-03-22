@@ -6,8 +6,8 @@
   - Standing on the shoulders of the Persian [Solar Hijri](https://en.wikipedia.org/wiki/Solar_Hijri_calendar) and [Jalali](https://en.wikipedia.org/wiki/Jalali_calendar) calendars <sup>[1](#notes)</sup>
   - With roots in the [Zoroastrian calendar](https://en.wikipedia.org/wiki/Zoroastrian_calendar) and possibly the [Egyptian calendar](https://en.wikipedia.org/wiki/Egyptian_calendar) <sup>[2](#notes)</sup>
 - The [calendar year](https://en.wikipedia.org/wiki/Calendar_year) begins at the [northward equinox](https://en.wikipedia.org/wiki/March_equinox) measured from the [prime meridian](https://en.wikipedia.org/wiki/Prime_meridian)
-- 360 calendar days + 5 or 6 [intercalary/epagomenal](https://en.wikipedia.org/wiki/Intercalation_(timekeeping)#Solar_calendars) days
-  - 4 quarters of 91 days (1 intercalary and 90 calendar days)
+- 360 calendar days + 5 or 6 [intercalary](https://en.wikipedia.org/wiki/Intercalation_(timekeeping)#Solar_calendars) days
+  - 4 quarters of 90 calendar days + 1 intercalary day
   - 8 "months" of 45 calendar days
   - 40 "weeks" of 9 calendar days
     - `3 * 3` days (based on the "tridays" of the [Liberalia Triday Calendar][8])
