@@ -41,13 +41,13 @@ The calendar is not tied to any culture/religion, except inevitably to that of t
 
 ### New Year
 
-> The calendar year begins at the midnight closest to the instant of the northward equinox. Consequently, if the northward equinox falls _before_ solar noon on a particular day, then that day is the first day of the year. If the northward equinox occurs _after_ solar noon, the following day begins the calendar year.
+> The calendar year begins at the midnight closest to the instant of the northward equinox measured from the prime meridian. Consequently, if the northward equinox falls _before_ solar noon on a particular day, then that day is the first day of the year. If the northward equinox occurs _after_ solar noon, the following day begins the calendar year.
 
-- This may be calculated for the prime meridian ([Meeus, 2002][4]) or observed locally (even with a [sundial](https://en.wikipedia.org/wiki/Sundial))
-  - Calculations should be based on the instant of the northward equinox at the prime meridian <sup>[3](#notes)</sup>
-  - Local new year is then easily calculated from this instant using an offset (for example UTC time zone)
-- The _local_ new year should be celebrated, not that of the prime meridian <sup>[4](#notes)</sup>
-- Leap years follow a 33 year cycle, like the Persian calendar ([Heydari-Malayeri, 2004][1])
+- The instant should be based on calculations for the prime meridian ([Meeus, 2002][4]) <sup>[3](#notes)</sup>
+  - Local new year may be calculated from this instant using a time offset (for example [Universal Time](https://en.wikipedia.org/wiki/Universal_Time))
+  - The instant may also be observed locally, even with a [sundial](https://en.wikipedia.org/wiki/Sundial)
+  - The _local_ new year should be celebrated, not that of the prime meridian <sup>[4](#notes)</sup>
+- Leap years follow a 33 year cycle, inherited from the Persian calendar ([Heydari-Malayeri, 2004][1])
   - Calculations should use the _true northward equinox year_, not to be confused with the _mean tropical year_ <sup>[5](#notes)</sup>
 
 ### Units
@@ -147,7 +147,7 @@ However, features like these may be applied just as they are applied to existing
 1. In particular the Jalali calendar reform led by the Persian mathematician, astronomer, philosopher and poet [Omar Khayyâm](https://en.wikipedia.org/wiki/Omar_Khayyam) in 1074-1079 AD
 2. Both calendars had 5 "stolen days", possibly a reference to [the Egyptian myth of Nut and Ra](https://en.wikipedia.org/wiki/Nut_(goddess)#Myth_of_Nut_and_Ra)
 3. Instead of Tehran, this calendar's point of reference effectively becomes [0°N 0°E](https://en.wikipedia.org/wiki/Null_Island) at sea level
-4. Either the exact local instant, or local midnight as calculated from new year at the prime meridian
+4. Either the exact local instant of the northward equinox, or local midnight as calculated from the prime meridian
 5. A [widespread misunderstanding][19] that must be avoided when implementing this calendar
 
 #### References:
