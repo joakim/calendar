@@ -72,9 +72,9 @@ The names "octet", "nonad", "triad" and "transition" are descriptive only, bette
     - 8 octets of 45 calendar days (2 octets per quarter)
     - 40 nonads of 9 calendar days (10 nonads per quarter, 5 nonads per octet)
       - Each nonad may be further divided into 3 triads of 3 calendar days
-  - Traditional division: 12 "months"
+  - Traditional division: 12 months
     - 12 months of 30 calendar days (3 months per quarter)
-    - Drawback: A month can not fit a whole number of "weeks" (3.3 nonads per month)
+    - Drawback: A month can not fit a whole number of nonads (3.3 nonads per month)
  - The remaining 1 or 2 days at the end of the year are intercalary transition days before the new year
 
 ### Proposed epoch
@@ -83,14 +83,14 @@ The midnight closest to the northward equinox of the Human Era epoch of the [Hol
 
 ## Proposed notation
 
-- The **numbering** of units must be fixed
+- The **numbering** of units must be universal
   - Divisions of the year are 1-indexed (namely quarters, octets/months and nonads)
   - Days of quarters are 0-indexed
     - Day 0 of a quarter is the quarter's intercalary day
   - Days of other divisions of the year are 1-indexed (namely octets/months and nonads)
   - Transition days do not belong to any of the year's divisions and are 1-indexed
 - The **naming** of units may vary by language, locale or culture
-- The **formatting** of dates should be standardized and the same for all
+- The **formatting** of dates should be universal
 
 #### Example of date format ([ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) like)
 
@@ -106,7 +106,7 @@ The midnight closest to the northward equinox of the Human Era epoch of the [Hol
 
 The quarters may be named `A-D` similar to Asimov's [World Season Calendar][7] (`A-0`, `B-0`, `C-0`, `D-0`, `X-0`).
 
-A better format may be one that is culturally neutral, only using numbers and punctuation.
+A better format may be one that is culturally neutral, using only numbers and punctuation.
 
 ## Accuracy
 
@@ -121,7 +121,8 @@ Calendars based on the Jalali calendar are the most accurate in relation to the 
 - Incorporate the traditional 7-day week in its structure
 - Incorporate the [lunar phases](https://en.wikipedia.org/wiki/Lunar_phase), as [lunisolar calendars](https://en.wikipedia.org/wiki/Lunisolar_calendar) are inherently complex and irregular
 - Accurately follow the [astronomical seasons](https://en.wikipedia.org/wiki/Season#Astronomical), as their lengths change over time
-- Align with the 12 constellations of the [zodiac](https://en.wikipedia.org/wiki/Zodiac), due to the (lunisolar) [precession of the ecliptic](https://en.wikipedia.org/wiki/Axial_precession)
+- Align with the 12 constellations of the [
+odiac](https://en.wikipedia.org/wiki/Zodiac), due to the (lunisolar) [precession of the ecliptic](https://en.wikipedia.org/wiki/Axial_precession)
 - Introduce time scales or prescribe holidays — it's just a calendar
 
 However, features like these may be applied just as they are applied to existing calendars. For example, the unbroken chain of 7-day weeks may be used just like in the Gregorian calendar, with weekdays retaining their traditional names and cultural/religious significance, if so is desired. As long as the calendar's underlying structure remains the same.
