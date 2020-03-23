@@ -137,6 +137,7 @@ However, features like these may be applied just as they are applied to existing
 - [The Primavera Calendar][14]
 - [Universal Celestial Calendar][9]
 - [The Earth Epic Calendar][10]
+- [Albertan Calendar][20]
 
 ---
 
@@ -183,3 +184,4 @@ However, features like these may be applied just as they are applied to existing
 [17]: http://www.schlag.name/calendarreform00.htm
 [18]: https://www.hermetic.ch/cal_stud/dst02.htm
 [19]: https://hermetic.ch/cal_stud/cassidy/err_trop.htm
+[20]: https://calendars.wikia.org/wiki/Albertan_calendar
