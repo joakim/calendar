@@ -10,7 +10,7 @@
   - 4 quarters of 90 calendar days + 1 intercalary day
   - 8 "months" of 45 calendar days
   - 40 "weeks" of 9 calendar days
-    - `3 * 3` days (based on the "tridays" of the [Liberalia Triday Calendar][8])
+    - 3 × 3 days (based on the tridays of the [Liberalia Triday Calendar][8])
   - 1 or 2 intercalary transition days at the end of the year
 - Proposed [epoch](https://en.wikipedia.org/wiki/Epoch) is the beginning of the human era (10001 BC)
 
@@ -18,17 +18,18 @@
 
 ### Advantages
 
-- **[Accurate](#accuracy)** — in relation to the real solar year
-- **Simple** — division of the year into 2, 4 and 8 equal parts makes it easy to learn and visualize
-- **Dynamic** — grouping of days into `3 * 3` is a [powerful concept][3]
-- **Perennial** — dates and seasons are fixed
-- **Structured** — yet flexible enough to adapt to different uses and cultures
-  - **Civil** — simple, predictable
-  - **Agriculture** — seasonal, follows natural cycles
-  - **Business** — evenly divided, flexible scheduling
-- **Neutral**
-  - Not tied to any culture/religion, except inevitably to that of the current scientific paradigm
-  - While it is scientifically grounded, it does not oppose combination with cultural or religious concepts
+- **[Accurate](#accuracy)** — follows the true solar year and its seasons
+- **Predictable** — perennially fixed calendar dates
+- **Balanced** – division of the year into 2, 4 and 8 equal parts
+- **Dynamic** — grouping of days into 3 × 3 is a [powerful concept][3]
+- **Simple** — making it easy to learn and visualize
+
+It is structured, yet flexible enough to adapt to different uses and cultures:
+  - **Civil** — simple and predictable
+  - **Agriculture** — follows natural cycles
+  - **Business** — divided into equal parts, allows for flexible schedules
+
+The calendar is not tied to any culture/religion, except inevitably to that of the current scientific paradigm. While it is scientifically grounded, it does not oppose combination with cultural or religious concepts
 
 ### Disadvantages
 
@@ -47,7 +48,7 @@
   - Local new year is then easily calculated from this instant using an offset (for example UTC time zone)
 - The _local_ new year should be celebrated, not that of the prime meridian <sup>[4](#notes)</sup>
 - Leap years follow a 33 year cycle, like the Persian calendar ([Heydari-Malayeri, 2004][1])
-  - Calculations should use the _real northward equinox year_, not to be confused with the _mean tropical year_ <sup>[5](#notes)</sup>
+  - Calculations should use the _true northward equinox year_, not to be confused with the _mean tropical year_ <sup>[5](#notes)</sup>
 
 ### Units
 
@@ -112,7 +113,7 @@ A better format may be one that is culturally neutral, using only numbers and pu
 
 Observation-based calendars embrace the non-uniform motion of the Earth around the Sun, as well as the short-term perturbations. The future can never be predicted with absolute certainty, due to the dynamic nature of the universe. The only way to know with absolute certainty the length of the year is through observation.
 
-Calendars based on the Jalali calendar are the most accurate in relation to the real solar year. Today's astronomical knowledge and computing power enable us to predict with very high precision the instant of the northward equinox. The exact instant can now be measured to an accuracy of better than 1 millisecond ([Heydari-Malayeri, 2004][1]).
+Calendars based on the Jalali calendar are the most accurate in relation to the true solar year. Today's astronomical knowledge and computing power enable us to predict with very high precision the instant of the northward equinox. The exact instant can now be measured to an accuracy of better than 1 millisecond ([Heydari-Malayeri, 2004][1]).
 
 ## What it is not
 
