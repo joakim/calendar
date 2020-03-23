@@ -19,17 +19,17 @@
 ### Advantages
 
 - **[Accurate](#accuracy)** — follows the true solar year and its seasons
-- **Predictable** — perennially fixed calendar dates
 - **Balanced** – division of the year into 2, 4 and 8 equal parts
 - **Dynamic** — grouping of days into 3 × 3 is a [powerful concept][3]
-- **Simple** — making it easy to learn and visualize
+- **Predictable** — consistent, perennial structure
+- **Simple** — easy to learn and uncomplicated to use
 
 It is structured, yet flexible enough to adapt to different uses and cultures:
-  - **Civil** — simple and predictable
   - **Agriculture** — follows natural cycles
   - **Business** — divided into equal parts, allows for flexible schedules
+  - **Civil** — simple and predictable
 
-The calendar is not tied to any culture/religion, except inevitably to that of the current scientific paradigm. While it is scientifically grounded, it does not oppose combination with cultural or religious concepts
+The calendar is not tied to any culture/religion, except inevitably to that of the current scientific paradigm. While it is scientifically grounded, it does not oppose combination with cultural or religious concepts.
 
 ### Disadvantages
 
