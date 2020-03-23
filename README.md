@@ -21,7 +21,7 @@
 - **[Accurate](#accuracy)** — follows the true solar year and its seasons
 - **Balanced** – division of the year into 2, 4 and 8 equal parts
 - **Dynamic** — grouping of days into 3 × 3 is a [powerful concept][3]
-- **Predictable** — consistent, perennial structure
+- **Predictable** — has a consistent, perennial structure
 - **Simple** — easy to learn and uncomplicated to use
 
 It is structured, yet flexible enough to adapt to different uses and cultures:
