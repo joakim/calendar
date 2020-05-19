@@ -51,7 +51,7 @@ Calendars based on the Jalali calendar are the most accurate in relation to the 
   - 1 or 2 intercalary transition days at the end of the year
 - Proposed epoch is the beginning of the human era (10001 BC)
 
-For more details, see the [definition](definition.md) or the [FAQ](faq.md).
+For more details, see [Definition](definition.md) or [Questions and Answers](faq.md).
 
 ### What it is not
 
