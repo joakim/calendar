@@ -1,16 +1,16 @@
 # A Calendar for Time to Come
 
-A perennial solar calendar based on astronomical observations.
+A [perennial](https://en.wikipedia.org/wiki/Perennial_calendar) [solar calendar](https://en.wikipedia.org/wiki/Solar_calendar) based on astronomical observations.
 
-The calendar year consists of 360 calendar days + 5 intercalary days (6 in leap years), divided into 4 equal quarters of 1 intercalary day + 90 calendar days. The remaining 1 or 2 days of the year are intercalary transition days between years.
+The [calendar year](https://en.wikipedia.org/wiki/Calendar_year) consists of 360 calendar days + 5 [intercalary](https://en.wikipedia.org/wiki/Intercalation_(timekeeping)#Solar_calendars) days (6 in leap years), divided into 4 equal quarters of 1 intercalary day + 90 calendar days. The remaining 1 or 2 days of the year are intercalary transition days between years.
 
-The 360 calendar days may be divided into eight 45-day months, as well as 40 x 9-day weeks (3 x 3 days). Alternatively, one can use the more traditional twelve 30-day months.
+The 360 calendar days may be divided into 8 months of 45 days, as well as 40 weeks of 9 days (3 x 3, based on [tridays](https://www.hermetic.ch/cal_stud/ltc/ltc.htm)). Alternatively, one can use the more traditional 12 months of 30 days.
 
-The calendar year begins at the midnight closest to the instant of the northward equinox as measured from the prime meridian. Consequently, if the northward equinox falls before solar noon on a particular day, then that day is the first day of the year. If the northward equinox occurs after solar noon, the following day begins the calendar year.
+The calendar year begins at the midnight closest to the instant of the [northward equinox](https://en.wikipedia.org/wiki/March_equinox) as measured from the [prime meridian](https://en.wikipedia.org/wiki/Prime_meridian). Consequently, if the northward equinox falls before [solar noon](https://en.wikipedia.org/wiki/Noon#Solar_noon) on a particular day, then that day is the first day of the year. If the northward equinox occurs after solar noon, the following day begins the calendar year.
 
-The calendar's proposed epoch is the beginning of the human era (10001 BC).
+The calendar's _proposed_ [epoch](https://en.wikipedia.org/wiki/Epoch) is the beginning of the [human era](https://en.wikipedia.org/wiki/Holocene_calendar) (10001 BC).
 
-Essentially, it's the Persian calendar with a different division of the year, a different meridian and a different epoch. The calendar and its astronomical basis is deeply indebted to Persian astronomer Omar Khayyam's 11th century reform of the Jalali calendar.
+Essentially, it's the [Persian calendar](https://en.wikipedia.org/wiki/Iranian_calendars) with a different division of the year, a different meridian and a different epoch. The calendar and its astronomical basis is deeply indebted to Persian astronomer [Omar Khayyam](https://en.wikipedia.org/wiki/Omar_Khayyam)'s 11th century reform of the [Jalali calendar](https://en.wikipedia.org/wiki/Jalali_calendar).
 
 ### Advantages
 
@@ -41,21 +41,19 @@ Calendars based on the Jalali calendar are the most accurate in relation to the 
 
 ### Summary
 
-- A [perennial](https://en.wikipedia.org/wiki/Perennial_calendar) [solar calendar](https://en.wikipedia.org/wiki/Solar_calendar) for Earth based on astronomical observations
-  - Standing on the shoulders of the Persian [Solar Hijri](https://en.wikipedia.org/wiki/Solar_Hijri_calendar) and [Jalali](https://en.wikipedia.org/wiki/Jalali_calendar) calendars
-  - With roots in the [Zoroastrian calendar](https://en.wikipedia.org/wiki/Zoroastrian_calendar) and possibly the [Egyptian calendar](https://en.wikipedia.org/wiki/Egyptian_calendar)
-- The [calendar year](https://en.wikipedia.org/wiki/Calendar_year) begins at the [northward equinox](https://en.wikipedia.org/wiki/March_equinox) measured from the [prime meridian](https://en.wikipedia.org/wiki/Prime_meridian)
-- 360 calendar days + 5 or 6 [intercalary](https://en.wikipedia.org/wiki/Intercalation_(timekeeping)#Solar_calendars) days
+- A perennial solar calendar for Earth based on astronomical observations
+- The calendar year begins at the northward equinox measured from the prime meridian
+- 360 calendar days + 5 or 6 intercalary days
   - 4 quarters of 90 calendar days + 1 intercalary day
-  - 8 "months" of 45 calendar days
-  - 40 "weeks" of 9 calendar days
-    - 3 × 3 days (based on the tridays of the [Liberalia Triday Calendar](https://www.hermetic.ch/cal_stud/ltc/ltc.htm))
+  - 8 months of 45 calendar days
+  - 40 weeks of 9 calendar days
+    - 3 × 3 days
   - 1 or 2 intercalary transition days at the end of the year
-- Proposed [epoch](https://en.wikipedia.org/wiki/Epoch) is the beginning of the human era (10001 BC)
+- Proposed epoch is the beginning of the human era (10001 BC)
 
 For more details, see the [definition](definition.md) or the [FAQ](faq.md).
 
-## What it is not
+### What it is not
 
 #### This calendar does not attempt to:
 
