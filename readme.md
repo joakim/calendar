@@ -6,7 +6,7 @@ The [calendar year](https://en.wikipedia.org/wiki/Calendar_year) consists of 360
 
 The 360 calendar days may be divided into 8 months of 45 days, as well as 40 weeks of 9 days (3 x 3, based on [tridays](https://www.hermetic.ch/cal_stud/ltc/ltc.htm)). Alternatively, one can use the more traditional 12 months of 30 days.
 
-The calendar year begins at the midnight closest to the instant of the [northward equinox](https://en.wikipedia.org/wiki/March_equinox) as measured from the [prime meridian](https://en.wikipedia.org/wiki/Prime_meridian). Consequently, if the northward equinox falls before [solar noon](https://en.wikipedia.org/wiki/Noon#Solar_noon) on a particular day, then that day is the first day of the year. If the northward equinox occurs after solar noon, the following day begins the calendar year.
+The calendar year begins at the midnight closest to the instant of the [northward equinox](https://en.wikipedia.org/wiki/Northward_equinox) as measured from the [prime meridian](https://en.wikipedia.org/wiki/Prime_meridian). Consequently, if the northward equinox falls before [solar noon](https://en.wikipedia.org/wiki/Noon#Solar_noon) on a particular day, then that day is the first day of the year. If the northward equinox occurs after solar noon, the following day begins the calendar year.
 
 The calendar's _proposed_ [epoch](https://en.wikipedia.org/wiki/Epoch) is the beginning of the [human era](https://en.wikipedia.org/wiki/Holocene_calendar) (10001 BC).
 
