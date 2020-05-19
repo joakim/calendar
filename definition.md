@@ -1,4 +1,4 @@
-# Definition of A Calendar for Time to Come
+# Definition
 
 ### New Year
 
