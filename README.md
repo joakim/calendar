@@ -86,28 +86,26 @@ The midnight closest to the northward equinox of the Human Era epoch of the [Hol
 
 - The **numbering** of units must be universal
   - Divisions of the year are 1-indexed (namely quarters, octants/months and nonads)
-  - Days of quarters are 0-indexed
+  - Days of quarters and the transition period are 0-indexed
     - Day 0 of a quarter is the quarter's intercalary day
   - Days of other divisions of the year are 1-indexed (namely octants/months and nonads)
-  - Transition days do not belong to any of the year's divisions and are 1-indexed
-- The **naming** of units may vary by language, locale or culture
 - The **formatting** of dates should be universal
+- The **naming** of units may vary by language, locale or culture
 
-#### Example of date format ([ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) like)
+#### One example of a format ([ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) like)
 
   - **Octant:** `octant` (1-8) and `day-of-octant` (1-45)
     - `[year]-[octant]-[day-of-octant]`
   - **Nonad:** `nonad` (1-40) and `day-of-nonad` (1-9)
     - `[year]-N[nonad]-[day-of-nonad]`
-  - **Quarter:** `quarter` (1-4) or `quarter-letter` (A-D) and `day-of-quarter` (0-90)
-    - `[year]-Q[quarter]-[day-of-quarter]`
+  - **Quarter:** `quarter-letter` (A-D) and `day-of-quarter` (0-90)
     - `[year]-[quarter-letter]-[day-of-quarter]`
-  - **Transition:** `day-of-transition` (1-2)
+  - **Fiscal quarter:** `quarter` (1-4) and `day-of-quarter` (1-90)
+    - `[year]-Q[quarter]-[day-of-quarter]`
+  - **Transition:** `day-of-transition` (0-1)
     - `[year]-X-[day-of-transition]`
 
-The quarters may be named `A-D` similar to Asimov's [World Season Calendar][7] (`A-0`, `B-0`, `C-0`, `D-0`, `X-0`).
-
-A better format may be one that is culturally neutral, using only numbers and punctuation.
+The quarters may be named `A-D` similar to Asimov's [World Season Calendar][7] (`A-0`, `B-0`, `C-0`, `D-0`, and `X-0` for transition day).
 
 ## Accuracy
 
