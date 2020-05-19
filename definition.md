@@ -15,10 +15,10 @@
 > The calendar year begins at the midnight closest to the instant of the northward equinox measured from the prime meridian. Consequently, if the northward equinox falls _before_ solar noon on a particular day, then that day is the first day of the year. If the northward equinox occurs _after_ solar noon, the following day begins the calendar year.
 
 - The instant should be based on calculations for the prime meridian <sup>[1](#notes)</sup>
-  - The instant may also be observed locally, even with a [sundial](https://en.wikipedia.org/wiki/Sundial)
   - Local new year may be calculated from this instant using a time offset (for example [Universal Time](https://en.wikipedia.org/wiki/Universal_Time))
   - The _local_ new year should be celebrated, not that of the prime meridian <sup>[2](#notes)</sup>
-- Leap years follow the 33-year cycle inherited from the Persian calendar ([Heydari-Malayeri, 2004](http://aramis.obspm.fr/~heydari/divers/ir-cal-eng.html))
+  - It may also be observed locally, even with a [sundial](https://en.wikipedia.org/wiki/Sundial)
+- Inherits the 33-year intercalation cycle from the Persian calendar ([Heydari-Malayeri, 2004](http://aramis.obspm.fr/~heydari/divers/ir-cal-eng.html))
   - Calculations should use the _true northward equinox year_, not to be confused with the _mean tropical year_ <sup>[3](#notes)</sup>
 
 ### Units
