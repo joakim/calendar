@@ -122,8 +122,7 @@ Calendars based on the Jalali calendar are the most accurate in relation to the 
 - Incorporate the traditional 7-day week in its structure
 - Incorporate the [lunar phases](https://en.wikipedia.org/wiki/Lunar_phase), as [lunisolar calendars](https://en.wikipedia.org/wiki/Lunisolar_calendar) are inherently complex and irregular
 - Accurately follow the [astronomical seasons](https://en.wikipedia.org/wiki/Season#Astronomical), as their lengths change over time
-- Align with the 12 constellations of the [
-odiac](https://en.wikipedia.org/wiki/Zodiac), due to the (lunisolar) [precession of the ecliptic](https://en.wikipedia.org/wiki/Axial_precession)
+- Align with the 12 constellations of the [zodiac](https://en.wikipedia.org/wiki/Zodiac), due to the (lunisolar) [precession of the ecliptic](https://en.wikipedia.org/wiki/Axial_precession)
 - Introduce time scales or prescribe holidays — it's just a calendar
 
 However, features like these may be applied just as they are applied to existing calendars. For example, the unbroken chain of 7-day weeks may be used just like in the Gregorian calendar, with weekdays retaining their traditional names and cultural/religious significance, if so is desired. As long as the calendar's underlying structure remains the same.
