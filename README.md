@@ -119,6 +119,7 @@ Calendars based on the Jalali calendar are the most accurate in relation to the 
 
 #### This calendar does not attempt to:
 
+- Reform an existing calendar
 - Incorporate the traditional 7-day week in its structure
 - Incorporate the [lunar phases](https://en.wikipedia.org/wiki/Lunar_phase), as [lunisolar calendars](https://en.wikipedia.org/wiki/Lunisolar_calendar) are inherently complex and irregular
 - Accurately follow the [astronomical seasons](https://en.wikipedia.org/wiki/Season#Astronomical), as their lengths change over time
