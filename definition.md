@@ -73,5 +73,5 @@ The quarters are named `A-D` as in Asimov's [World Season Calendar](https://cale
 #### Notes:
 
 1. Instead of Tehran, this calendar's point of reference effectively becomes [0°N 0°E](https://en.wikipedia.org/wiki/Null_Island) at sea level
-2. Either the exact local instant of the northward equinox, or local midnight as calculated from the prime meridian
+2. Could be the exact local instant of the northward equinox or local midnight as calculated from the prime meridian
 3. A [widespread misunderstanding](https://hermetic.ch/cal_stud/cassidy/err_trop.htm) that must be avoided when implementing this calendar
