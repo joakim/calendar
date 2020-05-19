@@ -4,7 +4,7 @@
 
 > The calendar year begins at the midnight closest to the instant of the northward equinox measured from the prime meridian. Consequently, if the northward equinox falls _before_ solar noon on a particular day, then that day is the first day of the year. If the northward equinox occurs _after_ solar noon, the following day begins the calendar year.
 
-- The instant should be based on calculations for the prime meridian ([Meeus, 2002](https://www.willbell.com/math/moremorsels.HTM)) <sup>[1](#notes)</sup>
+- The instant should be based on calculations for the prime meridian <sup>[1](#notes)</sup>
   - Local new year may be calculated from this instant using a time offset (for example [Universal Time](https://en.wikipedia.org/wiki/Universal_Time))
   - The instant may also be observed locally, even with a [sundial](https://en.wikipedia.org/wiki/Sundial)
   - The _local_ new year should be celebrated, not that of the prime meridian <sup>[2](#notes)</sup>
