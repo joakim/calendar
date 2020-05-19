@@ -1,5 +1,15 @@
 # Definition
 
+- A perennial solar calendar for Earth based on astronomical observations
+- The calendar year begins at the northward equinox measured from the prime meridian
+- 360 calendar days + 5 or 6 intercalary days
+  - 4 quarters of 90 calendar days + 1 intercalary day
+  - 8 months of 45 calendar days
+  - 40 weeks of 9 calendar days
+    - 3 × 3 days
+  - 1 or 2 intercalary transition days at the end of the year
+- Proposed epoch is the beginning of the human era (10001 BC)
+
 ### New Year
 
 > The calendar year begins at the midnight closest to the instant of the northward equinox measured from the prime meridian. Consequently, if the northward equinox falls _before_ solar noon on a particular day, then that day is the first day of the year. If the northward equinox occurs _after_ solar noon, the following day begins the calendar year.
@@ -43,7 +53,7 @@ The names "octant", "nonad", "triad" and "transition" are descriptive only, bett
 
 The midnight closest to the northward equinox of the Human Era epoch of the [Holocene Calendar](https://en.wikipedia.org/wiki/Holocene_calendar), 10001 BC, maintaining a reference to the currently dominant [Anno Domini](https://en.wikipedia.org/wiki/Anno_Domini) (12020 HE = 2020 AD).
 
-## Proposed notation
+### Proposed notation
 
 - The **numbering** of units must be universal
   - Divisions of the year are 1-indexed (namely quarters, octants/months and nonads)
@@ -66,7 +76,7 @@ The midnight closest to the northward equinox of the Human Era epoch of the [Hol
   - **Transition:** `day-of-transition` (0-1)
     - `[year]-X-[day-of-transition]`
 
-The quarters are named `A-D` as in Asimov's [World Season Calendar](https://calendars.wikia.org/wiki/World_Season_Calendar) (`A-0`, `B-0`, `C-0`, `D-0`, and `X-0` for the transition day).
+The quarters are named `A-D` as in Asimov's [World Season Calendar](https://calendars.wikia.org/wiki/World_Season_Calendar) (`A-0`, `B-0`, `C-0`, `D-0`, and `X-0`).
 
 ---
 
