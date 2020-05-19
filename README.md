@@ -98,10 +98,10 @@ The midnight closest to the northward equinox of the Human Era epoch of the [Hol
     - `[year]-[octant]-[day-of-octant]`
   - **Nonad:** `nonad` (1-40) and `day-of-nonad` (1-9)
     - `[year]-N[nonad]-[day-of-nonad]`
-  - **Quarter:** `quarter-letter` (A-D) and `day-of-quarter` (0-90)
-    - `[year]-[quarter-letter]-[day-of-quarter]`
-  - **Fiscal quarter:** `quarter` (1-4) and `day-of-quarter` (1-90)
-    - `[year]-Q[quarter]-[day-of-quarter]`
+  - **Quarter:** `quarter` (A-D) and `day-of-quarter` (0-90)
+    - `[year]-[quarter]-[day-of-quarter]`
+  - **Fiscal quarter:** `fiscal-quarter` (1-4) and `day-of-quarter` (1-90)
+    - `[year]-Q[fiscal-quarter]-[day-of-quarter]`
   - **Transition:** `day-of-transition` (0-1)
     - `[year]-X-[day-of-transition]`
 
