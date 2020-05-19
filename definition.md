@@ -8,7 +8,7 @@
   - Local new year may be calculated from this instant using a time offset (for example [Universal Time](https://en.wikipedia.org/wiki/Universal_Time))
   - The instant may also be observed locally, even with a [sundial](https://en.wikipedia.org/wiki/Sundial)
   - The _local_ new year should be celebrated, not that of the prime meridian <sup>[2](#notes)</sup>
-- Leap years follow the 33 year cycle inherited from the Persian calendar ([Heydari-Malayeri, 2004](http://aramis.obspm.fr/~heydari/divers/ir-cal-eng.html))
+- Leap years follow the 33-year cycle inherited from the Persian calendar ([Heydari-Malayeri, 2004](http://aramis.obspm.fr/~heydari/divers/ir-cal-eng.html))
   - Calculations should use the _true northward equinox year_, not to be confused with the _mean tropical year_ <sup>[3](#notes)</sup>
 
 ### Units
