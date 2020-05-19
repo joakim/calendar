@@ -54,6 +54,19 @@ Calendars based on the Jalali calendar are the most accurate in relation to the 
 
 However, features like these may be applied, just as they are applied to existing calendars. For example, the unbroken chain of 7-day weeks may be used just like in the Gregorian calendar, with weekdays retaining their traditional names and cultural/religious significance, if so is desired. As long as the calendar's underlying structure remains the same.
 
+---
+
+#### Recommended links:
+
+- [A concise review of the Iranian calendar](http://aramis.obspm.fr/~heydari/divers/ir-cal-eng.html) (Heydari-Malayeri, 2004)
+- [Calendar Reform](http://myweb.ecu.edu/mccartyr/calendar-reform.html) (McCarty)
+- [Calendars New and Old](https://www.hermetic.ch/cal_stud.htm) (Meyer)
+  - [The Non-implemented 33-Year English Protestant Calendar](https://www.hermetic.ch/cal_stud/dst01.htm) (Steel, 1999)
+  - [How Britain got the Calendar Wrong](https://www.hermetic.ch/cal_stud/dst02.htm) (Steel, 1999)
+- [One Day Too Many](http://www.schlag.name/calendarreform00.htm) (Schlag)  
+  <small><em>Doesn't mention the Persian calendar. This calendar would also solve all the [faults](http://www.schlag.name/calendarreform11.html) of the Gregorian calendar.</em></small>
+- [The Persian calendar for 3000 years](http://www.astro.uni.torun.pl/~kb/Papers/EMP/PersianC-EMP.htm) (Borkowski, 1996)
+
 #### Related proposed calendars:
 
 - Isaac Asimov's [World Season Calendar](https://calendars.wikia.org/wiki/World_Season_Calendar)
@@ -65,21 +78,3 @@ However, features like these may be applied, just as they are applied to existin
 - [Universal Celestial Calendar](https://www.universalcelestialcalendar.com/)
 - [The Earth Epic Calendar](https://earthepiccalendar.com/current-calendar/)
 - [Albertan Calendar](https://calendars.wikia.org/wiki/Albertan_calendar)
-
----
-
-#### References:
-
-- [A concise review of the Iranian calendar](http://aramis.obspm.fr/~heydari/divers/ir-cal-eng.html) (Heydari-Malayeri, 2004)
-- [More Mathematical Astronomy Morsels](https://www.willbell.com/math/moremorsels.HTM) (Meeus, 2002)
-- [The Liberalia Triday Calendar](https://www.hermetic.ch/cal_stud/ltc/ltc.htm) (Meyer, 1999)
-
-#### Recommended links:
-
-- [Calendar Reform](http://myweb.ecu.edu/mccartyr/calendar-reform.html) (McCarty)
-- [Calendars New and Old](https://www.hermetic.ch/cal_stud.htm) (Meyer)
-  - [The Non-implemented 33-Year English Protestant Calendar](https://www.hermetic.ch/cal_stud/dst01.htm) (Steel, 1999)
-  - [How Britain got the Calendar Wrong](https://www.hermetic.ch/cal_stud/dst02.htm) (Steel, 1999)
-- [One Day Too Many](http://www.schlag.name/calendarreform00.htm) (Schlag)  
-  <small><em>Doesn't mention the Persian calendar. This calendar would also solve all the [faults](http://www.schlag.name/calendarreform11.html) of the Gregorian calendar.</em></small>
-- [The Persian calendar for 3000 years](http://www.astro.uni.torun.pl/~kb/Papers/EMP/PersianC-EMP.htm) (Borkowski, 1996)
