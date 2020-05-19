@@ -12,6 +12,8 @@ The calendar's _proposed_ [epoch](https://en.wikipedia.org/wiki/Epoch) is the be
 
 Essentially, it's the [Persian calendar](https://en.wikipedia.org/wiki/Iranian_calendars) with a different division of the year, a different meridian and a different epoch. The calendar and its astronomical basis is deeply indebted to Persian astronomer [Omar Khayyam](https://en.wikipedia.org/wiki/Omar_Khayyam)'s 11th century reform of the [Jalali calendar](https://en.wikipedia.org/wiki/Jalali_calendar).
 
+For more details, see [Definition](definition.md) or [Questions and Answers](faq.md).
+
 ### Advantages
 
 - **[Accurate](#accuracy)** — follows the true solar year and its seasons
@@ -38,20 +40,6 @@ The calendar is not tied to any culture/religion, except inevitably to that of t
 Observation-based calendars embrace the non-uniform motion of the Earth around the Sun, as well as the short-term perturbations. The future can never be predicted with absolute certainty, due to the dynamic nature of the universe. The only way to know with absolute certainty the length of the year is through observation.
 
 Calendars based on the Jalali calendar are the most accurate in relation to the true solar year. Today's astronomical knowledge and computing power enable us to predict with very high precision the instant of the northward equinox. The exact instant can now be measured to an accuracy of better than 1 millisecond ([Heydari-Malayeri, 2004](http://aramis.obspm.fr/~heydari/divers/ir-cal-eng.html)).
-
-### Summary
-
-- A perennial solar calendar for Earth based on astronomical observations
-- The calendar year begins at the northward equinox measured from the prime meridian
-- 360 calendar days + 5 or 6 intercalary days
-  - 4 quarters of 90 calendar days + 1 intercalary day
-  - 8 months of 45 calendar days
-  - 40 weeks of 9 calendar days
-    - 3 × 3 days
-  - 1 or 2 intercalary transition days at the end of the year
-- Proposed epoch is the beginning of the human era (10001 BC)
-
-For more details, see [Definition](definition.md) or [Questions and Answers](faq.md).
 
 ### What it is not
 
