@@ -53,32 +53,17 @@ The names "octant", "nonad", "triad" and "transition" are descriptive only, bett
 
 The midnight closest to the northward equinox of the Human Era epoch of the [Holocene Calendar](https://en.wikipedia.org/wiki/Holocene_calendar), 10001 BC, maintaining a reference to the currently dominant [Anno Domini](https://en.wikipedia.org/wiki/Anno_Domini) (12020 HE = 2020 AD).
 
-### Proposed notation
+### Proposed notation for the 8 month variant
 
+- The **formatting** of dates should be universal
 - The **numbering** of units must be universal
   - Divisions of the year are 1-indexed (namely octants/months, nonads and quarters)
-  - Days of quarters and the transition period are 0-indexed
+  - Days of the transition period and quarters are 0-indexed
     - Day 0 of a quarter is the quarter's intercalary day
   - Days of other divisions of the year are 1-indexed (namely octants/months, nonads and fiscal quarters)
-- The **formatting** of dates should be universal
 - The **naming** of units may vary by language, locale or culture
 
-#### One example of a format ([ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) like)
-
-  - **Quarter:** `quarter` (A-D) and `day-of-quarter` (0-90)
-    - `[year]-[quarter]-[day-of-quarter]`
-  - **Transition:** `day-of-transition` (0-1)
-    - `[year]-X-[day-of-transition]`
-  - **Octant:** `octant` (1-8) and `day-of-octant` (1-45)
-    - `[year]-[octant]-[day-of-octant]`
-  - **Nonad:** `nonad` (1-40) and `day-of-nonad` (1-9)
-    - `[year]-N[nonad]-[day-of-nonad]`
-  - **Month:** `month` (1-12) and `day-of-month` (1-30)
-    - `[year]-[month]-[day-of-month]`
-  - **Fiscal quarter:** `fiscal-quarter` (1-4) and `day-of-quarter` (1-90)
-    - `[year]-Q[fiscal-quarter]-[day-of-quarter]`
-
-The quarters are named `A-D` as in Asimov's [World Season Calendar](https://calendars.wikia.org/wiki/World_Season_Calendar) (`A-0`, `B-0`, `C-0`, `D-0`, and `X-0`).
+The quarters could be named `A-D`, as in Asimov's [World Season Calendar](https://calendars.wikia.org/wiki/World_Season_Calendar), and `X` for the transition period (for example `A-0`, `B-0`, `C-0`, `D-0`, and `X-0`).
 
 ---
 
