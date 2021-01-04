@@ -53,7 +53,7 @@ The names "octant", "nonad", "triad" and "transition" are descriptive only, bett
 
 The midnight closest to the northward equinox of the Human Era epoch of the [Holocene Calendar](https://en.wikipedia.org/wiki/Holocene_calendar), 10001 BC, maintaining a reference to the currently dominant [Anno Domini](https://en.wikipedia.org/wiki/Anno_Domini) (12020 HE = 2020 AD).
 
-### Proposed notation for the 8 month variant
+### Proposed notation
 
 - The **formatting** of dates should be universal
 - The **numbering** of units must be universal
