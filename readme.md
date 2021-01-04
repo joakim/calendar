@@ -52,7 +52,7 @@ Calendars based on the Jalali calendar are the most accurate in relation to the 
 - Align with the [zodiac](https://en.wikipedia.org/wiki/Zodiac), due to the (lunisolar) [precession of the ecliptic](https://en.wikipedia.org/wiki/Axial_precession)
 - Introduce time scales — it's just a calendar
 
-However, features like these may be applied, just as they are applied to existing calendars. For example, the unbroken chain of 7-day weeks may be used just like in the Gregorian calendar, with weekdays retaining their traditional names and cultural/religious significance, if so is desired. As long as the calendar's underlying structure remains the same.
+However, features like these may be applied, just as they are applied to existing calendars. For example, the unbroken chain of 7-day weeks may be used just like in the Gregorian calendar, with weekdays retaining their traditional names and cultural/religious significance, if so is desired.
 
 ---
 
