@@ -31,8 +31,8 @@ The calendar is not tied to any culture/religion, except inevitably to that of t
 
 ### Disadvantages
 
-- **No simple leap year rule** — a tradeoff for astronomical accuracy over time
 - **Unfamiliarity** — new divisions, units and beginning of year
+- **No simple leap year rule** — a tradeoff for astronomical accuracy over time
 - **Yet another calendar** — made by some commoner named Joakim (who is not the pope)
 
 ### Accuracy
