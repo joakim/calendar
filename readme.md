@@ -2,7 +2,7 @@
 
 A [perennial](https://en.wikipedia.org/wiki/Perennial_calendar) [solar calendar](https://en.wikipedia.org/wiki/Solar_calendar) based on astronomical observations.
 
-The [calendar year](https://en.wikipedia.org/wiki/Calendar_year) consists of 360 calendar days + 5 [intercalary](https://en.wikipedia.org/wiki/Intercalation_(timekeeping)#Solar_calendars) days, divided into 4 equal quarters of 1 intercalary day + 90 calendar days. The remaining days of the year are intercalary transition days between years.
+The [calendar year](https://en.wikipedia.org/wiki/Calendar_year) consists of 360 calendar days + 5 [intercalary](https://en.wikipedia.org/wiki/Intercalation_(timekeeping)#Solar_calendars) days, divided into 4 equal quarters of 1 intercalary day + 90 calendar days. The remaining 1 or 2 days of the year are intercalary transition days between years.
 
 The 360 calendar days may be divided into 8 months of 45 days, as well as 40 weeks of 9 days (3 x 3, based on [tridays](https://www.hermetic.ch/cal_stud/ltc/ltc.htm)). Alternatively, one can use the more traditional 12 months of 30 days and a 7-day week. A zero-indexed variant based on the 9-day week is also possible. See [Variants](https://calendars.wikia.org/wiki/A_Calendar_for_Time_to_Come#Variants) for more.
 
