@@ -77,3 +77,4 @@ However, features like these may be applied, just as they are applied to existin
 - [Universal Celestial Calendar](https://www.universalcelestialcalendar.com/)
 - [The Earth Epic Calendar](https://earthepiccalendar.com/current-calendar/)
 - [Albertan Calendar](https://calendars.wikia.org/wiki/Albertan_calendar)
+- [Astronomical Season Calendar](https://calendars.fandom.com/wiki/Astronomical_Season_Calendar)
