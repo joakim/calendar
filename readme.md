@@ -18,7 +18,7 @@ For more details, see [Definition](definition.md) and [Questions and Answers](fa
 
 - **[Accurate](#accuracy)** — follows the true solar year
 - **Balanced** – division of the year into equal parts
-- **Dynamic** — grouping of days into 3 × 3 is a [powerful concept](https://www.hermetic.ch/cal_stud/ltc/ltc.htm#advantages)
+- **Dynamic** — allows for different [variants](https://calendars.fandom.com/wiki/A_Calendar_for_Time_to_Come#Variants) and uses
 - **Predictable** — has a consistent, perennial structure
 - **Simple** — easy to learn and uncomplicated to use
 
