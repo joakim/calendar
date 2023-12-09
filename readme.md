@@ -37,9 +37,15 @@ The calendar is not tied to any culture/religion, except inevitably to that of t
 
 ### Accuracy
 
-Observation-based calendars embrace the non-uniform motion of the Earth around the Sun, as well as the short-term perturbations. The future can never be predicted with absolute certainty, due to the dynamic nature of the universe. The only way to know with absolute certainty the length of the year is through observation.
+Observation-based calendars embrace the non-uniform motion of the Earth around the Sun, as well as any short-term perturbations. The future can never be predicted with absolute certainty, due to the dynamic nature of the universe. The only way to know with absolute certainty the length of the year is through observation.
 
-Calendars based on the Jalali calendar are the most accurate in relation to the true solar year. Today's astronomical knowledge and computing power enable us to predict with very high precision the instant of the northward equinox. The exact instant can now be measured to an accuracy of better than 1 millisecond ([Heydari-Malayeri, 2004](http://aramis.obspm.fr/~heydari/divers/ir-cal-eng.html)).
+Calendars based on the Jalali calendar, like this one, are the most accurate in relation to the true solar year. Today's astronomical knowledge and computing power enable us to predict with very high precision the instant of the northward equinox. Even still, observational measurements are necessary to check the correspondence between the mathematical model and reality. The exact instant can now be measured to an accuracy of better than 1 millisecond ([Heydari-Malayeri, 2004](http://aramis.obspm.fr/~heydari/divers/ir-cal-eng.html)).
+
+However, as Heydari-Malayeri writes,
+
+> The precise knowledge of the year duration is one thing, using it practically to construct a calendar system is another, because the calendar year of 365 entire days is not equal to the real solar year. A good calendar is therefore the one whose intercalation system yields a year length the nearest possible to the reality.
+
+My aim has been to achieve this in a simple and useful way.
 
 ### What it is not
 
