@@ -10,7 +10,7 @@ The calendar year begins at the midnight closest to the instant of the [northwar
 
 The calendar's proposed [epoch](https://en.wikipedia.org/wiki/Epoch) is the beginning of the [Holocene Era](https://en.wikipedia.org/wiki/Holocene_calendar), [year zero](https://en.wikipedia.org/wiki/Year_zero) being 10001 BC.
 
-Essentially, it's the [Persian calendar](https://en.wikipedia.org/wiki/Iranian_calendars) with a different epoch, a different meridian and a different division of the year. The calendar and its astronomical basis is deeply indebted to Persian astronomer [Omar Khayyam](https://en.wikipedia.org/wiki/Omar_Khayyam)'s 11th century reform of the [Jalali calendar](https://en.wikipedia.org/wiki/Jalali_calendar).
+Essentially, it's the [Persian calendar](https://en.wikipedia.org/wiki/Iranian_calendars) with a different epoch, a different meridian and a different division of the year. The calendar and its astronomical basis is deeply indebted to Persian astronomer, mathematician, philosopher and poet [Omar Khayyam](https://en.wikipedia.org/wiki/Omar_Khayyam)'s 11th century reform of the [Jalali calendar](https://en.wikipedia.org/wiki/Jalali_calendar).
 
 For more details, see [Definition](definition.md) and [Questions and Answers](faq.md).
 
