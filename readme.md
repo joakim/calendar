@@ -8,7 +8,7 @@ The 360 calendar days may be divided into 8 months of 45 days, as well as 40 wee
 
 The calendar year begins at the midnight closest to the instant of the [northward equinox](https://en.wikipedia.org/wiki/Northward_equinox) as measured from the [prime meridian](https://en.wikipedia.org/wiki/Prime_meridian). Consequently, if the northward equinox falls before [solar noon](https://en.wikipedia.org/wiki/Noon#Solar_noon) on a particular day, then that day is the first day of the year. If the northward equinox occurs after solar noon, the following day begins the calendar year.
 
-The calendar's proposed [epoch](https://en.wikipedia.org/wiki/Epoch) is the beginning of the [human era](https://en.wikipedia.org/wiki/Holocene_calendar) (10001 BC).
+The calendar's proposed [epoch](https://en.wikipedia.org/wiki/Epoch) is the beginning of the [Holocene Era](https://en.wikipedia.org/wiki/Holocene_calendar), [year zero](https://en.wikipedia.org/wiki/Year_zero) being 10001 BC.
 
 Essentially, it's the [Persian calendar](https://en.wikipedia.org/wiki/Iranian_calendars) with a different epoch, a different meridian and a different division of the year. The calendar and its astronomical basis is deeply indebted to Persian astronomer [Omar Khayyam](https://en.wikipedia.org/wiki/Omar_Khayyam)'s 11th century reform of the [Jalali calendar](https://en.wikipedia.org/wiki/Jalali_calendar).
 
