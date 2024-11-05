@@ -45,6 +45,8 @@ However, as Heydari-Malayeri writes,
 
 > The precise knowledge of the year duration is one thing, using it practically to construct a calendar system is another, because the calendar year of 365 entire days is not equal to the real solar year. A good calendar is therefore the one whose intercalation system yields a year length the nearest possible to the reality.
 
+This was achieved by Omar Khayyam, and by extension, this calendar.
+
 ### What it is not
 
 #### This calendar does not attempt to:
